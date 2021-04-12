@@ -2,17 +2,17 @@
   "ValidMaintainers": {
     "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
     "GitHubHandles": [
-      "",
+      "kuppurasu360",
       "",
       ""
     ]
   },
   "CommunityInfo": {
-    "Name": "{Your community name}",
-    "Url": "https://yourcommunity.something/",
+    "Name": "TechMeet360",
+    "Url": "https://www.meetup.com/techmeet360/",
     "Logo": {
       "Description": "Community logo is a .png file 500X500px named {foldername}.png.",
-      "File": "_template.png"
+      "File": "techmeet360.png"
     }
   }
 }
