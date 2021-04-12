@@ -1,0 +1,17 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "",
+      ""
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Tech Spark",
+    "Url": "https://globalazure.net/",
+    "Logo": {
+      "Description": "Community logo is a .png file named {foldername}.png.",
+      "File": "TechSpark.png"
+    }
+  }
+}
