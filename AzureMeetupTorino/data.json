@@ -8,7 +8,7 @@
   },
   "CommunityInfo": {
     "Name": "Azure Meetup Torino",
-    "Url": "https://globalazure.net/",
+    "Url": "https://www.meetup.com/Meetup-Microsoft-Azure-Torino/",
     "Logo": {
       "Description": "Community logo is a .png file named {foldername}.png.",
       "File": "AzureMeetupTorino.png"

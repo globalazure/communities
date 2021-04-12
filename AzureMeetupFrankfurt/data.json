@@ -8,7 +8,7 @@
   },
   "CommunityInfo": {
     "Name": "Azure Meetup Frankfurt",
-    "Url": "https://globalazure.net/",
+    "Url": "https://www.meetup.com/Azure-Meetup-Frankfurt/",
     "Logo": {
       "Description": "Community logo is a .png file named {foldername}.png.",
       "File": "AzureMeetupFrankfurt.png"

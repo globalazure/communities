@@ -7,8 +7,8 @@
     ]
   },
   "CommunityInfo": {
-    "Name": "Azurebrains",
-    "Url": "https://globalazure.net/",
+    "Name": "AzureBrains",
+    "Url": "https://azurebrains.com/",
     "Logo": {
       "Description": "Community logo is a .png file named {foldername}.png.",
       "File": "azurebrains.png"

@@ -7,8 +7,8 @@
     ]
   },
   "CommunityInfo": {
-    "Name": "Tenerife Dev",
-    "Url": "https://globalazure.net/",
+    "Name": "TenerifeDev",
+    "Url": "https://www.meetup.com/tenerifedev/",
     "Logo": {
       "Description": "Community logo is a .png file named {foldername}.png.",
       "File": "tenerifedev.png"

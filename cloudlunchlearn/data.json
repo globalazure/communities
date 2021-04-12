@@ -7,8 +7,8 @@
     ]
   },
   "CommunityInfo": {
-    "Name": "Cloud Lunch & Learn",
-    "Url": "https://globalazure.net/",
+    "Name": "Cloud Lunch and Learn",
+    "Url": "https://www.cloudlunchlearn.com/",
     "Logo": {
       "Description": "Community logo is a .png file named {foldername}.png.",
       "File": "cloudlunchlearn.png"
