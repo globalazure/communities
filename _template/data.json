@@ -9,10 +9,15 @@
   },
   "CommunityInfo": {
     "Name": "{Your community name}",
+    "Country": "{Your community country}",
     "Url": "https://yourcommunity.something/",
     "Logo": {
       "Description": "Community logo is a .png file 500X500px named {foldername}.png.",
       "File": "_template.png"
+    },
+    "Location": {
+        "Latitude": 47.6457554,
+        "Longitude": -122.1299952
     }
   }
 }
