@@ -9,6 +9,10 @@
   "CommunityInfo": {
     "Name": "AZUG - Azure User Group Belgium",
     "Country": "Belgium",
-    "Url": "https://www.azug.be/"
+    "Url": "https://www.azug.be/",
+    "Location": {
+        "Latitude": 50.5005859,
+        "Longitude": 3.9057422
+    }
   }
 }
