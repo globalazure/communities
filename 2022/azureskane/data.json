@@ -1,0 +1,23 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "noopman",
+      "jahlen",
+      "BMichaelJ"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Azure Skåne",
+    "Country": "Sweden",
+    "Url": "https://www.meetup.com/Azure-Skane/",
+    "Location": {
+      "Latitude": 55.61126802005422,
+      "Longitude": 13.00184398064394
+    },
+    "Logo": {
+      "Description": "Community logo is a .png file named {foldername}.png.",
+      "File": "azureskane.png"
+    }
+  }
+}
