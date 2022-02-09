@@ -1,6 +1,6 @@
 # Azure Skåne
 
-[![Azure Skåne logo](./azureskane_small.png "Join Azure Skåne here")](https://www.meetup.com/Azure-Skane/)
+[![Azure Skåne logo](azureskane_small.png "Join Azure Skåne here")](https://www.meetup.com/Azure-Skane/)
 
 Our community operates in the south of Sweden, based out of Malmö. We strive to run monthly meetups, and to invite interesting speakers with exciting Azure topics. We are set up to live stream and you can visit our events to view them live and socialize with the other members.
 
@@ -14,4 +14,4 @@ If you have any questions, feedback or thoughts, please reach out to the communi
 
 We arrange all our meetup events at the venue of [Foo Café](https://foocafe.org/)!
 
-[![Foo Café](./foocafe.png "Foo Café")](https://foocafe.org/)
+[![Foo Café](foocafe.png "Foo Café")](https://foocafe.org/)
