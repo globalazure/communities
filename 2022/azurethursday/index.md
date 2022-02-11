@@ -1,5 +1,3 @@
-# Azure Thursday
-
 [![Azure Thursday logo](logo-azure-thursday.png "Azure Thursday website")](https://www.azurethursday.com)
 
 This is a group for all developers, consultants, architects and IT professionals who want to dive into for them unknown topics related to Azure. Azure Thursday are happening every first Thursday of the month and the format will be different every evening. From hand-on workshops to technical talks.
