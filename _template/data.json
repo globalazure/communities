@@ -11,14 +11,18 @@
     "Name": "{Your community name}",
     "Country": "{Your community country}",
     "Url": "https://yourcommunity.something/",
-    "SessionizeId": "{Your sessionize event Id}"
+    "SessionizeApiId": "{Your sessionize event Id}",
     "Logo": {
       "Description": "Community logo is a .png file 500X500px named {foldername}.png.",
       "File": "_template.png"
     },
-    "Location": {
+    "Locations": [
+      {
+        "Name": "{Name of the location}",
+        "Address": "{Optional address of the location}",
         "Latitude": 47.6457554,
         "Longitude": -122.1299952
-    }
+      }
+    ]
   }
 }
