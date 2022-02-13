@@ -11,7 +11,7 @@
     "Name": "Global Azure Spain",
     "Country": "Spain",
     "Url": "https://globalazure.es",
-    "SessionizeId": "el9ib88o",
+    "SessionizeApiId": "el9ib88o",
     "Logo": {
       "Description": "Community logo is a .png file 500X500px named {foldername}.png.",
       "File": "GlobalAzure2022LiveFromSpain-250.png"
