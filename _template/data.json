@@ -11,7 +11,7 @@
     "Name": "{Your community name}",
     "Country": "{Your community country}",
     "Url": "https://yourcommunity.something/",
-    "SessionizeId": "{Your sessionize event Id}"
+    "SessionizeId": "{Your sessionize event Id}",
     "Logo": {
       "Description": "Community logo is a .png file 500X500px named {foldername}.png.",
       "File": "_template.png"
