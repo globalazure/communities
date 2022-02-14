@@ -1,6 +1,6 @@
 # Cloudgen Verona
 
-Visit our website at https://cloudgen.it/
+Visit our website at https://cloudgen.it
 
 ![Cloudgen Verona](Logo-CloudGen.png)
 
