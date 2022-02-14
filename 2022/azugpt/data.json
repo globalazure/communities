@@ -1,0 +1,28 @@
+{
+    "ValidMaintainers": {
+      "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+      "GitHubHandles": [
+        "tiagocostapt",
+        "pmsousa",
+        "vraposo",
+        "sandroasp"
+      ]
+    },
+    "CommunityInfo": {
+      "Name": "Azure User Group Portugal",
+      "Country": "Portugal",
+      "Url": "https://www.globalazure.pt",
+      "SessionizeApiId": "",
+      "Logo": {
+        "Description": "Community logo is a .png file 500X500px named {foldername}.png.",
+        "File": "azugpt.png"
+      },
+      "Locations": [
+        {
+          "Name": "Lisbon",
+          "Latitude": 38.761020,
+          "Longitude":-9.094664
+        }
+      ]
+    }
+  }
