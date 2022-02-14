@@ -3,8 +3,8 @@
 [![Azure User Group Portugal](AZUGPT.png "Visit us here!")](https://www.globalazure.pt/)
 
 Global Azure Portugal is a community event organized by the Azure User Group Portugal.
-All around the world user groups and communities want to learn about Azure and Cloud Computing!
-On May 7, 2022, all communities will come together once again for the Global Azure event! The Azure User Group Portugal brings a one day deep dive class event on Microsoft Azure. Join us online under the social hashtag #GlobalAzurePT and #GlobalAzure!
+All around the world user groups and communities are sharing knowledge to professionals that want to learn more about Microsoft Azure and Cloud Computing!
+On May 7, 2022, we will come together to once again bring the Global Azure event! The Azure User Group Portugal brings a one day world-class event on Microsoft Azure. Join us online and don't forget to use the social hashtags #GlobalAzurePT and #GlobalAzure!
 
 
 The [Call for Speakers is open](https://sessionize.com/global-azure-portugal-2022/). Selection will happen on an ongoing basis. Don't wait to the last day to submit your sessions!!! 
