@@ -1,0 +1,23 @@
+{
+    "ValidMaintainers": {
+      "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+      "GitHubHandles": [
+        "andreatosato",
+        "CloudGenVR",
+        "MarcoZama"
+      ]
+    },
+    "CommunityInfo": {
+      "Name": "Cloudge Verona",
+      "Country": "Italy",
+      "Url": "https://cloudgen.it/",
+      "Location": {
+          "Latitude": 45.2619,
+          "Longitude": 10.5934
+      }
+    },
+    "GlobalAzureSessions": {
+      "Description": "Connect your community and your #GlobalAzure sessions by linking your Sessionize event to your community page.",
+      "SessionizeId": "7455"
+    }
+  }
