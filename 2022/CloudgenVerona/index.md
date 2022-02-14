@@ -2,7 +2,7 @@
 
 Visit our website at https://cloudgen.it/
 
-![Cloudgen Verona](./2022/CloudgenVerona/Logo-CloudGen.png)
+![Cloudgen Verona](Logo-CloudGen.png)
 
 If you have any questions, feedback or thoughts, please reach out to the community organizers:
 
