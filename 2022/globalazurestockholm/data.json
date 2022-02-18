@@ -8,7 +8,7 @@
     ]
   },
   "CommunityInfo": {
-    "Name": "Global Azure stockholm",
+    "Name": "Global Azure Stockholm",
     "Country": "Sweden",
     "Url": "",
     "SessionizeApiId": "cfwyvlxd",
@@ -18,7 +18,7 @@
     },
     "Locations": [
       {
-        "Name": "stockholm",
+        "Name": "Stockholm",
         "Latitude": 59.334240,
         "Longitude": 18.067720
       }
