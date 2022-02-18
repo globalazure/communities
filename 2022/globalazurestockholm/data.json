@@ -1,0 +1,27 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "bjompen",
+      "SimonWahlin",
+      "StefanIvemo"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Global Azure stockholm",
+    "Country": "Sweden",
+    "Url": "",
+    "SessionizeApiId": "cfwyvlxd",
+    "Logo": {
+      "Description": "Community logo is a .png file 500X500px named {foldername}.png.",
+      "File": "gasthlm.png"
+    },
+    "Locations": [
+      {
+        "Name": "stockholm",
+        "Latitude": 59.334240,
+        "Longitude": 18.067720
+      }
+    ]
+  }
+}
