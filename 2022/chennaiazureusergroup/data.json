@@ -1,0 +1,26 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "anbumani27",
+      "karthikeyanVK"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Chennai Azure User Group",
+    "Country": "India",
+    "Url": "https://www.meetup.com/Chennai-Microsoft-Azure-User-Group/",
+    "Logo": {
+      "Description": "Community logo is a .png file 500X500px named azchennai.png.",
+      "File": "azchennai.png"
+    },
+    "Locations": [
+      {
+        "Name": "Chennai",
+        "Address": "PRO",
+        "Latitude": 13.03931080371539,
+        "Longitude": 80.26061877608299
+      }
+    ]
+  }
+}
