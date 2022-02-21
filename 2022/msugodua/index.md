@@ -1,6 +1,6 @@
 # Microsoft .NET/Azure User group Odesa, Ukraine. #msugodua
 
-[![msugodua logo](msugodua.jpeg "Join Microsoft User group on meetup")](https://www.meetup.com/microsoft-net-azure-user-group-odesa/)
+[![msugodua logo](msugodua_logo.png "Join Microsoft User group on meetup")](https://www.meetup.com/microsoft-net-azure-user-group-odesa/)
 
 Hi, and welcome.
 
