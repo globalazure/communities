@@ -1,0 +1,28 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "indcoder",
+      "",
+      ""
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Global Azure Bootcamp 2022 Mumbai",
+    "Country": "India",
+    "Url": "https://hackmum.in/",
+    "SessionizeApiId": "zs3vr4b6",
+    "Logo": {
+      "Description": "Community logo of the Mumbai edition of the Global Azure Bootcamp 2022",
+      "File": "Global_Azure_Bootcamp_2022_Mumbai_Logo.png"
+    },
+    "Locations": [
+      {
+        "Name": "Mumbai",
+        "Address": "{Optional address of the location}",
+        "Latitude": 19.0760,
+        "Longitude": 72.8777
+      }
+    ]
+  }
+}
