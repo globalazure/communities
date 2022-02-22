@@ -1,0 +1,26 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "staslebedenko",
+      "alextumanoff"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Microsoft .NET/Azure User group Odesa",
+    "Country": "Ukraine",
+    "Url": "https://www.meetup.com/microsoft-net-azure-user-group-odesa/",
+    "Location": {
+      "Latitude": 46.487007,
+      "Longitude": 30.727824
+    },
+    "Logo": {
+      "Description": "Community logo is a .png file named {foldername}.png.",
+      "File": "msugodua_logo.png"
+    }
+  },
+  "GlobalAzureSessions": {
+    "Description": "Connect your community and your #GlobalAzure sessions by linking your Sessionize event to your community page.",
+    "SessionizeId": ""
+  }
+}
