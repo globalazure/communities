@@ -1,0 +1,28 @@
+{
+    "ValidMaintainers": {
+      "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+      "GitHubHandles": [
+        "abbhakan",
+        "",
+        ""
+      ]
+    },
+    "CommunityInfo": {
+      "Name": "Global Azure Norway",
+      "Country": "Norway",
+      "Url": "https://www.globalazurenorway.com",
+      "SessionizeApiId": "5kdtfan9",
+      "Logo": {
+        "Description": "Community logo is a .png file 500X500px named {foldername}.png.",
+        "File": "globalazurenorway.png"
+      },
+      "Locations": [
+        {
+          "Name": "Oslo",        
+          "Latitude": 59.911491,
+          "Longitude": 10.757933
+        }
+      ]
+    }
+  }
+  
