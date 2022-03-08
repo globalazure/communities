@@ -1,0 +1,26 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "bramvdklinkenberg",
+      "paulustm"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Azure Kubernetes User Group Amsterdam",
+    "Country": "The Netherlands",
+    "Url": "https://www.meetup.com/azure-kubernetes-service/",
+    "SessionizeApiId": "",
+    "Logo": {
+      "Description": "Community logo is a .png file 500X500px named {foldername}.png.",
+      "File": "k8saks.png"
+    },
+    "Locations": [
+      {
+        "Name": "Amsterdam",
+        "Latitude": 52.370216,
+        "Longitude": 4.895168
+      }
+    ]
+  }
+}
