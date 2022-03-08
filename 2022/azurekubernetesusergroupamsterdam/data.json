@@ -12,7 +12,7 @@
     "Url": "https://www.meetup.com/azure-kubernetes-service/",
     "SessionizeApiId": "",
     "Logo": {
-      "Description": "Community logo is a .png file 500X500px named {foldername}.png.",
+      "Description": "Community logo is a .png file 500X250px named {foldername}.png.",
       "File": "k8saks.png"
     },
     "Locations": [
