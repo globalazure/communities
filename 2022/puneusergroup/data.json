@@ -8,10 +8,9 @@
     ]
   },
   "CommunityInfo": {
-    "Name": "Global Azure Bootcamp 2022 Pune",
+    "Name": "PUG - Global Azure Bootcamp 2022 Pune",
     "Country": "India",
     "Url": "https://www.meetup.com/puneusergroup/",
-    "SessionizeApiId": "",
     "Logo": {
       "Description": "Community logo of the Pune edition of the Global Azure Bootcamp 2022",
       "File": "Global_Azure_Bootcamp_2022_Pune_Logo.png"
