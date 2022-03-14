@@ -1,0 +1,26 @@
+{
+    "ValidMaintainers": {
+      "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+      "GitHubHandles": [
+        "Frank-Geisler",
+        "DiHo78"
+      ]
+    },
+    "CommunityInfo": {
+      "Name": "PASS Deutschland Regionalgruppe Münsterland",
+      "Country": "Germany",
+      "Url": "https://www.linkedin.com/groups/9029385/",
+      "SessionizeApiId": "5ketwz8n",
+      "Logo": {
+        "Description": "Community logo is a .png file 833X609px named {foldername}.png.",
+        "File": "passrgmuensterland.png"
+      },
+      "Locations": [
+        {
+          "Name": "Lüdinghausen",
+          "Latitude": 51.736761,
+          "Longitude":7.414688
+        }
+      ]
+    }
+  }
