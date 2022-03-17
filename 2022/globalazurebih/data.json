@@ -1,0 +1,25 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "mustafatoroman"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "MS Community BiH",
+    "Country": "Bosnia and Herzegovina",
+    "Url": "https://www.meetup.com/MS-Community-BiH/events/270102902/",
+    "SessionizeApiId": "",
+    "Logo": {
+      "Description": "Community logo is a .png file 500X250px named {foldername}.png.",
+      "File": "mscommunitybih.png"
+    },
+    "Locations": [
+      {
+        "Name": "Sarajevo",
+        "Latitude": 43.85500088331018,
+        "Longitude": 18.393721739753232
+      }
+    ]
+  }
+}
