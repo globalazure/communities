@@ -1,0 +1,21 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "daverendon"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "AzInsider - Azure Latam Community,
+    "Country": "Mexico",
+    "Url": "https://azinsider.net",
+    "Location": {
+        "Latitude": 19.432608,
+        "Longitude": -99.133209
+    }
+  },
+  "GlobalAzureSessions": {
+    "Description": "Connect your community and your #GlobalAzure sessions by linking your Sessionize event to your community page.",
+    "SessionizeId": ""
+  }
+}
