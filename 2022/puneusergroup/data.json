@@ -1,0 +1,27 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "mayur-tendulkar",
+      "VikramPendse",
+      "omkarkhair"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "PUG - Global Azure Bootcamp 2022 Pune",
+    "Country": "India",
+    "Url": "https://www.meetup.com/puneusergroup/",
+    "Logo": {
+      "Description": "Community logo of the Pune edition of the Global Azure Bootcamp 2022",
+      "File": "puneusergroup.png"
+    },
+    "Locations": [
+      {
+        "Name": "Pune",
+        "Address": "TO BE DECIDED",
+        "Latitude": 18.534359,
+        "Longitude": 73.8295779
+      }
+    ]
+  }
+}
