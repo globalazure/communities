@@ -1,0 +1,26 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "Kirti Prajapati"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "M365 Ahmedabad User Group",
+    "Country": "INDIA",
+    "Url": "https://www.meetup.com/m365ahmedabad/",
+    "SessionizeApiId": "{Your sessionize event Id}",
+    "Logo": {
+      "Description": "Community logo is a .png file 500X500px named {foldername}.png.",
+      "File": "m365ahmedabadusergroup.png"
+    },
+    "Locations": [
+      {
+        "Name": "Ahmedabad",
+        "Address": "Ahmedabad",
+        "Latitude": 23.022505,
+        "Longitude": 72.571365
+      }
+    ]
+  }
+}
