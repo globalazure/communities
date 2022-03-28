@@ -1,0 +1,27 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "bjompen",
+      "SimonWahlin",
+      "StefanIvemo"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Global Azure Casablanca",
+    "Country": "Morocco",
+    "Url": "",
+    "SessionizeApiId": "",
+    "Logo": {
+      "Description": "Community logo is a .png file 500X500px named {foldername}.png.",
+      "File": "xxx.png"
+    },
+    "Locations": [
+      {
+        "Name": "Casablanca",
+        "Latitude": 33.35235896
+        "Longitude": 7.36139284
+      }
+    ]
+  }
+}
