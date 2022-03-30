@@ -13,3 +13,11 @@ Event to take place at Microsoft Reactor, Regeringsgatan 59 Stockholm, on the 5t
 Tickets / seat reservation available at [Eventbrite](https://www.eventbrite.com/e/global-azure-bootcamp-2022-stockholm-tickets-269595927677)
 
 ![Global Azure Stockholm](./gasthlm.png)
+
+## Organizers
+
+If you have any questions, feedback or thoughts, please reach out to the community organizers:
+
+[Björn Sundling - @Bjompen](https://twitter.com/Bjompen)
+[Simon Wåhlin - @SimonWahlin](https://twitter.com/SimonWahlin)
+[Stefan Ivemo - @StefanIvemo](https://twitter.com/StefanIvemo)
