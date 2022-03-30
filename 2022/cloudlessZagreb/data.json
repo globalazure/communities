@@ -1,0 +1,21 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "CuljakIvan"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Cloudless Zagreb",
+    "Country": "Croatia",
+    "Url": "https://www.meetup.com/Cloudless-Zagreb/",
+    "Locations": [
+      {
+        "Name": "Caffe bar Green Night Club",
+        "Address": "Brezovička cesta 98, 10251, Brezovica",
+        "Latitude": 45.7249871,
+        "Longitude": 15.9055182
+      }
+    ]
+  }
+}
