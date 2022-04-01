@@ -1,0 +1,24 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": ["nikneem"]
+  },
+  "CommunityInfo": {
+    "Name": "DotNetFriday",
+    "Country": "The Netherlands",
+    "Url": "https://dotnetfriday.nl/",
+    "SessionizeApiId": "dotnet-friday",
+    "Logo": {
+      "Description": "Community logo is a .png file 500X500px named {foldername}.png.",
+      "File": "dotnetfriday.png"
+    },
+    "Locations": [
+      {
+        "Name": "Nieuwegein",
+        "Address": "Nevelgaarde 20F, 3436 ZZ Nieuwegein",
+        "Latitude": 52.0269901,
+        "Longitude": 5.0652477
+      }
+    ]
+  }
+}
