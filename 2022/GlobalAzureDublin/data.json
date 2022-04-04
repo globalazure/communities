@@ -13,8 +13,8 @@
     "SessionizeApiId": "",
     "Locations": [{
       "Name": "Dublin",
-      "Latitude": 53.34699840501074,
-      "Longitude": 26.512767970625
+      "Latitude": 53.3244431,
+      "Longitude": -6.3857869
     }],
     "Logo": {
       "Description": "Community logo is a .png file named {foldername}.png.",
