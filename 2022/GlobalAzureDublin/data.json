@@ -14,7 +14,7 @@
     "Locations": [{
       "Name": "Dublin",
       "Latitude": 53.34699840501074,
-      "Longitude": 26512767970625
+      "Longitude": 26.512767970625
     }],
     "Logo": {
       "Description": "Community logo is a .png file named {foldername}.png.",
