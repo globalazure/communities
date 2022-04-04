@@ -1,0 +1,24 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "m365academy"
+    
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Dublin Cloud User Group",
+    "Country": "Ireland",
+    "Url": "https://www.meetup.com/Dublin-Cloud-User-Group/",
+    "SessionizeApiId": "",
+    "Locations": [{
+      "Name": "Dublin",
+      "Latitude": 53.34699840501074,
+      "Longitude": 26512767970625
+    }],
+    "Logo": {
+      "Description": "Community logo is a .png file named {foldername}.png.",
+      "File": "GlobalAzureDublin.png"
+    }
+  }
+}
