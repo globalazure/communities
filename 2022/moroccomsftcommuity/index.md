@@ -3,6 +3,5 @@ This event is interesting for students and IT professionals inspired by Microsof
 
 Event to take place at Technopark Casablanca, Bd Dammam, Casablanca, Marokko, on the 7th May, as an offline event.
 
-CFP open right now, visit our Sessionize page
-
+CFP will open soon here http://moroccomicrosoftcommunity.com/event/
 Tickets / seat reservation available at Eventbrite
