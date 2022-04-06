@@ -1,0 +1,27 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "mertyeter",
+      "",
+      ""
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "MSHOWTO",
+    "Country": "Turkey",
+    "Url": "https://www.mshowto.org/",
+    "SessionizeApiId": "{Your sessionize event Id}",
+    "Logo": {
+      "Description": "mshowto logo",
+      "File": "mshowto.png"
+    },
+    "Locations": [
+      {
+        "Name": "Istanbul",
+        "Latitude": 41.013000,
+        "Longitude": 28.974800
+      }
+    ]
+  }
+}
