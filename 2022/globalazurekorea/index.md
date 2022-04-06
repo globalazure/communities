@@ -1,13 +1,9 @@
-# Global Azure BiH by MSCommunity BiH
+# Global Azure Vurtial 2022 on Korea!
 
-[![MS Community BiH](mscommunitybih.png "Visit us here!")](https://www.meetup.com/MS-Community-BiH/events/270102902/)
+[![슬기로운 Azure생활](globalazurevirtualkorea.png "Visit us here!")](https://www.facebook.com/groups/azurouslife)
 
-Global Azure BiH is a community event organized by the MS Community BiH UG.
-All around the world user groups and communities are sharing knowledge to professionals that want to learn more about Microsoft Azure and Cloud Computing!
-On May 6, 2022, we will come together to once again bring the Global Azure event! And yes, we are doing it in-person this year! Don't forget to use the social hashtag #GlobalAzure!
-
-
-If you have any questions, feedback or thoughts, please reach out to the community organizers at:
-* http://www.mscommunity.ba/
+Global Azure Virtual 2022 on Korea is a community event hosted by the Korea Azure User Group and 슬기로운 Azure생활.
+User groups and communities around the world are sharing their knowledge with experts who want to learn more about Microsoft Azure and cloud computing!
+On May 7, 2022, the Global Azure event will be held! And yes, we will be doing it ourselves this year! Don't forget to use the social hashtag #GlobalAzure!
 
 More details soon!
