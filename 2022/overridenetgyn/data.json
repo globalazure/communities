@@ -1,0 +1,28 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "marcelojpaiva",
+      "",
+      ""
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Override .Net Community",
+    "Country": "Brazil",
+    "Url": "https://www.meetup.com/pt-BR/Override/",
+    "SessionizeApiId": "{Your sessionize event Id}",
+    "Logo": {
+      "Description": "Community logo is a .png file 500X500px named {foldername}.png.",
+      "File": "logooverride500.png"
+    },
+    "Locations": [
+      {
+        "Name": "Goiânia-GO",
+        "Address": "HUBCerrado - Rua do Parque, 361, Qd 145, Lt. Area 2 - Jardim Atlantico",
+        "Latitude": -16.680519,
+        "Longitude": -49.256130
+      }
+    ]
+  }
+}
