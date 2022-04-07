@@ -1,0 +1,24 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "kimsejun2000"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Global Azure Virtual 2022 in Korea",
+    "Country": "Korea",
+    "Url": "https://www.facebook.com/groups/azurouslife",
+    "Logo": {
+      "Description": "Community logo is a .png file 500X250px named {foldername}.png.",
+      "File": "globalazurevirtualkorea.png"
+    },
+    "Locations": [
+      {
+        "Name": "Seoul",
+        "Latitude": 37.566536,
+        "Longitude": 126.977966
+      }
+    ]
+  }
+}
