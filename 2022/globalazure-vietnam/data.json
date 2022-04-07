@@ -10,7 +10,7 @@
   "CommunityInfo": {
     "Name": "DEV Cafe",
     "Country": "Vietnam",
-    "Url": "https://www.facebook.com/devcafevn",
+    "Url": "https://www.facebook.com/events/857272329003616",
     "SessionizeApiId": "{Your sessionize event Id}",
     "Logo": {
       "Description": "Community logo is a .png file 500X500px named {foldername}.png.",
