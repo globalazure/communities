@@ -1,0 +1,27 @@
+{
+    "ValidMaintainers": {
+      "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+      "GitHubHandles": [
+        "paulooma",
+        "davidokeyode",
+        "raphgm"
+      ]
+    },
+    "CommunityInfo": {
+      "Name": "Nigeria Azure Community",
+      "Country": "Nigeria",
+      "Url": "https://azurenigeria.community",
+      "SessionizeApiId": "",
+      "Logo": {
+        "Description": "Community logo is a .png file 500X500px named {foldername}.png.",
+        "File": "AzureNigeriaLogo.png"
+      },
+      "Locations": [
+        {
+          "Name": "Lagos",
+          "Latitude": 6.524379,
+          "Longitude":3.379206
+        }
+      ]
+    }
+  }
