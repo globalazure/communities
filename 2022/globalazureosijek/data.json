@@ -1,0 +1,26 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "tlulic"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "ITPro User Group Croatia",
+    "Country": "Croatia",
+    "Url": "https://www.meetup.com/IT-Pro-User-Group-Zagreb/",
+    "SessionizeApiId": "",
+    "Logo": {
+      "Description": "Community logo is a .png file 500X500px named {foldername}.png.",
+      "File": "globalazureosijek.png"
+    },	
+    "Locations": [
+      {
+        "Name": "Osijek",
+        "Address": "Tvrđa",
+        "Latitude": 45.56201747987533,
+        "Longitude": 18.6970379
+      }
+    ]
+  }
+} 
