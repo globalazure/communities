@@ -1,0 +1,27 @@
+{
+    "ValidMaintainers": {
+      "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+      "GitHubHandles": [
+        "eskandari"
+      ]
+    },
+    "CommunityInfo": {
+      "Name": "Azure Toronto",
+      "Country": "Canada",
+      "Url": "https://www.meetup.com/metrotorontoug/events/283781596/",
+      "SessionizeApiId": "67mp1zuj",
+      "Logo": {
+        "Description": "Global Azure bootcamp 2022 Toronto Edition",
+        "File": "azureToronto.png"
+      },
+      "Locations": [
+        {
+          "Name": "Juno College of Technology (formerly HackerYou)",
+          "Address": "483 Queen St W 3rd floor, Toronto, ON M5V 2A9",
+          "Latitude": 43.64853928323736,
+          "Longitude": -79.39783916236391
+        }
+      ]
+    }
+  }
+  
