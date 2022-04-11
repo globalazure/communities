@@ -1,6 +1,6 @@
 # Global Azure Bootcamp 2022 - Valuemomentum
 
-[![Global Azure Bootcamp 2022 - Valuemomentum(ValuemomentumGlobalAzureBootcamp.png "Global Azure Bootcamp 2022 - Valuemomentum Registration")](https://www.valuemomentum.com/)
+[(ValuemomentumGlobalAzureBootcamp.png "Global Azure Bootcamp 2022 - Valuemomentum Registration")](https://www.valuemomentum.com/)
 
 Following the success of organizing three previous Global Azure Bootcamps, ValueMomentum is happy to bring you the fifth edition, the Global Azure 2022.
 This event is free and open to everyone across the world who is interested in learning about MS Azure-based technology stack.
