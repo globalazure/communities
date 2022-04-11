@@ -7,7 +7,7 @@ If you have any questions, feedback or thoughts, please reach out to the communi
 - Piotr Rogala [Azure MVP](https://mvp.microsoft.com/en-us/PublicProfile/5002690?fullName=Piotr%20Rogala)
 - Michał Jankowski [Azure & AI MVP](https://mvp.microsoft.com/en-us/PublicProfile/5003223?fullName=Michal%20Jankowski)
 
-# Event descriptrion
+# Event description
 
 ## PL:
 Podczas sesji chcemy podzielić się z uczestnikami doświadczeniem i obserwacjami z naszych ostatnich projektów. Sesja Ask Me Anything jest skierowana do wszystkich uczestników spotkania, aby zabrać głos w sprawie Microsoft Azure.
