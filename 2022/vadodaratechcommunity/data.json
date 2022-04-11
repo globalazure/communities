@@ -1,0 +1,26 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "Sanket Pandya"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Vadodara Tech Community",
+    "Country": "India",
+    "Url": "https://www.meetup.com/vadodara-tech-community/",
+    "SessionizeApiId": "{Your sessionize event Id}",
+    "Logo": {
+      "Description": "Community logo is a .png file 500X500px named {foldername}.png.",
+      "File": "VTC.png"
+    },
+    "Locations": [
+      {
+        "Name": "Vadodara",
+        "Address": "Vadodara",
+        "Latitude": 22.3072,
+        "Longitude": 73.1812
+      }
+    ]
+  }
+}
