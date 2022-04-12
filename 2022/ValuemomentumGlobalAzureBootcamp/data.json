@@ -11,8 +11,8 @@
     "Name": "Global Azure 2022 - Organized by ValueMomentum",
     "Country": "India",
     "Url": "https://yourcommunity.something/",
-    "SessionizeApiId": "{Your sessionize event Id}",
-    "Description_SessionizeApiId": "If you have configured your Sessionize correctly then browsing to this url (replacing {Your sessionize event Id} with your event sessionize id) will return valid json: https://sessionize.com/api/v2/{Your sessionize event Id}/view/Sessions",
+    "SessionizeApiId": "pjo1g7rl",
+    "Description_SessionizeApiId": "https://sessionize.com/api/v2/pjo1g7rl/view/Sessions",
     "Logo": {
       "Description": "Valuemomentum Bootcamp logo",
       "File": "ValuemomentumGlobalAzureBootcamp.png"
