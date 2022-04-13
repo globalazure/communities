@@ -2,15 +2,13 @@
   "ValidMaintainers": {
     "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
     "GitHubHandles": [
-      "VMhimanshu",
-      "",
-      ""
+      "VMhimanshu"
     ]
   },
   "CommunityInfo": {
     "Name": "Global Azure 2022 - Organized by ValueMomentum",
     "Country": "India",
-    "Url": "https://yourcommunity.something/",
+    "Url": "https://globalazure.valuemomentum.com/",
     "SessionizeApiId": "pjo1g7rl",
     "Description_SessionizeApiId": "https://sessionize.com/api/v2/pjo1g7rl/view/Sessions",
     "Logo": {
