@@ -1,0 +1,28 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "osanam-giordane",
+      "tanure",
+      "Code-FC"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "CodeFC - SQLBH",
+    "Country": "Brazil",
+    "Url": "https://www.codefc.com.br/",
+    "SessionizeApiId": "owxr6f4t",
+    "Logo": {
+      "Description": "Global Azure Bootcamp BH",
+      "File": "GABBH.png"
+    },
+    "Locations": [
+      {
+        "Name": "Belo Horizonte-MG",
+        "Address": "Santa Luzia - State of Minas Gerais",
+        "Latitude": -19.7265066,
+        "Longitude": -43.9210246
+      }
+    ]
+  }
+}
