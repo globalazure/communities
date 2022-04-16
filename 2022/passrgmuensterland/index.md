@@ -1,4 +1,4 @@
-# Global Azure Portugal by Azure User Group Portugal
+# Global Azure 2022 Lüdinghausen Edition by PASS Deutschland Regionalgruppe Münsterland
 
 [![PASS Deutschland Regionalgruppe Münsterland](passrgmuensterland.png "Visit us here!")](https://www.sqlpass.de/)
 
