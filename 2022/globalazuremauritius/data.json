@@ -1,7 +1,10 @@
 {
   "ValidMaintainers": {
-    "Description": "GitHub User: Irfaan Ali Subratty ",
-    "GitHubHandles": "isubratty"
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users",
+    "GitHubHandles":  [
+      "isubratty",
+      "ouweshs28"
+    ]
   },
   "CommunityInfo": {
     "Name": "Global Azure Mauritius",
