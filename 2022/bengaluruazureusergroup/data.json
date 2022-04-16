@@ -1,0 +1,27 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "svswaminathan",
+      "ChendrayanV",
+      "ilyas-it83"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Bengaluru Azure User Group",
+    "Country": "India",
+    "Url": "https://www.meetup.com/Microsoft-Azure-Bangalore/",
+    "Logo": {
+      "Description": "Bengaluru Azure User Group",
+      "File": "aug-blr.png"
+    },
+    "Locations": [
+      {
+        "Name": "Bengaluru",
+        "Address": "Microsoft India Pvt. Ltd",
+        "Latitude": 12.972442,
+        "Longitude": 77.580643
+      }
+    ]
+  }
+}
