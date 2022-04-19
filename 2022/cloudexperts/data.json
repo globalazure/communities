@@ -2,7 +2,7 @@
   "ValidMaintainers": {
     "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
     "GitHubHandles": [
-      "",
+      "frankchambillo",
       "",
       ""
     ]
@@ -10,7 +10,7 @@
   "CommunityInfo": {
     "Name": "Cloud Experts",
     "Country": "Perú",
-    "Url": "https://www.cloudexperts.pe/",
+    "Url": "https://www.meetup.com/es/cloudexpertsc",
     "SessionizeApiId": "{Your sessionize event Id}",
     "Logo": {
       "Description": "Community logo is a .png file 500X500px named {foldername}.png.",
