@@ -11,6 +11,7 @@
     "Name": "Global Azure Chile",
     "Country": "Chile",
     "Url": "https://www.meetup.com/es-ES/cloud-smart/",
+    "SessionizeApiId": "lydxi99h",
     "Logo": {
       "Description": "Community logo for Global Azure Chile.",
       "File": "globalazurechile.png"
