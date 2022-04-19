@@ -1,6 +1,5 @@
 # Cloud Experts
 
-Visita: https://www.cloudexperts.pe
 Únete a nuestros eventos en: https://www.meetup.com/es/cloudexpertsc
 
 
