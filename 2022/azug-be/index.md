@@ -14,7 +14,7 @@ Visit our website at [www.azug.be][1].
 
 ## Links
 
-[main website][1]  
+[Main website][1]  
 [CloudBrew][2]  
 [Facebook][3]  
 [LinkedIn][4]  
