@@ -11,7 +11,8 @@
     "Country": "Finland",
     "Url": "https://www.azureandfriends.com/",
     "Location": {
-        "Name": "Helsinki",
+        "Name": "Polarsquad Helsinki Office",
+        "Address": "Kaisaniemenkatu 1 BA, 00100 Helsinki, 4th floor",
         "Latitude": 60.1708099,
         "Longitude": 24.9456410
     }
