@@ -1,0 +1,23 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "tapanila",
+      "masahigo"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Azure and Friends",
+    "Country": "Finland",
+    "Url": "https://www.azureandfriends.com/",
+    "Location": {
+        "Name": "Helsinki",
+        "Latitude": 60.1708099,
+        "Longitude": 24.9456410
+    }
+  },
+  "Logo": {
+    "Description": "Azure & Friends logo",
+    "File": "azureandfriends.png"
+  }
+}
