@@ -1,7 +1,6 @@
 # Global Azure Bootcamp BH | CodeFC & SQLBH
 
-Visit our websites at <br>https://youtube.com/codefc <br>
-                     https://www.meetup.com/pt-BR/SQL-BH/
+Visit our websites at https://youtube.com/codefc and https://www.meetup.com/pt-BR/SQL-BH/
 
 
 If you have any questions, feedback or thoughts, please reach out to the community organizers:
