@@ -1,6 +1,6 @@
-# AZUG
+# AZURE USER GROUP FRANCE 
 
-![azugfr logo][7]
+![azugfr logo][3]
 
 ## What
 
@@ -14,8 +14,12 @@ Exchange of technical advice and feedback on Microsoft's cloud computing platfor
 
 ## Links
 
-[Main website][1]  
+[Main website][0]
+[Linkedin][1] 
 [Twitter][2]  
 
 [0]: https://www.meetup.com/fr-FR/AZUG-FR/
-[1]: https://twitter.com/azugfr
+[1]: https://linkedin.com/groups/8315615/
+[2]: https://twitter.com/azugfr
+[3]: azugfr.png
+
