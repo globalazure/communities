@@ -1,0 +1,27 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "RogalaPiotr",
+      "MichalJankowskii"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "AzurePoland",
+    "Country": "Poland",
+    "Url": "https://azurepoland.pl",
+    "SessionizeApiId": "322137",
+    "Logo": {
+      "Description": "AzurePoland logo",
+      "File": "AzupePoland-logo500x500.png"
+    },
+    "Locations": [
+      {
+        "Name": "Microsoft Teams",
+        "Address": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_OGI2N2QxYWMtMmM5ZC00ODM5LWEwYjktNWY2NjdjMDdmOTc0%40thread.v2/0?context=%7b%22Tid%22%3a%222b8e5d41-0d8b-438d-a74d-1f330360f93e%22%2c%22Oid%22%3a%228af072cd-521a-4a25-95ae-6dfe8ed7132e%22%7d",
+        "Latitude": 51.1079,
+        "Longitude": 17.0385
+      }
+    ]
+  }
+}

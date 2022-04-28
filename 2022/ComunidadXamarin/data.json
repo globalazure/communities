@@ -1,0 +1,27 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "icebeam7"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Comunidad Xamarin en Español",
+    "Country": "Mexico",
+    "Url": "https://www.facebook.com/groups/xamarindiplomadoitc",
+    "SessionizeApiId": "2a622ick",
+    "Description_SessionizeApiId": "If you have configured your Sessionize correctly then browsing to this url (replacing {Your sessionize event Id} with your event sessionize id) will return valid json: https://sessionize.com/api/v2/2a622ick/view/Sessions",
+    "Logo": {
+      "Description": "Logo Comunidad Xamarin.png",
+      "File": "LogoComunidadXamarin.png"
+    },
+    "Locations": [
+      {
+        "Name": "Celaya",
+        "Address": "Antonio García Cubas 1200, Alfredo Vazquez Bonfil, 38010 Celaya, Gto., México",
+        "Latitude": 20.540775, 
+        "Longitude": -100.812986
+      }
+    ]
+  }
+}

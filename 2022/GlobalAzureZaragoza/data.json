@@ -1,0 +1,27 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "m365academy"
+    
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "CloudRiders.ES Zaragoza",
+    "Country": "Spain",
+    "Url": "https://cloudriders.es/global-azure-2022-zaragoza",
+    "SessionizeApiId": "",
+    "Locations": [{
+      "Name": "Zaragoza",
+      "Latitude": 41.623654317336694,
+      "Longitude": -0.9066093942662585
+    }],
+    "Logo": {
+      "Description": "Community logo is a .png file named {foldername}.png.",
+      "File": "GlobalAzureZaragoza.png"
+    }
+  }
+}
+
+
+ 

@@ -1,0 +1,26 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users",
+    "GitHubHandles":  [
+      "isubratty",
+      "ouweshs28"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Global Azure Mauritius",
+    "Country": "Mauritius",
+    "Url": "https://www.facebook.com/GlobalAzureMauritius",
+    "SessionizeApiId": "NULL",
+    "Logo": {
+      "Description": "The logo of the Global Azure Mauritius",
+      "File": "GlobalAzureMauritius.png"
+    },
+    "Locations": [
+      {
+        "Name": "Mauritius",
+        "Latitude": -20.2806879,
+        "Longitude": 57.3952985
+      }
+    ]
+  }
+}

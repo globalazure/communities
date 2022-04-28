@@ -1,0 +1,28 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "nescampos",
+      "pcofre",
+      ""
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Global Azure Chile",
+    "Country": "Chile",
+    "Url": "https://www.meetup.com/es-ES/cloud-smart/",
+    "SessionizeApiId": "zpds1r2m",
+    "Logo": {
+      "Description": "Community logo for Global Azure Chile.",
+      "File": "globalazurechile.png"
+    },
+    "Locations": [
+      {
+        "Name": "Santiago de Chile",
+        "Address":"TO BE DECIDED",
+        "Latitude": -33.45694,
+        "Longitude": -70.64827
+      }
+    ]
+  }
+}

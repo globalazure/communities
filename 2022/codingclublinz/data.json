@@ -2,27 +2,26 @@
   "ValidMaintainers": {
     "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
     "GitHubHandles": [
-      "",
-      "",
-      ""
+      "rstropek",
+      "karin112358"
     ]
   },
   "CommunityInfo": {
-    "Name": "{Your community name}",
-    "Country": "{Your community country}",
-    "Url": "https://yourcommunity.something/",
-    "SessionizeApiId": "{Your sessionize event Id}",
+    "Name": "Coding Club Linz",
+    "Country": "Austria",
+    "Url": "https://hopin.com/events/global-azure-austria-2022",
+    "SessionizeApiId": "86585aqt",
     "Description_SessionizeApiId": "If you have configured your Sessionize correctly then browsing to this url (replacing {Your sessionize event Id} with your event sessionize id) will return valid json: https://sessionize.com/api/v2/{Your sessionize event Id}/view/Sessions",
     "Logo": {
       "Description": "Community logo is a .png file 500X500px named {foldername}.png.",
-      "File": "_template.png"
+      "File": "codingclublinz.png"
     },
     "Locations": [
       {
-        "Name": "{Name of the location}",
-        "Address": "{Optional address of the location}",
-        "Latitude": 47.6457554,
-        "Longitude": -122.1299952
+        "Name": "Linz, Austria",
+        "Address": "Online, virtual event",
+        "Latitude": 48.306938,
+        "Longitude": 14.285830
       }
     ]
   }
