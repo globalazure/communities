@@ -1,0 +1,26 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "christiansc96",
+      "maureenbarahona"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Global Azure Honduras",
+    "Country": "Honduras",
+    "Url": "https://bit.ly/GlobalAzureHn,",
+    "SessionizeApiId": "41f084bf",
+    "Logo": {
+      "Description": "Community logo is a .png file 500X500px named {foldername}.png.",
+      "File": "globalazurehn.png"
+    },
+    "Locations": [
+      {
+        "Name": "San Pedro Sula",
+        "Latitude": 15.506606799577634,
+        "Longitude": -88.02492525236563
+      }
+    ]
+  }
+}
