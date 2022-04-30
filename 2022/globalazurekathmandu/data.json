@@ -1,0 +1,27 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "PradeepKandel",
+      "JayRajMishra"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Nepal Cloud Professionals",
+    "Country": "Nepal",
+    "Url": "https://www.meetup.com/NepalCloudPro/events/282877595/",
+    "SessionizeApiId": "{Your sessionize event Id}",
+    "Logo": {
+      "Description": "Community logo is a .png file 500X500px named {foldername}.png.",
+      "File": "nepalcloudprofessionals-logo.png"
+    },
+    "Locations": [
+      {
+        "Name": "Impact Hub Kathmandu",
+        "Address": "Pulchowk, Lalitpur",
+        "Latitude": 27.6785154,
+        "Longitude": 85.3150164
+      }
+    ]
+  }
+}
