@@ -2,7 +2,7 @@
 
 Not so much a regular community as a couple of people who wanted in on the Global Azure fun!
 
-Event to take place at Microsoft Reactor, Regeringsgatan 59 Stockholm, on the 5th of May, on-prem and live streamed at [Microsoft Reactor YouTube channel](https://www.youtube.com/c/MicrosoftReactor1/featured).
+Event to take place at Microsoft Reactor, Regeringsgatan 59 Stockholm, on the 5th of May, on-prem and live streamed at [Microsoft Reactor YouTube channel](https://aka.ms/globalazursthlm).
 
 ## Tickets
 
