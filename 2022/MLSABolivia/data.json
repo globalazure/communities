@@ -9,7 +9,7 @@
     "Name": "Microsoft Learn Student Ambassadors Bolivia",
     "Country": "Bolivia",
     "Url": "https://bit.ly/MLSABolivia",
-    "SessionizeApiId": "2a622ick",
+    "SessionizeApiId": "",
     "Description_SessionizeApiId": "If you have configured your Sessionize correctly then browsing to this url (replacing {Your sessionize event Id} with your event sessionize id) will return valid json: https://sessionize.com/api/v2/2a622ick/view/Sessions",
     "Logo": {
       "Description": "Bolivia.jpeg",
