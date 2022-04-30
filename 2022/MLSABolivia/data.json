@@ -1,0 +1,27 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "icebeam7"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Microsoft Learn Student Ambassadors Bolivia",
+    "Country": "Bolivia",
+    "Url": "https://bit.ly/MLSABolivia",
+    "SessionizeApiId": "",
+    "Description_SessionizeApiId": "If you have configured your Sessionize correctly then browsing to this url (replacing {Your sessionize event Id} with your event sessionize id) will return valid json: https://sessionize.com/api/v2/2a622ick/view/Sessions",
+    "Logo": {
+      "Description": "Bolivia.jpeg",
+      "File": "Bolivia.jpeg"
+    },
+    "Locations": [
+      {
+        "Name": "La Paz",
+        "Address": "Av. Villazón N° 1995, Plaza del Bicentenario - Zona Central. La Paz, Bolivia",
+        "Latitude": -16.50469556310352, 
+        "Longitude": -68.1298831370823
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "ronnytn"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Microsoft UCuenca Community",
+    "Country": "Ecuador",
+    "Url": "https://microsoft.ucuenca.edu.ec/",
+    "Logo": {
+      "Description": "Community logo",
+      "File": "logo.png"
+    },
+    "Locations": [
+      {
+        "Name": "Cuenca",
+        "Address": "Cuenca",
+        "Latitude": -2.900129,
+        "Longitude": -79.005898
+      }
+    ]
+  }
+}
