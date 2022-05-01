@@ -1,0 +1,25 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "esdanielgomez"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Virtual DEV Show",
+    "Country": "Ecuador",
+    "Url": "https://virtualdevshow.com/",
+    "Logo": {
+      "Description": "Virtual DEV Show logo",
+      "File": "logo.png"
+    },
+    "Locations": [
+      {
+        "Name": "Virtual DEV Show",
+        "Address": "Cuenca",
+        "Latitude": -2.9148174,
+        "Longitude": -79.0201101
+      }
+    ]
+  }
+}
