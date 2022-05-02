@@ -1,0 +1,26 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "rakoellner", "PfiffiKrebs","christianwaha"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "{Azure Meetup Cologne}",
+    "Country": "{Germany}",
+    "Url": "https://www.rakoellner.de/global-azure-cgn/",
+    "SessionizeApiId": "{xrmtfv0v}",
+    "Logo": {
+      "Description": "Community logo is a .png file 500X500px named {foldername}.png.",
+      "File": "_azurecgn-logo.png"
+    },
+    "Locations": [
+      {
+        "Name": "{FHDW Bergisch Gladbach and online}",
+        "Address": "{Hauptstr. 2, 51465 Bergisch Gladbach}",
+        "Latitude": 47.6457554,
+        "Longitude": -122.1299952
+      }
+    ]
+  }
+}
