@@ -1,0 +1,28 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "devjevnl",
+      "wesleycamargo"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "The Cloud Explorers",
+    "Country": "Netherlands",
+    "Url": "https://github.com/thecloudexplorers",
+    "SessionizeApiId": "",
+    "Description_SessionizeApiId": "If you have configured your Sessionize correctly then browsing to this url (replacing {Your sessionize event Id} with your event sessionize id) will return valid json: https://sessionize.com/api/v2/{Your sessionize event Id}/view/Sessions",
+    "Logo": {
+      "Description": "Global Azure 2022 - Netherlands - The Cloud Explorers",
+      "File": "thecloudexplorers.png"
+    },
+    "Locations": [
+      {
+        "Name": "EPAM Netherlands",
+        "Address": "Mercuriusplein 1, 2132 HA Hoofddorp",
+        "Latitude": 52.292950,
+        "Longitude": 4.697090
+      }
+    ]
+  }
+}
