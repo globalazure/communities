@@ -10,7 +10,7 @@
     "Name": "Nepal Cloud Professionals",
     "Country": "Nepal",
     "Url": "https://www.meetup.com/NepalCloudPro/events/282877595/",
-    "SessionizeApiId": "{Your sessionize event Id}",
+    "SessionizeApiId": "",
     "Logo": {
       "Description": "Community logo is a .png file 500X500px named {foldername}.png.",
       "File": "nepalcloudprofessionals-logo.png"
