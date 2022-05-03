@@ -1,0 +1,29 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "PhantipK",
+      "ponggun",
+      "dmakeroam"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Azure Community Thailand",
+    "Country": "Thailand",
+    "Url": "https://www.facebook.com/groups/AzureCommunityThailand",
+    "SessionizeApiId": "o094uqqg",
+    "Description_SessionizeApiId": "If you have configured your Sessionize correctly then browsing to this url (replacing {Your sessionize event Id} with your event sessionize id) will return valid json: https://sessionize.com/api/v2/{Your sessionize event Id}/view/Sessions",
+    "Logo": {
+      "Description": "Azure Community Thailand",
+      "File": "AzureCommunityThailand.png"
+    },
+    "Locations": [
+      {
+        "Name": "Microsoft Thailand",
+        "Address": "38th Fl., CRC Building, All Seasons Place",
+        "Latitude": 13.7388395,
+        "Longitude": 100.548085
+      }
+    ]
+  }
+}
