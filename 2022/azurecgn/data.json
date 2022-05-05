@@ -9,7 +9,7 @@
     "Name": "Azure Meetup Cologne",
     "Country": "Germany",
     "Url": "https://www.rakoellner.de/global-azure-cgn/",
-    "SessionizeApiId": "xrmtfv0v",
+    "SessionizeApiId": "",
     "Logo": {
       "Description": "Community logo is a .png file 500X500px named {foldername}.png.",
       "File": "_azurecgn-logo.png"
