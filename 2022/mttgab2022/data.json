@@ -1,0 +1,28 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "petender"  
+      
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Microsoft Technical Trainers",
+    "Country": "United States",
+    "Url": "https://esi.microsoft.com/",
+    "SessionizeApiId": "{v0ndopbd}",
+    "Description_SessionizeApiId": "If you have configured your Sessionize correctly then browsing to this url (replacing {Your sessionize event Id} with your event sessionize id) will return valid json: https://sessionize.com/api/v2/v0ndopbd/view/Sessions",
+    "Logo": {
+      "Description": "Community logo is a .png file 500X500px named {foldername}.png.",
+      "File": "_template.png"
+    },
+    "Locations": [
+      {
+        "Name": "Redmond",
+        "Address": "one microsoft way, redmond, wa 98052",
+        "Latitude": 47.67491,
+        "Longitude": -122.12399
+      }
+    ]
+  }
+}
