@@ -10,11 +10,11 @@
     "Name": "Microsoft Technical Trainers",
     "Country": "United States",
     "Url": "https://esi.microsoft.com/",
-    "SessionizeApiId": "{v0ndopbd}",
+    "SessionizeApiId": "v0ndopbd",
     "Description_SessionizeApiId": "If you have configured your Sessionize correctly then browsing to this url (replacing {Your sessionize event Id} with your event sessionize id) will return valid json: https://sessionize.com/api/v2/v0ndopbd/view/Sessions",
     "Logo": {
-      "Description": "Community logo is a .png file 500X500px named {foldername}.png.",
-      "File": "_template.png"
+      "Description": "MTT Team logo",
+      "File": "mttgab2022.png"
     },
     "Locations": [
       {
