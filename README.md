@@ -41,7 +41,7 @@ The rules for PR review are:
   * Contains valid json.
   * All the data.json fields are specified.
   * There are valid folder maintainers listed that map to real GitHub identities.
-  * The SessionizeApiId field follows the instruction provided on our blog [Sessionize integration setup for local event organizers for 2023 edition](https://blog.globalazure.net/Blog/Post/284/Sessionize-integration-setup-for-local-event-organizers-for-2023-edition).
+  * The SessionizeApiId field follows the instruction provided on our blog [Sessionize integration setup for local event organizers for 2023 edition](https://blog.globalazure.net/Blog/Post/301/Sessionize-integration-setup-for-local-event-organizers-for-2023-edition).
 * Image files:
   * Represent valid and non-offensive image content.
 
