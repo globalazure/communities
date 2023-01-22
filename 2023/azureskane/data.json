@@ -11,6 +11,7 @@
     "Country": "Sweden",
     "Url": "https://www.meetup.com/Azure-Skane/",
     "SessionizeApiId": "",
+    "SessionizeEventName": "",
     "Locations": [{
       "Name": "Malmö",
       "Latitude": 55.61126802005422,
