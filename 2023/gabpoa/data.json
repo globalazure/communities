@@ -1,0 +1,27 @@
+{
+    "ValidMaintainers": {
+      "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+      "GitHubHandles": [
+        "tiagocostapt",
+        "pmsousa"
+      ]
+    },
+    "CommunityInfo": {
+      "Name": "Global Azure POA",
+      "Country": "Brasil",
+      "Url": "http://gabpoa.azurewebsites.net/",
+      "SessionizeApiId": "",
+      "SessionizeEventName": "Global Azure Bootcamp - Porto Alegre",
+      "Locations": [
+        {
+          "Name": "Porto Alegre",
+          "Latitude": -29.996205262516572,
+          "Longitude":-51.20125468718969
+        }
+      ],
+      "Logo": {
+        "Description": "GAB POA Logo.",
+        "File": "gabpoa.png"
+      }
+    }
+  }
