@@ -12,14 +12,16 @@
     "Url": "https://www.meetup.com/Azure-Skane/",
     "SessionizeApiId": "",
     "SessionizeEventName": "",
-    "Locations": [{
-      "Name": "Malmö",
-      "Latitude": 55.61126802005422,
-      "Longitude": 13.00184398064394
-    }],
     "Logo": {
       "Description": "Azure Skåne",
       "File": "azureskane.png"
-    }
+    },
+    "Locations": [
+      {
+        "Name": "Malmö",
+        "Latitude": 55.61126802005422,
+        "Longitude": 13.00184398064394
+      }
+    ]
   }
 }
