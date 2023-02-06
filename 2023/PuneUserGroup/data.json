@@ -1,0 +1,27 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "omkarkhair",
+      "VikramPendse",
+      "mayur-tendulkar"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Pune User Group",
+    "Country": "India",
+    "Url": "https://www.meetup.com/puneusergroup/",
+    "Logo": {
+      "Description": "Pune User Group - Logo",
+      "File": "logo.png"
+    },
+    "Locations": [
+      {
+        "Name": "Rapid Circle, India",
+        "Address": "602 SR Iriz, Baner-Pashan Link Road, Pune - 411 022",
+        "Latitude": 18.551304,
+        "Longitude": 73.791286
+      }
+    ]
+  }
+}
