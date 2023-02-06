@@ -47,10 +47,14 @@ The rules for PR review are:
 
 Regards,  
 
-[@globalazure](https://twitter.com/globalazure)  
-[@davidjrh](https://twitter.com/davidjrh),
-[@iamalexmang](https://twitter.com/iamalexmang),
-[@noopman](https://github.com/noopman),
-@noopman
+[@globalazure Admins](https://twitter.com/globalazure):
 
-@borzenko_lena, @DataBytzAI, @davidjrh, @iamalexmang, @LuceCarter1, @noopman, @rikhepworth![image](https://user-images.githubusercontent.com/300622/216906990-5674a8e9-6558-43e4-b8fe-253bccb4b4fc.png)
+[Alex Mang](https://github.com/iamalexmang),
+Allen O'Neill
+[David Rodríguez](https://github.com/davidjrh),
+[Luce Carter](https://github.com/LuceCarter),
+[Magnus M&aring;rtensson](https://github.com/noopman),
+Olena Borzenko
+[Rik Hepworth](https://github.com/rikhepworth)
+
+@rikhepworth![image](https://user-images.githubusercontent.com/300622/216906990-5674a8e9-6558-43e4-b8fe-253bccb4b4fc.png)
