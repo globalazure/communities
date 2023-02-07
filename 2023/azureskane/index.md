@@ -12,7 +12,6 @@ If you have any questions, feedback or thoughts, please reach out to the communi
 * Magnus M&aring;rtensson [Azure MVP](https://mvp.microsoft.com/en-us/PublicProfile/4038183) & [Microsoft RD](https://rd.microsoft.com/en-us/magnus-martensson) [@noopman](https://twitter.com/noopman)
 * Michael Jonsson [@Michael_Jonsson](https://twitter.com/Michael_Jonsson)
 * Negar Shahbaz [@NegarShahbaz](https://twitter.com/NegarShahbaz)
- <vuksic.goran@gmail.com>
 
 We arrange our meetup events at:
 
