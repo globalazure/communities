@@ -1,6 +1,6 @@
 # Global Azure Bootcamp 2023 - Philippines
 
-[![Global Azure Bootcamp 2023 - Philippines](GlobalAzurePh.png "Global Azure Bootcamp 2023 - Philippines registration")](https://www.eventbrite.com/e/global-ai-bootcamp-philippines-2023-tickets-531771602177)
+[![Global Azure Bootcamp 2023 - Philippines](CloudExpertsGroup.png "Global Azure Bootcamp 2023 - Philippines registration")](https://www.eventbrite.com/e/global-ai-bootcamp-philippines-2023-tickets-531771602177)
 
 Join us 4 March 2023 for a FREE Online event to inspire, learn and deep dive into AI world and technologies.
 
