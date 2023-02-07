@@ -1,0 +1,28 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "rijwanansari",
+      "SatyaKarki"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Cloud Experts Group",
+    "Country": "Philippines",
+    "Url": "https://www.facebook.com/groups/CloudExpertsGroup",
+    "SessionizeApiId": "1qyb8j6r",
+    "SessionizeEventName": "https://sessionize.com/global-azure-philippines-2023/",
+    "Logo": {
+      "Description": "Global Azure Bootcamp Philippines 2023 is a community event organized by the Cloud Experts Group and .NET Girl jointly. Join us on 13 May 2023 for a FREE Online event to inspire, learn and deep dive into Azure and Cloud Computing.",
+      "File": "_template.png"
+    },
+    "Locations": [
+      {
+        "Name": "Manila, Philippines",
+        "Address": "Manila, Philippines",
+        "Latitude": 14.5995,
+        "Longitude": 120.9842
+      }
+    ]
+  }
+}
