@@ -1,5 +1,4 @@
-
-https://github.com/digomatos/communities/blob/main/2023/gabpoa/gabpoa.png
+![alt text](https://github.com/digomatos/communities/blob/main/2023/gabpoa/gabpoa.png)
 
 Global Azure Porto Alegre (GABPOA) is an event organized by the local community of MVPs from Porto Alegre and region.
 
