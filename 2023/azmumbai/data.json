@@ -11,9 +11,9 @@
     "Name": "Hackerspace Mumbai",
     "Country": "India",
     "Url": "https://hackmum.in/",
-    "SessionizeApiId": "{Your sessionize event Id}",
-    "Description_SessionizeApiId": "If you have configured your Sessionize correctly then browsing to this url (replacing {Your sessionize event Id} with your event sessionize id) will return valid json: https://sessionize.com/api/v2/{Your sessionize event Id}/view/Sessions",
-    "SessionizeEventName": "{Your sessionize event name (or complete URL to the public Sessionize C4P, i.e. https://sessionize.com/global-azure or just global-azure)}",
+    "SessionizeApiId": "ia6f6kc4",
+    "Description_SessionizeApiId": "https://sessionize.com/api/v2/ia6f6kc4/view/Sessions",
+    "SessionizeEventName": "https://sessionize.com/gab23mum/",
     "Logo": {
       "Description": "Global Azure Bootcamp & Hackerspace Mumbai logo with silhouette of Gateway of India in the background",
       "File": "GABMum2023.png"
@@ -21,7 +21,7 @@
     "Locations": [
       {
         "Name": "Mumbai",
-        "Address": "{Optional address of the location}",
+        "Address": "Microsoft Mumbai, 4th Floor, Windsor, CST Road, Kalina, Santacruz East, Mumbai, Maharashtra 400098, India ",
         "Latitude": 19.0760,
         "Longitude": 72.8777
       }
