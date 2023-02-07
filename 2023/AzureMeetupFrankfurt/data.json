@@ -1,0 +1,24 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [ "ddobric" ]
+  },
+  "CommunityInfo": {
+    "Name": "Azure Meetup Frankfurt",
+    "Country": "Germany",
+    "Url": "https://www.meetup.com/Azure-Meetup-Frankfurt/",
+    "SessionizeApiId": "pslfsnw6",
+    "Logo": {
+      "Description": "Azure Meetup Frankfurt",
+      "File": "azuremeetupfrankfurt.png"
+    },
+    "Locations": [
+      {
+        "Name": "Frankfurt am Main",
+        "Address": "Hanauer Landstrasse 204",
+        "Latitude": 50.11564385461615,
+        "Longitude": 8.724526798206675
+      }
+    ]
+  }
+}
