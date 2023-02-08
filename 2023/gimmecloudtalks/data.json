@@ -12,11 +12,11 @@
     "Country": "United States",
     "Url": "https://gimmecloudtalks.github.io",
     "SessionizeApiId": "99f6qao8",
-    "Description_SessionizeApiId": "If you have configured your Sessionize correctly then browsing to this url (replacing {Your sessionize event Id} with your event sessionize id) will return valid json: https://sessionize.com/api/v2/{Your sessionize event Id}/view/Sessions",
-    "SessionizeEventName": "{Your sessionize event name (or complete URL to the public Sessionize C4P, i.e. https://sessionize.com/global-azure or just global-azure)}",
+    "Description_SessionizeApiId": "https://sessionize.com/api/v2/99f6qao8/view/Sessions",
+    "SessionizeEventName": "https://sessionize.com/gimme-cloud-talks-global-azure-2023/",
     "Logo": {
       "Description": "Community logo is a .png file 500X500px named {foldername}.png.",
-      "File": "_template.png"
+      "File": "gimmecloudtalks-globalazure.png"
     },
     "Locations": [
       {
