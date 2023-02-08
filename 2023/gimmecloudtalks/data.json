@@ -1,0 +1,29 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "dwnatwick",
+      "gimmecloudtalks"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Gimme Cloud Talks",
+    "Country": "United States",
+    "Url": "https://gimmecloudtalks.github.io",
+    "SessionizeApiId": "99f6qao8",
+    "Description_SessionizeApiId": "https://sessionize.com/api/v2/99f6qao8/view/Sessions",
+    "SessionizeEventName": "https://sessionize.com/gimme-cloud-talks-global-azure-2023/",
+    "Logo": {
+      "Description": "Gimme Cloud Talks is a global community based in the United States that hosts speaking sessions by the community for the community on cloud topics.",
+      "File": "gimmecloudtalks-globalazure.png"
+    },
+    "Locations": [
+      {
+        "Name": "Gimme Cloud Talks - US",
+        "Address": "Michigan, Illinois, North Carolina, Iowa",
+        "Latitude": 42.73194,
+        "Longitude": -84.55225
+      }
+    ]
+  }
+}
