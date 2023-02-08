@@ -11,7 +11,7 @@
     "Name": "Gimme Cloud Talks",
     "Country": "United States",
     "Url": "https://gimmecloudtalks.github.io",
-    "SessionizeApiId": "{Your sessionize event Id}",
+    "SessionizeApiId": "99f6qao8",
     "Description_SessionizeApiId": "If you have configured your Sessionize correctly then browsing to this url (replacing {Your sessionize event Id} with your event sessionize id) will return valid json: https://sessionize.com/api/v2/{Your sessionize event Id}/view/Sessions",
     "SessionizeEventName": "{Your sessionize event name (or complete URL to the public Sessionize C4P, i.e. https://sessionize.com/global-azure or just global-azure)}",
     "Logo": {
@@ -20,10 +20,10 @@
     },
     "Locations": [
       {
-        "Name": "{Name of the location}",
-        "Address": "{Optional address of the location}",
-        "Latitude": 47.6457554,
-        "Longitude": -122.1299952
+        "Name": "Gimme Cloud Talks - US",
+        "Address": "Michigan, Illinois, North Carolina, Iowa",
+        "Latitude": 42.73194,
+        "Longitude": -84.55225
       }
     ]
   }
