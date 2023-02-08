@@ -15,7 +15,7 @@
     "Description_SessionizeApiId": "https://sessionize.com/api/v2/99f6qao8/view/Sessions",
     "SessionizeEventName": "https://sessionize.com/gimme-cloud-talks-global-azure-2023/",
     "Logo": {
-      "Description": "Community logo is a .png file 500X500px named {foldername}.png.",
+      "Description": "Gimme Cloud Talks is a global community based in the United States that hosts speaking sessions by the community for the community on cloud topics.",
       "File": "gimmecloudtalks-globalazure.png"
     },
     "Locations": [
