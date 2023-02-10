@@ -1,0 +1,25 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "bilalshahzad139"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "LearningInUrdu User Group",
+    "Country": "Pakistan",
+    "Url": "https://learninginurdu.pk/",
+    "Logo": {
+      "Description": "Community logo",
+      "File": "logo.jpg"
+    },
+    "Locations": [
+      {
+        "Name": "Lahore",
+        "Address": "Lahore",
+        "Latitude": 31.5204,
+        "Longitude": 74.3587
+      }
+    ]
+  }
+}
