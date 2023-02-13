@@ -8,22 +8,22 @@
     ]
   },
   "CommunityInfo": {
-    "Name": "{Your community name}",
-    "Country": "{Your community country}",
-    "Url": "https://yourcommunity.something/",
+    "Name": "Azure Vancouver (VanTUG+)",
+    "Country": "Canada",
+    "Url": "http://vantug.com/",
     "SessionizeApiId": "{Your sessionize event Id}",
     "Description_SessionizeApiId": "If you have configured your Sessionize correctly then browsing to this url (replacing {Your sessionize event Id} with your event sessionize id) will return valid json: https://sessionize.com/api/v2/{Your sessionize event Id}/view/Sessions",
     "SessionizeEventName": "{Your sessionize event name (or complete URL to the public Sessionize C4P, i.e. https://sessionize.com/global-azure or just global-azure)}",
     "Logo": {
       "Description": "Community logo is a .png file 500X500px named {foldername}.png.",
-      "File": "_template.png"
+      "File": "VanTUG_Azure.png"
     },
     "Locations": [
       {
-        "Name": "{Name of the location}",
+        "Name": "Vancouver Downtown",
         "Address": "{Optional address of the location}",
-        "Latitude": 47.6457554,
-        "Longitude": -122.1299952
+        "Latitude": 49.2802089,
+        "Longitude": -123.1265343
       }
     ]
   }
