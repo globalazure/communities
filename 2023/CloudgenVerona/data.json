@@ -1,0 +1,27 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "andreatosato",
+      "CloudGenVR",
+      "MarcoZama"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Cloudgen Verona",
+    "Country": "Italy",
+    "Url": "https://cloudgen.it/",
+    "SessionizeApiId": "u4xtzlzt",
+    "Logo": {
+      "Description": "Community logo is a .png file 500X500px named {foldername}.png.",
+      "File": "Logo-Cloudgen.png"
+    },
+    "Locations": [
+        {
+          "Name": "Verona",
+          "Latitude": 45.2619,
+          "Longitude": 10.5934
+      }
+    ]
+  }
+}
