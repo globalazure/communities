@@ -10,7 +10,7 @@
     "Country": "Singapore",
     "Url": "https://www.meetup.com/en-AU/mssgug/events/291424203",
     "SessionizeApiId": "{Your sessionize event Id}",
-    "Description_SessionizeApiId": "https://sessionize.com/api/v2/10616/view/Sessions",
+    "Description_SessionizeApiId": "https://sessionize.com/api/v2/o4z5vjpg/view/Sessions",
     "SessionizeEventName": "https://sessionize.com/global-azure-bootcamp-singapore-2023/",
     "Logo": {
       "Description": "Azure Singapore Community Logo",
@@ -19,7 +19,7 @@
     "Locations": [
       {
         "Name": "Global Azure Bootcamp Singapore",
-        "Address": "{Optional address of the location}",
+        "Address": "TBC",
         "Latitude": 1.352083,
         "Longitude": 103.819839
       }
