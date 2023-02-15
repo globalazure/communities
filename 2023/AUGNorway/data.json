@@ -1,0 +1,37 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "janvidarelven",
+      "ehrnst",
+      "anderseide"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Azure user group Norway",
+    "Country": "Norway",
+    "Url": "https://azureusergroup.no/",
+    "SessionizeApiId": "wnbhqmfe",
+    "Description_SessionizeApiId": "If you have configured your Sessionize correctly then browsing to this url (replacing {Your sessionize event Id} with your event sessionize id) will return valid json: https://sessionize.com/api/v2/{Your sessionize event Id}/view/Sessions",
+    "SessionizeEventName": "azure-user-group-norway",
+    "Logo": {
+      "Description": "Community logo is a .png file 500X500px named {foldername}.png.",
+      "File": "AUGNorwayLogo_500x500px.png"
+    },
+    "Locations": [
+      {
+        "Name": "Sarpsborg",
+        "Address": "Kalnesveien 5, 1712 Grålum",
+        "Latitude": 59.298630,
+        "Longitude": 11.059930
+      },
+      {
+        "Name": "Kristiansand",
+        "Address": "Tordenskjolds Gate 9, 4612 Kristiansand",
+        "Latitude": 58.147530,
+        "Longitude": 7.988470
+      }
+      
+    ]
+  }
+}
