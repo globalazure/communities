@@ -11,7 +11,7 @@
     "Name": "{MCTNAIJA-TechUSERGROUP}",
     "Country": "{Nigeria}",
     "Url": "https://www.meetup.com/mctnaija-techusergroup/events/291725859/",
-    "SessionizeApiId": "{Your sessionize event Id}",
+    "SessionizeApiId": "b6aeutr4",
     "Description_SessionizeApiId": "If you have configured your Sessionize correctly then browsing to this url (replacing {Your sessionize event Id} with your event sessionize id) will return valid json: https://sessionize.com/api/v2/{Your sessionize event Id}/view/Sessions",
     "SessionizeEventName": "https://sessionize.com/global-azure-2023-grassroot-by-fulcrum/",
     "Logo": {
