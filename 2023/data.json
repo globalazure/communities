@@ -1,24 +1,25 @@
 {
   "ValidMaintainers": {
-    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
-    "GitHubHandles": [
-      "nkuppurasu"
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users",
+    "GitHubHandles":  [
+      "isubratty",
+      "ouweshs28"
     ]
   },
   "CommunityInfo": {
-    "Name": "Microsoft DEV Geeks",
-    "Country": "India",
-    "Url": "https://www.meetup.com/msdevgeeks/",
+    "Name": "Global Azure Mauritius",
+    "Country": "Mauritius",
+    "Url": "https://www.facebook.com/GlobalAzureMauritius",
+    "SessionizeApiId": "NULL",
     "Logo": {
-      "Description": "Community logo is a .png file 500X500px named msdevgeeks.png.",
-      "File": "msdevgeeks.png"
+      "Description": "The logo of the Global Azure Mauritius",
+      "File": "GlobalAzureMauritius.png"
     },
     "Locations": [
       {
-        "Name": "Salem",
-        "Address": "TBA",
-        "Latitude": 11.662779703606654,
-        "Longitude": 78.14583938648576
+        "Name": "Mauritius",
+        "Latitude": -20.2806879,
+        "Longitude": 57.3952985
       }
     ]
   }

@@ -1,10 +1,12 @@
-# Microsoft DEV Geeks
+We are back with the second edition of the Global Azure that we will be hosting in Mauritius !
 
-Visit our website at https://www.meetup.com/msdevgeeks/
-
-![msdevgeeks](https://www.techmeet360.com/wp-content/uploads/2017/07/techmeet360-logo.png)
+Join us on the 13th May to discover the numerous sessions we have planned for you ;)
 
 If you have any questions, feedback or thoughts, please reach out to the community organizers:
 
-* Alagunila Meganathan [Microsoft MVP] (https://mvp.microsoft.com/en-us/PublicProfile/5002657) [@alagunilam](https://twitter.com/alagunilam)
-* Kuppurasu Nagaraj [Azure MVP] (https://mvp.microsoft.com/en-us/PublicProfile/5001934) [@kuppurasu360](https://twitter.com/kuppurasu360)
+    isubratty@studentambassadors.com
+    ouweshseeroo@studentambassadors.com
+
+    Other contact details available on facebook @GlobalAzureMauritius
+
+    More details soon!
