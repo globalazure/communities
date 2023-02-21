@@ -11,4 +11,4 @@ Each community will organize their own one day deep dive class on Azure the way 
 
 If you have any questions, feedback or thoughts, please reach out to the Community organizer:
 
-* David Nudelman [Email](mailto:president@vantug.com) 
+* David Nudelman [rMVP](https://mvp.microsoft.com/en-us/PublicProfile/4028355)
