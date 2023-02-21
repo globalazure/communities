@@ -2,23 +2,26 @@
   "ValidMaintainers": {
     "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
     "GitHubHandles": [
-      "nkuppurasu"
+      "OluwaseyiO",
+      
     ]
   },
   "CommunityInfo": {
-    "Name": "Microsoft DEV Geeks",
-    "Country": "India",
-    "Url": "https://www.meetup.com/msdevgeeks/",
+    "Name": "MCTNAIJA-TechUSERGROUP",
+    "Country": "Nigeria",
+    "Url": "https://www.meetup.com/mctnaija-techusergroup/",
+    "SessionizeApiId": "b6aeutr4",
+    "Description_SessionizeApiId": "If you have configured your Sessionize correctly then browsing to this url (replacing {Your sessionize event Id} with your event sessionize id) will return valid json: https://sessionize.com/api/v2/10688/view/Sessions",
     "Logo": {
-      "Description": "Community logo is a .png file 500X500px named msdevgeeks.png.",
-      "File": "msdevgeeks.png"
+      "Description": "Community logo is a .png file 500X500px named {foldername}.png.",
+      "File": "mctnaija_logo.png"
     },
     "Locations": [
       {
-        "Name": "Salem",
-        "Address": "TBA",
-        "Latitude": 11.662779703606654,
-        "Longitude": 78.14583938648576
+        "Name": "Shabak Center",
+        "Address": "43 Ajose Adeogun St, Utako 900108, Abuja, Federal Capital Territorys",
+        "Latitude":  9.069020, 
+        "Longitude": 7.440630
       }
     ]
   }
