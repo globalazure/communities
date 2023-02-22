@@ -6,7 +6,11 @@ Event to take place at Microsoft Reactor, Regeringsgatan 59 Stockholm, on the 12
 
 ## Tickets
 
-Tickets / seat reservation available at [Meetup](https://www.meetup.com/vasteras-azure-user-group/events/291645252/)
+Tickets / seat reservation available at [Meetup](https://www.meetup.com/vasteras-azure-user-group/events/291645252/).
+
+## Call for speakers
+
+If you are interested in speaking at Global Azure Stockholm, submit your sessions at [Sessionize](https://sessionize.com/global-azure-stockholm-2023/). CfS is open until 17 Mar 2023.
 
 ## Organizers
 
