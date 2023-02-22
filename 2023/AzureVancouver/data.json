@@ -11,9 +11,9 @@
     "Name": "Azure Vancouver (VanTUG+)",
     "Country": "Canada",
     "Url": "http://vantug.com/",
-    "SessionizeApiId": "{Your sessionize event Id}",
-    "Description_SessionizeApiId": "If you have configured your Sessionize correctly then browsing to this url (replacing {Your sessionize event Id} with your event sessionize id) will return valid json: https://sessionize.com/api/v2/{Your sessionize event Id}/view/Sessions",
-    "SessionizeEventName": "{Your sessionize event name (or complete URL to the public Sessionize C4P, i.e. https://sessionize.com/global-azure or just global-azure)}",
+    "SessionizeApiId": "vxqgax8w",
+    "Description_SessionizeApiId": "https://sessionize.com/api/v2/vxqgax8w/view/Sessions",
+    "SessionizeEventName": "https://sessionize.com/global-azure-vancouver/",
     "Logo": {
       "Description": "Community logo is a .png file 500X500px named {foldername}.png.",
       "File": "VanTUG_Azure.png"
