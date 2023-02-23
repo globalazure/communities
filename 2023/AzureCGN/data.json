@@ -12,7 +12,7 @@
     "SessionizeApiId": "",
     "Logo": {
       "Description": "Community logo is a .png file 500X500px named {foldername}.png.",
-      "File": "_azurecgn-logo.png"
+      "File": "azurecgn-logo.png"
     },
     "Locations": [
       {
