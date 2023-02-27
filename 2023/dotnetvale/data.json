@@ -2,28 +2,26 @@
   "ValidMaintainers": {
     "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
     "GitHubHandles": [
-      "",
-      "",
-      ""
+      "julioarruda"
     ]
   },
   "CommunityInfo": {
     "Name": ".Net Vale",
     "Country": "Brazil",
     "Url": "https://www.sympla.com.br/evento/global-azure-bootcamp/1894910?_gl=1*yr5avl*_ga*OTk2NDE2MDUxLjE2NzYxNDc4NzQ.*_ga_KXH10SQTZF*MTY3NzQzMzUwMi4xMS4xLjE2Nzc0MzM3MTYuMC4wLjA",
-    "SessionizeApiId": "10800",
-    "Description_SessionizeApiId": "10800",
-    "SessionizeEventName": "global-azure",
+    "SessionizeApiId": "jr5mp420",
+    "Description_SessionizeApiId": "https://sessionize.com/api/v2/jr5mp420/view/Sessions",
+    "SessionizeEventName": "https://sessionize.com/global-azure-bootcamp-sjcampos/",
     "Logo": {
       "Description": "Community logo is a .png file 500X500px named {foldername}.png.",
-      "File": "_template.png"
+      "File": "netvale.jpeg"
     },
     "Locations": [
       {
-        "Name": "{Name of the location}",
-        "Address": "{Optional address of the location}",
-        "Latitude": 47.6457554,
-        "Longitude": -122.1299952
+        "Name": "ETEP Faculdades",
+        "Address": "Av Barão do Rio Branco, 882",
+        "Latitude": -23.1985281,
+        "Longitude": -45.9070677
       }
     ]
   }
