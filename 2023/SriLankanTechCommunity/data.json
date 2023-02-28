@@ -1,0 +1,27 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "ViknarajM"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Sri Lankan Tech Community",
+    "Country": "Sri Lanka",
+    "Url": "https://www.sltechcommunity.lk/",
+    "SessionizeApiId": "eskodhbk",
+    "SessionizeEventName": "https://sessionize.com/global-azure-2023-sri-lanka",
+    "Logo": {
+      "Description": "Community logo is a .png file 500X500px named sltc.png.",
+      "File": "sltc.png"
+    },
+    "Locations": [
+      {
+        "Name": "Batticaloa",
+        "Address": "PRO",
+        "Latitude": 7.730997,
+        "Longitude": 81.674730
+      }
+    ]
+  }
+}
