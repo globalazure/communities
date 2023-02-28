@@ -1,0 +1,27 @@
+{
+    "ValidMaintainers": {
+      "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+      "GitHubHandles": [
+        "msfthiker"
+      ]
+    },
+    "CommunityInfo": {
+      "Name": "Azure New York City",
+      "Country": "United States",
+      "Url": "https://globalazure.net/communities/2023/AzureNewYorkCity",
+      "SessionizeApiId": "",
+      "Logo": {
+        "Description": "Global Azure Bootcamp 2023 New York City",
+        "File": "AzureNYC.png"
+      },
+      "Locations": [
+        {
+          "Name": "Microsoft Times Square Office, New York City",
+          "Address": "11 Times Square, New York, NY, USA 10036",
+          "Latitude": 40.75668747713166, 
+          "Longitude": -73.98966948923947
+        }
+      ]
+    }
+  }
+  
