@@ -30,8 +30,13 @@
         "Address": "Tordenskjolds Gate 9, 4612 Kristiansand",
         "Latitude": 58.147530,
         "Longitude": 7.988470
+      },
+      {
+        "Name": "Oslo",
+        "Address": "Tollbugata 24, 0157 Oslo",
+        "Latitude": 59.91108,
+        "Longitude": 10.74167
       }
-      
     ]
   }
 }
