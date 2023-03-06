@@ -1,0 +1,27 @@
+{
+  "ValidMaintainers": {
+    "Description": "Anupama Natarajan",
+    "GitHubHandles": [
+      "shantha05"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Wellington Data Management and Analytics",
+    "Country": "New Zealand",
+    "Url": "https://www.meetup.com/wellington-data-management-and-analytics-meetup/",
+    "SessionizeApiId": "fu3j3beq",
+    "SessionizeEventName": "https://sessionize.com/global-azure-2023-wellington/",
+    "Logo": {
+      "Description": "Community logo is a .png file 500X500px named AzureWellingtonNZ.png.",
+      "File": "GlobalAzure2023Logo50x50.png"
+    },
+    "Locations": [
+      {
+        "Name": "Wellinton NZ",
+        "Address": "TBC",
+        "Latitude": -41,
+        "Longitude": 174
+      }
+    ]
+  }
+}
