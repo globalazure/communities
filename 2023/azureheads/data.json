@@ -1,0 +1,27 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "kpantos"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "AzureHeads",
+    "Country": "Greece",
+    "Url": "https://www.azureheads.gr/",
+    "SessionizeApiId": "hifgulkc",
+    "Description_SessionizeApiId": "If you have configured your Sessionize correctly then browsing to this url (replacing {Your sessionize event Id} with your event sessionize id) will return valid json: https://sessionize.com/api/v2/{Your sessionize event Id}/view/Sessions",
+    "Logo": {
+      "Description": "AzureHeads",
+      "File": "azureheads-logo.png"
+    },
+    "Locations": [
+      {
+        "Name": "TBD",
+        "Address": "Voutadon 34, Athina 118 54, Greece",
+        "Latitude": 37.978857,
+        "Longitude": 23.7101891
+      }
+    ]
+  }
+}
