@@ -11,9 +11,9 @@
     "Name": "Azure user group Norway",
     "Country": "Norway",
     "Url": "https://azureusergroup.no/",
-    "SessionizeApiId": "wnbhqmfe",
+    "SessionizeApiId": "w84xg5cq",
     "Description_SessionizeApiId": "If you have configured your Sessionize correctly then browsing to this url (replacing {Your sessionize event Id} with your event sessionize id) will return valid json: https://sessionize.com/api/v2/{Your sessionize event Id}/view/Sessions",
-    "SessionizeEventName": "azure-user-group-norway",
+    "SessionizeEventName": "global-azure-norway-2023",
     "Logo": {
       "Description": "Community logo is a .png file 500X500px named {foldername}.png.",
       "File": "AUGNorwayLogo_500x500px.png"
