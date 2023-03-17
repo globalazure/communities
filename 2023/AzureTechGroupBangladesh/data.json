@@ -1,1 +1,28 @@
-
+{
+    "ValidMaintainers": {
+      "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+      "GitHubHandles": [
+        "mitul3737",
+        "Imtiaz1234"
+      ]
+    },
+    "CommunityInfo": {
+      "Name": "Azure Tech Group Bangladesh",
+      "Country": "Bangladesh",
+      "Url": "https://www.facebook.com/groups/1770787936632620/",
+      "SessionizeApiId": "r60wnhoe",
+      "SessionizeEventName": "https://sessionize.com/global-azure-bangladesh-2023",
+      "Logo": {
+        "Description": "Community logo is a .png file 500X500px named {foldername}.png.",
+        "File": "Azure Tech Group Bangladesh logo.png"
+      },
+      "Locations": [
+        {
+          "Name": "Dhaka, Bangladesh",
+          "Address": "NA",
+          "Latitude": 23.810331,
+          "Longitude": 90.412521
+        }
+      ]
+    }
+  }
