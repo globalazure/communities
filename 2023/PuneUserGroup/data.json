@@ -10,17 +10,17 @@
   "CommunityInfo": {
     "Name": "Pune User Group",
     "Country": "India",
-    "Url": "https://www.meetup.com/puneusergroup/",
+    "Url": "http://puneusergroup.org/events/ga2023/",
     "Logo": {
       "Description": "Pune User Group - Logo",
       "File": "logo.png"
     },
     "Locations": [
       {
-        "Name": "Rapid Circle, India",
-        "Address": "602 SR Iriz, Baner-Pashan Link Road, Pune - 411 022",
-        "Latitude": 18.551304,
-        "Longitude": 73.791286
+        "Name": "MCCIA",
+        "Address": " ICC Trade Tower, 505, A-Wing, ,5th Floor, MCCIA Trade Tower, ICC Complex, 403-A, Senapati Bapat Rd, Laxmi Society, Model Colony, Shivajinagar, Pune, Maharashtra 411016",
+        "Latitude": 18.5356437,
+        "Longitude": 73.8298503
       }
     ]
   }
