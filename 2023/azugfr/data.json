@@ -1,0 +1,30 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "IhorLeontiev",
+      "zecloud",
+      "lecampusazure",
+      "CedricLeblond"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Azure User Group France",
+    "Country": "France",
+    "Url": "https://www.meetup.com/AZUG-FR",
+    "SessionizeApiId": "d0xh9rvj",
+    "Description_SessionizeApiId": "If you have configured your Sessionize correctly then browsing to this url (replacing {Your sessionize event Id} with your event sessionize id) will return valid json: https://sessionize.com/api/v2/{Your sessionize event Id}/view/Sessions",
+    "Logo": {
+      "Description": "Community logo is a .png file 500X500px named {foldername}.png.",
+      "File": "azugfr.png"
+    },
+    "Locations": [
+      {
+        "Name": "Paris - École Supérieure de Génie Informatique",
+        "Address": "242 Rue du Faubourg Saint-Antoine · Paris",
+        "Latitude": 48.849200,
+        "Longitude": 2.389580
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "marilag",
+      "jthipolito"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Azure User Group Manila",
+    "Country": "Philippines",
+    "Url": "https://www.meetup.com/Azure-user-group-manila/",
+    "SessionizeApiId": "10688",
+    "Description_SessionizeApiId": "If you have configured your Sessionize correctly then browsing to this url (replacing {Your sessionize event Id} with your event sessionize id) will return valid json: https://sessionize.com/api/v2/10688/view/Sessions",
+    "Logo": {
+      "Description": "Community logo is a .png file 500X500px named {foldername}.png.",
+      "File": "azugmnl.png"
+    },
+    "Locations": [
+      {
+        "Name": "The Megatower",
+        "Address": "701 The Megatower EDSA cor Julia Vargas Avenue Mandaluyong City Philippines",
+        "Latitude": 14.58318670322607, 
+        "Longitude": 121.0555462843349
+      }
+    ]
+  }
+}

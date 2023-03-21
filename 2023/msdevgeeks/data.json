@@ -1,0 +1,25 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "nkuppurasu"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Microsoft DEV Geeks",
+    "Country": "India",
+    "Url": "https://www.meetup.com/msdevgeeks/",
+    "Logo": {
+      "Description": "Community logo is a .png file 500X500px named msdevgeeks.png.",
+      "File": "msdevgeeks.png"
+    },
+    "Locations": [
+      {
+        "Name": "Salem",
+        "Address": "TBA",
+        "Latitude": 11.662779703606654,
+        "Longitude": 78.14583938648576
+      }
+    ]
+  }
+}
