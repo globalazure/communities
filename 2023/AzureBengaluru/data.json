@@ -2,21 +2,20 @@
   "ValidMaintainers": {
     "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
     "GitHubHandles": [
-      "",
-      "",
-      ""
-    ]
+      "@Keshav1308",
+      "@samikroy",
+       ]
   },
   "CommunityInfo": {
     "Name": "Bengaluru Azure Community",
     "Country": "India",
     "Url": "https://bengaluru.globalazure.in",
     "SessionizeApiId": "10862",
-    "Description_SessionizeApiId": "If you have configured your Sessionize correctly then browsing to this url (replacing {Your sessionize event Id} with your event sessionize id) will return valid json: https://sessionize.com/api/v2/10862/view/Sessions",
-    "SessionizeEventName": "{Your sessionize event name (or complete URL to the public Sessionize C4P, i.e. https://sessionize.com/global-azure or just global-azure)}",
+    "Description_SessionizeApiId": "If you have configured your Sessionize correctly then browsing to this url (https://sessionize.com/app/organizer/event/10862) will return valid json: https://sessionize.com/app/organizer/event/10862",
+    "SessionizeEventName": "{GLOBAL AZURE 2023 Bengaluru}",
     "Logo": {
       "Description": "Community logo is a .png file 500X500px named AzureBengaluru.png.",
-      "File": "AzureBengaluru.png"
+      "File": "_template.png"
     },
     "Locations": [
       {
