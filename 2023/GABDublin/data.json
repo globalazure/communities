@@ -1,0 +1,28 @@
+{
+    "ValidMaintainers": {
+      "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+      "GitHubHandles": [
+        "",
+        "",
+        ""
+      ]
+    },
+    "CommunityInfo": {
+      "Name": "Global Azure - Dublin",
+      "Country": "Ireland",
+      "Url": "https://theazway.com/global-Azure",
+      "Logo": {
+        "Description": "Community logo is a .png file 500X500px named {foldername}.png.",
+        "File": "GABDublin.png"
+      },
+      "Locations": [
+        {
+          "Name": "Microsoft Dublin",
+          "Address": "",
+          "Latitude": 53.349804,
+          "Longitude": -6.260310
+        }
+      ]
+    }
+  }
+  
