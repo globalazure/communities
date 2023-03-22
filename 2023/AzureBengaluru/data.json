@@ -10,7 +10,7 @@
     "Name": "Bengaluru Azure Community",
     "Country": "India",
     "Url": "https://bengaluru.globalazure.in",
-    "SessionizeApiId": "10862",
+    "SessionizeApiId": "o6kupum9",
     "Description_SessionizeApiId": "If you have configured your Sessionize correctly then browsing to this url (https://sessionize.com/app/organizer/event/10862) will return valid json: https://sessionize.com/app/organizer/event/10862",
     "SessionizeEventName": "{GLOBAL AZURE 2023 Bengaluru}",
     "Logo": {
