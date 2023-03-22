@@ -2,7 +2,7 @@
     "ValidMaintainers": {
       "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
       "GitHubHandles": [
-        "",
+        "followtushar",
         "",
         ""
       ]
@@ -11,10 +11,13 @@
       "Name": "TheAzWay",
       "Country": "Ireland",
       "Url": "https://theazway.com/global-Azure",
+      "SessionizeApiId": "ddofh51u",
+      "SessionizeEventName": "https://sessionize.com/gab-dublin/",
       "Logo": {
         "Description": "Community logo is a .png file 500X500px named {foldername}.png.",
         "File": "GABDublin.png"
       },
+      
       "Locations": [
         {
           "Name": "Microsoft Dublin",
