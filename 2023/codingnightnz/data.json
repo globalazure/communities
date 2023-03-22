@@ -1,0 +1,25 @@
+{
+  "ValidMaintainers": {
+    "GitHubHandles": [
+      "marcelmedina"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Coding Night NZ",
+    "Country": "New Zealand",
+    "Url": "https://www.meetup.com/coding-night-nz/",
+    "SessionizeApiId": "ndvzcmoc",
+    "SessionizeEventName": "https://sessionize.com/global-azure-auckland-2023/",
+    "Logo": {
+      "File": "logo.png"
+    },
+    "Locations": [
+      {
+        "Name": "Coding Night NZ",
+        "Address": "Auckland, New Zealand",
+        "Latitude": -36.848461,
+        "Longitude": 174.763336
+      }
+    ]
+  }
+}
