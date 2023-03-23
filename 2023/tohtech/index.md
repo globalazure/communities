@@ -4,11 +4,11 @@
 
 Join us at *Global Azure* hosted by the Toh Tech Community. This is a hybrid event, we will have online sessions and in-person sessions in Mérida, Yucatán.
 
-:ticket: Get your ticket [here](https://GlobalAzure23-TohTech.eventbrite.com.mx).
+🎟️ Get your ticket [here](https://GlobalAzure23-TohTech.eventbrite.com.mx).
 
-:envelope: If you are interested in being a speaker, [send your proposal](https://sessionize.com/GlobalAzure23-TohTech/).
+✉️ If you are interested in being a speaker, [send your proposal](https://sessionize.com/GlobalAzure23-TohTech/).
 
-:moneybag: We are looking for sponsors. If you would like to support the event, contact us at toh.tech@outlook.com.
+💰 We are looking for sponsors. If you would like to support the event, contact us at toh.tech@outlook.com.
 
 ### About us
 
