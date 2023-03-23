@@ -13,17 +13,17 @@
     "Country": "Mexico",
     "Url": "https://beacons.ai/tohtech",
     "SessionizeApiId": "ewxdyw12",
-    "SessionizeEventName": "https://sessionize.com/global-azure-2023-toh-tech-community/",
+    "SessionizeEventName": "https://sessionize.com/GlobalAzure23-TohTech/",
     "Logo": {
       "Description": "Community logo is a .png file 500X500px named {foldername}.png.",
       "File": "tohtech.png"
     },
     "Locations": [
       {
-        "Name": "Merida",
-        "Address": "{Optional address of the location}",
-        "Latitude": 47.6457554,
-        "Longitude": -122.1299952
+        "Name": "Mérida, Yucatán",
+        "Address": "",
+        "Latitude": 20.966958,
+        "Longitude": -89.624039
       }
     ]
   }
