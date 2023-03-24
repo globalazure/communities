@@ -1,0 +1,29 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "nirajrules",
+      "ashishmgupta"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Charlotte Microsoft Azure",
+    "Country": "United States",
+    "Url": "https://www.meetup.com/charlotte-microsoft-azure1/",
+    "SessionizeApiId": "{Your sessionize event Id}",
+    "Description_SessionizeApiId": "If you have configured your Sessionize correctly then browsing to this url (replacing {Your sessionize event Id} with your event sessionize id) will return valid json: https://sessionize.com/api/v2/{Your sessionize event Id}/view/Sessions",
+    "SessionizeEventName": "{Your sessionize event name (or complete URL to the public Sessionize C4P, i.e. https://sessionize.com/global-azure or just global-azure)}",
+    "Logo": {
+      "Description": "Charlotte Microsoft Azure User Group 500X500px png logo.",
+      "File": "CharlotteMicrosoftAzure.png"
+    },
+    "Locations": [
+      {
+        "Name": "Charlotte NC",
+        "Address": "8055 Microsoft Way, Charlotte, NC",
+        "Latitude": 35.13946221713409, 
+        "Longitude": -80.9224383694131
+      }
+    ]
+  }
+}
