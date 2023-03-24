@@ -1,0 +1,26 @@
+{
+    "ValidMaintainers": {
+      "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+      "GitHubHandles": [
+        "tiagocostapt"
+      ]
+    },
+    "CommunityInfo": {
+      "Name": "Azure Contoso User Group",
+      "Country": "Awesome Country",
+      "Url": "https://www.awesomecommunity.com",
+      "SessionizeApiId": "",
+      "SessionizeEventName": "",
+      "Locations": [
+        {
+          "Name": "Awesome City",
+          "Latitude": 38.761020,
+          "Longitude":-9.094664
+        }
+      ],
+      "Logo": {
+        "Description": "Azure Consoto User Group logo.",
+        "File": "AZUGPT.png"
+      }
+    }
+  }
