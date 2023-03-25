@@ -12,7 +12,7 @@ We want to make sure any community who is interested in being part of #GlobalAzu
 
 1. Fork this repo.
 2. Find the right year folder. (Hint: For Global Azure 2023 the folder is '2023'.)
-3. Copy the root folder "_template" and give it a repo unique folder name for example with the name of your community.
+3. Copy the folder "template" and give it a repo unique folder name for example with the name of your community.
    * Example: Your community name is "Foo Community in Malmö Sweden" you could make your folder name in this repo this: './2023/FooCommunity/'.
    * You pick the folder name.
    * If it is already taken you need to choose another name.
