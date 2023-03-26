@@ -9,6 +9,7 @@
     "Country": "New Zealand",
     "Url": "https://www.meetup.com/coding-night-nz/",
     "SessionizeApiId": "ndvzcmoc",
+    "Description_SessionizeApiId": "https://sessionize.com/api/v2/ndvzcmoc/view/Sessions",
     "SessionizeEventName": "https://sessionize.com/global-azure-auckland-2023/",
     "Logo": {
       "File": "logo.png"
