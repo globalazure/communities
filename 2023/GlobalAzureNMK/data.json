@@ -10,7 +10,7 @@
     "Name": "Global Azure North Macedonia",
     "Country": "North Macedonia",
     "Url": "https://www.facebook.com/mkdotnet",
-    "SessionizeApiId": "49j2iij7",
+    "SessionizeApiId": "zv07f3vq",
     "Description_SessionizeApiId": "If you have configured your Sessionize correctly then browsing to this url (replacing {Your sessionize event Id} with your event sessionize id) will return valid json: https://sessionize.com/api/v2/{Your sessionize event Id}/view/Sessions",
     "SessionizeEventName": "Global Azure North Macedonia 2023",
     "Logo": {
