@@ -1,0 +1,28 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub - building a conteniriezed app release to Azure using alternative to Azure DevOps",
+    "GitHubHandles": [
+      "RogalaPiotr",
+      "szympulka",
+      "MichalJankowskii"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Azure Poland",
+    "Country": "Poland",
+    "Url": "https://www.eventbrite.com/e/global-azure-2023-tickets-590184797617",
+    "SessionizeApiId": "322137",
+    "Logo": {
+      "Description": "AzurePoland logo",
+      "File": "AzupePoland-logo500x500.png"
+    },
+    "Locations": [
+      {
+        "Name": "Nordcloud sp. z o.o.",
+        "Address": "https://goo.gl/maps/aTk96AZULtxFi5bL6",
+        "Latitude": 51.09740,
+        "Longitude": 17.03430
+      }
+    ]
+  }
+}
