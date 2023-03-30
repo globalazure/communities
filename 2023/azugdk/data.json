@@ -1,0 +1,27 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "marilag"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Azure User Group DK (Copenhagen)",
+    "Country": "Denmark",
+    "Url": "https://www.meetup.com/azure-usergroup-denmark/",
+    "SessionizeApiId": "11109",
+    "Description_SessionizeApiId": "If you have configured your Sessionize correctly then browsing to this url  will return valid json: https://sessionize.com/api/v2/11109/view/Sessions",
+    "Logo": {
+      "Description": "Azure User Group DK",
+      "File": "Azugdk.png"
+    },
+    "Locations": [
+      {
+        "Name": "A.P. Møller-Mærsk",
+        "Address": "Esplanaden 50, 1098 Copenhagen K",
+        "Latitude": 55.687940724440836,  
+        "Longitude": 12.597096065066308
+      }
+    ]
+  }
+}
