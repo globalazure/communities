@@ -14,11 +14,7 @@ Talks will be delivered to our live audience and streamed through Microsoft Team
 
 ## Tickets
 
-Tickets / seat reservation available at [Meetup](https://www.meetup.com/auckland-azure-lunchtime-meetup/).
-
-## Call for speakers
-
-If you are interested in speaking at Global Azure Auckland, submit your sessions at [Sessionize](https://sessionize.com/global-azure-auckland-2023/).
+Registration will be available on [Meetup](https://www.meetup.com/auckland-azure-lunchtime-meetup/) in the near future.
 
 ## Organizers
 
