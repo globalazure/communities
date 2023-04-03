@@ -1,0 +1,28 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "alonf"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Azure Israel",
+    "Country": "Israel",
+    "Url": "https://www.meetup.com/azureisrael/",
+    "SessionizeApiId": "",
+    "Description_SessionizeApiId": "If you have configured your Sessionize correctly then browsing to this url (replacing {Your sessionize event Id} with your event sessionize id) will return valid json: https://sessionize.com/api/v2/{Your sessionize event Id}/view/Sessions",
+    "SessionizeEventName": "{Your sessionize event name (or complete URL to the public Sessionize C4P, i.e. https://sessionize.com/global-azure or just global-azure)}",
+    "Logo": {
+      "Description": "Global Azure Day - Azure Israel Meetup Event",
+      "File": "AzureIsrael.png"
+    },
+    "Locations": [
+      {
+        "Name": "Microsoft Reactor Tel Aviv",
+        "Address": "144 Menachem Begin, Level 50, 6492102 Tel Aviv",
+        "Latitude": 32.0853,
+        "Longitude": 34.7818
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "eriklieben"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "dotnet.amsterdam",
+    "Country": "The Netherlands",
+    "Url": "https://www.meetup.com/dotnet-amsterdam/",
+    "SessionizeApiId": "xyfpa63c",
+    "Description_SessionizeApiId": "If you have configured your Sessionize correctly then browsing to this url (replacing {Your sessionize event Id} with your event sessionize id) will return valid json: https://sessionize.com/api/v2/{Your sessionize event Id}/view/Sessions",
+    "SessionizeEventName": "https://sessionize.com/dotnet-amsterdam",
+    "Logo": {
+      "Description": "dotnet.amsterdam",
+      "File": "dotnetamsterdam.png"
+    },
+    "Locations": [
+      {
+        "Name": "Amsterdam",
+        "Address": "Singel 126",
+        "Latitude": 52.376000,
+        "Longitude": 4.890430
+      }
+    ]
+  }
+}
