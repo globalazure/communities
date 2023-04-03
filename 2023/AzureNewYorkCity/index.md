@@ -10,4 +10,5 @@ The New York City event will be an evening of learning and fantastic speakers al
 
 If you have any questions, feedback or thoughts, please reach out to the Community organizer:
 
+* Diana Torres Viasus [Cloud and Datacenter Management MVP](https://mvp.microsoft.com/en-us/PublicProfile/5001193)
 * Eric Woodruff [Security MVP](https://mvp.microsoft.com/en-us/PublicProfile/5005105)

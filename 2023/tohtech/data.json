@@ -1,0 +1,30 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "FelFT",
+      "jona866",
+      "KZuleika",
+      "akkarie"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Toh Tech Community",
+    "Country": "Mexico",
+    "Url": "https://beacons.ai/tohtech",
+    "SessionizeApiId": "ewxdyw12",
+    "SessionizeEventName": "https://sessionize.com/GlobalAzure23-TohTech/",
+    "Logo": {
+      "Description": "Community logo is a .png file 500X500px named {foldername}.png.",
+      "File": "tohtech.png"
+    },
+    "Locations": [
+      {
+        "Name": "Mérida, Yucatán",
+        "Address": "",
+        "Latitude": 20.966958,
+        "Longitude": -89.624039
+      }
+    ]
+  }
+}
