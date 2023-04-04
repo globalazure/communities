@@ -9,8 +9,8 @@
     "Name": "Azure User Group DK (Copenhagen)",
     "Country": "Denmark",
     "Url": "https://www.meetup.com/azure-usergroup-denmark/",
-    "SessionizeApiId": "11109",
-    "Description_SessionizeApiId": "If you have configured your Sessionize correctly then browsing to this url  will return valid json: https://sessionize.com/api/v2/11109/view/Sessions",
+    "SessionizeApiId": "gndmecfp",
+    "Description_SessionizeApiId": "If you have configured your Sessionize correctly then browsing to this url  will return valid json: https://sessionize.com/api/v2/gndmecfp/view/Sessions",
     "Logo": {
       "Description": "Azure User Group DK",
       "File": "Azugdk.png"
