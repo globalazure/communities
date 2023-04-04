@@ -1,5 +1,9 @@
-# DEV Cafe
+# Global Azure 2023 - Vietnam by [DEV Cafe](https://www.facebook.com/devcafevn)
 
-We usually host free events for developer community in Vietnam
+[![Global Azure 2023 - Vietnam Logo](globalazurevietnam.png "Visit us here!")](https://devcafevn.github.io/globalazure2023/)
 
-Visit our page at https://www.facebook.com/devcafevn
+We are excited to host the Global Azure 2023 for developer community in Vietnam
+
+This is an online event, all talks about Microsoft Azure!
+
+You can find more information about the event on our website https://devcafevn.github.io/globalazure2023/
