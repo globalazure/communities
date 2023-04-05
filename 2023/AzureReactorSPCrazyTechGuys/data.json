@@ -1,0 +1,30 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "jorgemaia"
+      
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "CrazyTechGuys",
+    "Country": "Brasil",
+    "Description_SessionizeApiId": "If you have configured your Sessionize correctly then browsing to this url (replacing {Your sessionize event Id} with your event sessionize id) will return valid json: https://sessionize.com/api/v2/{Your sessionize event Id}/view/Sessions",
+    "SessionizeApiId": "11163",
+    "SessionizeEventName": "https://sessionize.com/global-azure-crazytechguys-sao-paulo-202/",
+    "Logo": {
+      "Description": "Global Azure 2023 Reactor SP by CrazyTechGuys",
+      "File": "AzureReactorSPCrazyTechGuys.png"
+    },
+    "Locations": [
+      {
+        "Description": "Each location where your community will be running a Global Azure event.",
+        "Name": "Microsoft Reactor SP",
+        "Address": "R. Jaceru, 225 - Vila Gertrudes, São Paulo - SP, 04705-000",
+        "Description_Lat_Lon": "The Lat and Lon location for where you want your community pin on the Global Azure Community Map (example 47.6457554, -122.1299952).",
+        "Latitude": -23.6219573,
+        "Longitude": -46.6932104
+      }
+    ]
+  }
+}
