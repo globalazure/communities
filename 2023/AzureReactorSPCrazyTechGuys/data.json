@@ -2,7 +2,8 @@
   "ValidMaintainers": {
     "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
     "GitHubHandles": [
-      "jorgemaia"
+      "jorgemaia", 
+      "angelobelchior"
       
     ]
   },
