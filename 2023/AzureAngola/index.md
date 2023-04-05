@@ -1,4 +1,4 @@
-# Global Azure Portugal by Azure User Group Portugal
+# Global Azure Angola by Data & Azure Community Luanda
 
 [![Data & Azure Community Luanda](LGAA.png "Visit us here!")](https://www.globalazure.ao/)
 
