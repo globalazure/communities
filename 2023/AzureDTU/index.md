@@ -14,6 +14,7 @@ The [Call for Speakers is open](https://sessionize.com/dtu-global-azure-2023-boo
 Session information:
 * 📅May 11 to May 13, 2023
 * 🏠Virtual
+* 🎫 Register for the bootcamp here: [Link](https://bit.ly/m/AzureDTU)
 * 💶Sponsors - We are looking for sponsors. Reach out to the organizing team.
 
 If you have any questions, feedback or thoughts, please reach out to the Community organizer:
