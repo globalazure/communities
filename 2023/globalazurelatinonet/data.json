@@ -1,0 +1,29 @@
+{
+  "ValidMaintainers": {
+    "GitHubHandles": [
+      "Latino-Net-Online",
+      "latinonetonline",
+      "jorgelevy",
+      "pac09",
+      "icebeam7"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Global Azure 2023 - Latino .NET",
+    "Country": "Latinoamérica",
+    "Url": "TBD",
+    "SessionizeApiId": "{Your sessionize event Id}",
+    "SessionizeEventName": "https://sessionize.com/global-azure-2023-latino-net/",
+    "Logo": {
+      "Description": "Global Azure 2023 - Latino .NET",
+      "File": "GlobalAzure2023-LatinoNet-500.png"
+    },
+    "Locations": [
+      {
+        "Name": "Latino .NET Online",
+        "Latitude": 4.397725,
+        "Longitude": -82.520070
+      }
+    ]
+  }
+}
