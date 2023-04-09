@@ -14,7 +14,7 @@ The [Call for Speakers is open](https://sessionize.com/global-azure-bootcamp-sin
 
 Resume information:
 * 📅May, 13 2023
-* 🏠TBC
+* 🏠Microsoft Singapore, 183 Cecil Street, Singapore 069547
 * 🎙️Call for speakers - [https://sessionize.com/global-azure-bootcamp-singapore-2023/](https://sessionize.com/global-azure-bootcamp-singapore-2023/)
 * 💶Sponsors - We are looking for sponsors. Reach out to the organizing team.
 
