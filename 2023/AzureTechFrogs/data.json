@@ -1,0 +1,27 @@
+{
+    "ValidMaintainers": {
+        "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+        "GitHubHandles": [
+            "OscarSantosMu",
+            "pacomgh"
+        ]
+    },
+    "CommunityInfo": {
+        "Name": "Azure Tech Frogs",
+        "Country": "Mexico",
+        "Url": "https://linktr.ee/azuretechfrogs",
+        "SessionizeApiId": "2w6bz4om",
+        "Description_SessionizeApiId": "If you have configured your Sessionize correctly then browsing to this url (replacing {Your sessionize event Id} with your event sessionize id) will return valid json: https://sessionize.com/api/v2/{Your sessionize event Id}/view/Sessions",
+        "SessionizeEventName": "atf-global-azure",
+        "Logo": {
+            "Description": "Community logo is a .png file 500X500px named {foldername}.png.",
+            "File": "AzureTechFrogs.png"
+        },
+        "Locations": [{
+            "Name": "León, Guanajuato",
+            "Address": "{Optional address of the location}",
+            "Latitude": 21.121361,
+            "Longitude": -101.683403
+        }]
+    }
+}

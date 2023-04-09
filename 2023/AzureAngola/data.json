@@ -1,0 +1,27 @@
+{
+    "ValidMaintainers": {
+      "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+      "GitHubHandles": [
+        "joseqcosta"
+      ]
+    },
+    "CommunityInfo": {
+      "Name": "Data & Azure Community Luanda",
+      "Country": "Angola",
+      "Url": "https://www.linkedin.com/groups/9302919/",
+      "SessionizeApiId": "",
+      "Description_SessionizeApiId": "",
+      "SessionizeEventName": "",
+      "Locations": [
+        {
+          "Name": "Luanda",
+          "Latitude": -8.839988,
+          "Longitude":13.289437
+        }
+      ],
+      "Logo": {
+        "Description": "Logo Global Azure Angola.",
+        "File": "LGAA.png"
+      }
+    }
+  }

@@ -1,0 +1,27 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "haoguanjun"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "MSTechlnk",
+    "Country": "China",
+    "Url": "http://www.ngbeijing.cn/",
+    "SessionizeApiId": "1lteyypj",
+    "SessionizeEventName": "Global Azure 2023 Beijing",
+    "Logo": {
+      "Description": "Community logo is a .png file 500X500px named {foldername}.png.",
+      "File": "AzureBeijing.png"
+    },
+    "Locations": [
+      {
+        "Name": "Beijing",
+        "Address": "No.5 Danling St Beijing",
+        "Latitude": 39.979273,
+        "Longitude": 116.310239
+      }
+    ]
+  }
+}

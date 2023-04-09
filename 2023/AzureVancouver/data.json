@@ -1,0 +1,28 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "davidnudelman",
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Azure Vancouver (VanTUG+)",
+    "Country": "Canada",
+    "Url": "http://vantug.com/",
+    "SessionizeApiId": "vxqgax8w",
+    "Description_SessionizeApiId": "https://sessionize.com/api/v2/vxqgax8w/view/Sessions",
+    "SessionizeEventName": "https://sessionize.com/global-azure-vancouver/",
+    "Logo": {
+      "Description": "Community logo is a .png file 500X500px named {foldername}.png.",
+      "File": "VanTUG_Azure.png"
+    },
+    "Locations": [
+      {
+        "Name": "Vancouver Downtown",
+        "Address": "{Optional address of the location}",
+        "Latitude": 49.2802089,
+        "Longitude": -123.1265343
+      }
+    ]
+  }
+}
