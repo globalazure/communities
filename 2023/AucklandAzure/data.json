@@ -1,0 +1,26 @@
+{
+  "ValidMaintainers": {
+    "GitHubHandles": [
+      "rbrayb",
+      "marcelmedina"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Auckland Azure Lunchtime Meetup",
+    "Country": "New Zealand",
+    "Url": "https://www.meetup.com/auckland-azure-lunchtime-meetup/",
+    "SessionizeApiId": "ndvzcmoc",
+    "SessionizeEventName": "https://sessionize.com/global-azure-auckland-2023/",
+    "Logo": {
+      "File": "logo.png"
+    },
+    "Locations": [
+      {
+        "Name": "Auckland Azure Lunchtime Meetup",
+        "Address": "Auckland, New Zealand",
+        "Latitude": -36.8453,
+        "Longitude": 174.7569
+      }
+    ]
+  }
+}

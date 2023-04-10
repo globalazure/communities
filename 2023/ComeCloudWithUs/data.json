@@ -1,0 +1,33 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "cgill"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Come Cloud With Us",
+    "Country": "United States",
+    "Url": "https://sessionize.com/come-cloud-with-us/",
+    "SessionizeApiId": "{Your sessionize event Id}",
+    "Description_SessionizeApiId": "If you have configured your Sessionize correctly then browsing to this url (replacing {Your sessionize event Id} with your event sessionize id) will return valid json: https://sessionize.com/api/v2/{Your sessionize event Id}/view/Sessions",
+    "Logo": {
+      "Description": "Community logo is a .png file 500X500px named ComeCloudWithUs.png.",
+      "File": "ComeCloudWithUs.png"
+    },
+    "Locations": [
+      {
+        "Name": "South of the Pond",
+        "Address": "Rochester, NY",
+        "Latitude": "43.15571",
+        "Longitude": "-77.61255"
+      },
+      {
+        "Name": "North of the Pond",
+        "Address": "Toronto, CA",
+        "Latitude": "43.653225",
+        "Longitude": "-79.383186"
+      }
+    ]
+  }
+}

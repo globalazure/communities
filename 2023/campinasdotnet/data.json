@@ -1,0 +1,28 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "ericsonf",
+      "renatogroffe"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Campinas .NET",
+    "Country": "Brazil",
+    "Url": "https://www.sympla.com.br/evento/global-azure-2023-campinas-sp-presencial-e-gratuito/1873212",
+    "SessionizeApiId": "2n7fnv22",
+    "SessionizeEventName": "https://sessionize.com/global-azure-2023-campinas-sp/",
+    "Logo": {
+      "Description": "Community logo is a .png file 500X500px named {foldername}.png.",
+      "File": "campinasdotnet.png"
+    },
+    "Locations": [
+      {
+        "Name": "Auditório da Venturus",
+        "Address": "Estrada Giuseppina Vianelli di Napolli, 1185 - Polo II de Alta Tecnologia - Campinas - SP",
+        "Latitude": -22.8115233,
+        "Longitude": -47.0501521
+      }
+    ]
+  }
+}

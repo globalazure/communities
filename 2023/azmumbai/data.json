@@ -1,0 +1,30 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "indcoder",
+      "",
+      ""
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Hackerspace Mumbai",
+    "Country": "India",
+    "Url": "https://hackmum.in/",
+    "SessionizeApiId": "ia6f6kc4",
+    "Description_SessionizeApiId": "https://sessionize.com/api/v2/ia6f6kc4/view/Sessions",
+    "SessionizeEventName": "https://sessionize.com/gab23mum/",
+    "Logo": {
+      "Description": "Global Azure Bootcamp & Hackerspace Mumbai logo with silhouette of Gateway of India in the background",
+      "File": "GABMum2023.png"
+    },
+    "Locations": [
+      {
+        "Name": "Mumbai",
+        "Address": "Microsoft Mumbai, 4th Floor, Windsor, CST Road, Kalina, Santacruz East, Mumbai, Maharashtra 400098, India ",
+        "Latitude": 19.0760,
+        "Longitude": 72.8777
+      }
+    ]
+  }
+}
