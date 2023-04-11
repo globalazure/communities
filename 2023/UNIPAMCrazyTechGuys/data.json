@@ -1,0 +1,31 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "jorgemaia", 
+      "flaviolucioqf"
+      
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Global Azure na UNIPAM (CrazyTechGuys)",
+    "Country": "Brasil",
+    "Description_SessionizeApiId": "https://sessionize.com/api/v2/7z4h3d7b/view/Sessions",
+    "SessionizeApiId": "7z4h3d7b",
+    "SessionizeEventName": "global-azure-crazytechguys-UNIPAM-2023",
+    "Logo": {
+      "Description": "Global Azure 2023 na UNIPAM - CrazyTechGuys",
+      "File": "UNIPAMCrazyTechGuys.png"
+    },
+    "Locations": [
+      {
+        "Description": "Each location where your community will be running a Global Azure event.",
+        "Name": "UNIPAM",
+        "Address": "R. Maj. Gote, 808 - Caiçaras, Patos de Minas - MG, 38700-207",
+        "Description_Lat_Lon": "The Lat and Lon location for where you want your community pin on the Global Azure Community Map (example 47.6457554, -122.1299952).",
+        "Latitude": -18.5755921,
+        "Longitude": -46.5133229
+      }
+    ]
+  }
+}
