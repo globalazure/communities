@@ -13,7 +13,7 @@ Talks will be delivered to our live audience and streamed on Coding Night NZ You
 
 ## Call for speakers
 
-If you are interested in speaking at Global Azure Auckland, submit your sessions at [Sessionize](https://sessionize.com/global-azure-auckland-2023/).
+If you are interested in speaking at Global Azure Auckland on May 13th, submit your sessions at [Sessionize](https://sessionize.com/global-azure-auckland-2023/).
 
 ## Organizers
 
