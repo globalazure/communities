@@ -1,0 +1,28 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "@SimranS22"
+       ]
+  },
+  "CommunityInfo": {
+    "Name": "Microsoft Learn Student Ambassadors Kolkata",
+    "Country": "India",
+    "Url": "https://www.linkedin.com/company/global-azure-kolkata",
+    "SessionizeApiId": "drli01sf",
+    "Description_SessionizeApiId": "If you have configured your Sessionize correctly then browsing to this url (replacing {Your sessionize event Id} with your event sessionize id) will return valid json: https://sessionize.com/api/v2/{Your sessionize event Id}/view/Sessions",
+    "SessionizeEventName": "{Global Azure 2023 - Kolkata}",
+    "Logo": {
+      "Description": "Community logo is a .png file 540X540px named AzureKol.png",
+      "File": "AzureKol.png"
+    },
+    "Locations": [
+      {
+        "Name": "Kolkata",
+        "Address": "{Optional address of the location}",
+        "Latitude": 22.5726,
+        "Longitude": 88.3639
+      }
+    ]
+  }
+}
