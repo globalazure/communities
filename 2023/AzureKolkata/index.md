@@ -1,6 +1,6 @@
 # Global Azure 2023 - Kolkata
 
-[![Global Azure 2023 - Kolkata](AzureKol.png)]
+![Global Azure 2023 - Kolkata](https://user-images.githubusercontent.com/103310345/231130219-791b0a45-0935-408e-b003-913eb22f57c3.png)
 
 ## Nomoshkar Kolkata🙏
 
@@ -17,4 +17,4 @@ Don't miss this opportunity to share your knowledge and network with fellow Azur
 * 📅 May, 13 2023
 * 🏠 TBD
 * 🎙️ Call for Speakers - https://sessionize.com/global-azure-2023-kolkata
-* 💶 Sponsors - We are looking for sponsors. Reach out to the organizing team [here](Simran.Sharma@studentambassadors.com). 
+* 💶 Sponsors - We are looking for sponsors. Reach out to the organizing team [here](https://github.com/SimranS22). 
