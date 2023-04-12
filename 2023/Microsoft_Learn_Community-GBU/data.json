@@ -20,8 +20,7 @@
       {
         "Description": "Each location where your community will be running a Global Azure event.",
         "Name": "Gautam Buddha University",
-        "Address": "Management Auditorium, Gautam Buddha University, Greater Noida, Uttar Pradesh 201312
-Greater Noida, India",
+        "Address": "Management Auditorium, Gautam Buddha University, Greater Noida, Uttar Pradesh India 201312",
         "Description_Lat_Lon": "The Lat and Lon location for where you want your community pin on the Global Azure Community Map (example 47.6457554, -122.1299952).",
         "Latitude": {28.416791},
         "Longitude": {77.523494}
