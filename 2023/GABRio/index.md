@@ -1,6 +1,6 @@
 # Global Azure Bootcamp Rio
 
-![Global Azure Bootcamp Rio - Edição 2023](template.png)
+![Global Azure Bootcamp Rio - Edição 2023](gabrio2023.png)
 
 Estamos de volta para mais uma edição do [Global Azure Bootcamp Rio](http://gabrio.azurewebsites.net/)!
 
