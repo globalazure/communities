@@ -1,4 +1,4 @@
-# Community title
+# Global Azure Bootcamp Rio
 
 ![Global Azure Bootcamp Rio - Edição 2023](template.png)
 
