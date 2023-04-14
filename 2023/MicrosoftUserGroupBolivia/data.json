@@ -11,9 +11,7 @@
     "Name": "Microsoft User Group Bolivia",
     "Country": "Bolivia",
     "Url": "https://linktr.ee/microsoftusergroup.bo",
-    "Description_SessionizeApiId": "If you have configured your Sessionize correctly then browsing to this url (replacing {Your sessionize event Id} with your event sessionize id) will return valid json: https://sessionize.com/api/v2/{Your sessionize event Id}/view/Sessions",
-    "SessionizeApiId": "{Your sessionize event Id}",
-    "SessionizeEventName": "{Your sessionize event name (or complete URL to the public Sessionize C4P, i.e. https://sessionize.com/global-azure or just global-azure)}",
+    "SessionizeEventName": "https://sessionize.com/global-azure-mug-bolivia-2023/",
     "Logo": {
       "Description": "MUGBo",
       "File": "mugbo.png"
