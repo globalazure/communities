@@ -1,6 +1,6 @@
 # Global Azure Angola by Data & Azure Community Luanda
 
-[![Data & Azure Community Luanda](LGAA.png "Visit us here!")](https://www.globalazure.ao/)
+[![Data & Azure Community Luanda](Logo%20Global%20Azure%20Angola.png "Visit us here!")](https://www.globalazure.ao/)
 
 Global Azure Angola is a community event organized by the Data & Azure Community Luanda.
 All around the world user groups and communities are sharing knowledge to professionals that want to learn more about Microsoft Azure and Cloud Computing!
