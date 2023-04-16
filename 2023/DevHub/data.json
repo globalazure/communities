@@ -1,0 +1,28 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "XFarooqi"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "DevHub",
+    "Country": "Pakistan",
+    "Url": "https://linktr.ee/devhub_",
+    "SessionizeApiId": "09ob25e2",
+    "Description_SessionizeApiId": "If you have configured your Sessionize correctly then browsing to this url (replacing {Your sessionize event Id} with your event sessionize id) will return valid json: https://sessionize.com/api/v2/09ob25e2/view/Sessions",
+    "SessionizeEventName": "https://sessionize.com/devhub-global-azure-2023",
+    "Logo": {
+      "Description": "DevHub",
+      "File": "DevHub.png"
+    },
+    "Locations": [
+      {
+        "Name": "COMSATS University, Sahiwal Campus",
+        "Address": "COMSATS University Rd, off GT road, Sahiwal District, Punjab 57000",
+        "Latitude": 30.641755,
+        "Longitude": 73.102013
+      }
+    ]
+  }
+}
