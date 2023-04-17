@@ -3,28 +3,28 @@
     "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
     "GitHubHandles": [
       "jorgemaia", 
-      "angelobelchior"
+      "flaviolucioqf"
       
     ]
   },
   "CommunityInfo": {
-    "Name": "Global Azure no Reactor SP (CrazyTechGuys)",
+    "Name": "Global Azure na UNIPAM (CrazyTechGuys)",
     "Country": "Brasil",
-    "Description_SessionizeApiId": "https://sessionize.com/api/v2/v2a4jf04/view/Sessions",
-    "SessionizeApiId": "v2a4jf04",
-    "SessionizeEventName": "global-azure-crazytechguys-sao-paulo-202",
+    "Description_SessionizeApiId": "https://sessionize.com/api/v2/7z4h3d7b/view/Sessions",
+    "SessionizeApiId": "7z4h3d7b",
+    "SessionizeEventName": "global-azure-crazytechguys-UNIPAM-2023",
     "Logo": {
-      "Description": "Global Azure 2023 Reactor SP by CrazyTechGuys",
-      "File": "AzureReactorSPCrazyTechGuys.png"
+      "Description": "Global Azure 2023 na UNIPAM - CrazyTechGuys",
+      "File": "UNIPAMCrazyTechGuys.png"
     },
     "Locations": [
       {
         "Description": "Each location where your community will be running a Global Azure event.",
-        "Name": "Microsoft Reactor SP",
-        "Address": "R. Jaceru, 225 - Vila Gertrudes, São Paulo - SP, 04705-000",
+        "Name": "UNIPAM",
+        "Address": "R. Maj. Gote, 808 - Caiçaras, Patos de Minas - MG, 38700-207",
         "Description_Lat_Lon": "The Lat and Lon location for where you want your community pin on the Global Azure Community Map (example 47.6457554, -122.1299952).",
-        "Latitude": -23.6219573,
-        "Longitude": -46.6932104
+        "Latitude": -18.5755921,
+        "Longitude": -46.5133229
       }
     ]
   }
