@@ -1,0 +1,25 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "AnahiSU"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Microsoft User Group Bolivia",
+    "Country": "Bolivia",
+    "Url": "https://linktr.ee/microsoftusergroup.bo",
+    "Logo": {
+      "Description": "MUGBo",
+      "File": "mugbo.png"
+    },
+    "Locations": [
+      {
+        "Name": "Bolivia",
+        "Address": "La Paz, Cochabamba, Santa Cruz, Sucre y más",
+        "Latitude": -16.796388,
+        "Longitude": -66.772417
+      }
+    ]
+  }
+}
