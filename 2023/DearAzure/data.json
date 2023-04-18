@@ -10,7 +10,7 @@
   },
   "CommunityInfo": {
     "Name": "Dear Azure",
-    "Country": "INDIA",
+    "Country": "India",
     "Url": "https://www.eventbrite.com/o/dear-azure-az-india-by-kasam-shaikh-18178264307",
     "Description_SessionizeApiId": "If you have configured your Sessionize correctly then browsing to this url (replacing {Your sessionize event Id} with your event sessionize id) will return valid json: https://sessionize.com/api/v2/{Your sessionize event Id}/view/Sessions",
     "SessionizeApiId": "{Your sessionize event Id}",
