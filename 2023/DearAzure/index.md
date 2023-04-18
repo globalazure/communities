@@ -2,7 +2,7 @@
 
 Welcome to Aamchi Mumbai Global Azure Bootcamp 2023!
 
-![Dear Azure](https://github.com/globalazure/communities/blob/main/2023/DearAzure/dearazure.png)
+![Dear Azure](https://raw.githubusercontent.com/globalazure/communities/main/2023/DearAzure/dearazure.png)
 
 We're excited to be hosting an event at Mumbai [Event Page](https://www.eventbrite.com/o/dear-azure-az-india-by-kasam-shaikh-18178264307)!
 
