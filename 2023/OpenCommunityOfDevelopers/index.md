@@ -1,8 +1,6 @@
 
 # Welcome to OCD Huddles | Azure Edition
 
-OCD India is providing an opportunity for speakers to participate in Global Azure 2023. The call for proposals is open and you can **apply here**: [Huddles CFP](https://lu.ma/Huddles-CFP2)
-
 ## 🍁 What is Huddles?
 
 ​​​Huddles is a meetup organized by OCD India, which aims to create awareness about specific technologies that benefit early-stage developers, working professionals, and developing teams. We aim to create an environment where participants can engage in meaningful discussions, learn from industry leaders, and expand their network.
@@ -23,7 +21,40 @@ OCD India is providing an opportunity for speakers to participate in Global Azur
 
 ## 🎟️ How to register?
 
-Follow us on our socials and stay tuned for info regarding registration.
+​You can register for the event by visiting our event registration link [here](https://lu.ma/OCD-Huddles-GlobalAzure)
+
+## 📝 Call for Proposals
+
+OCD India is providing an opportunity for speakers to participate in Global Azure 2023. ​We are looking for speakers who can share their knowledge and experience with the community. If you are interested in speaking at this event, please fill out the [Call for Proposals](https://lu.ma/Huddles-CFP2) form.
+<!-- 
+## 📝 Call for Sponsors
+
+​We are looking for sponsors who can help us make this event a success. If you are interested in sponsoring this event, please fill out the [Call for Sponsors](https://lu.ma/Huddles-Sponsor2) form.
+
+## 📝 Call for Volunteers
+
+​We are looking for volunteers who can help us make this event a success. If you are interested in volunteering for this event, please fill out the [Call for Volunteers](https://lu.ma/Huddles-Volunteer2) form.
+
+## 📝 Call for Partners
+
+​We are looking for partners who can help us make this event a success. If you are interested in partnering with us for this event, please fill out the [Call for Partners](https://lu.ma/Huddles-Partner2) form.
+
+## 📝 Call for Media Partners
+
+​We are looking for media partners who can help us make this event a success. If you are interested in partnering with us for this event, please fill out the [Call for Media Partners](https://lu.ma/Huddles-Media2) form.
+
+## 📝 Call for Community Partners
+
+​We are looking for community partners who can help us make this event a success. If you are interested in partnering with us for this event, please fill out the [Call for Community Partners](https://lu.ma/Huddles-Community2) form.
+
+## 📝 Call for Student Partners
+
+​We are looking for student partners who can help us make this event a success. If you are interested in partnering with us for this event, please fill out the [Call for Student Partners](https://lu.ma/Huddles-Student2) form.
+ -->
+
+---
+
+**Follow us on our socials and stay tuned for further updates.**
 
 [![Twitter Follow](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/OCD_India)
 [![Instagram Follow](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ocd.india/)
