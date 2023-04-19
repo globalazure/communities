@@ -52,8 +52,9 @@ OCD India is providing an opportunity for speakers to participate in Global Azur
 ​We are looking for student partners who can help us make this event a success. If you are interested in partnering with us for this event, please fill out the [Call for Student Partners](https://lu.ma/Huddles-Student2) form.
  -->
 
+---
 
-Follow us on our socials and stay tuned for further updates.
+**Follow us on our socials and stay tuned for further updates.**
 
 [![Twitter Follow](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/OCD_India)
 [![Instagram Follow](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ocd.india/)
