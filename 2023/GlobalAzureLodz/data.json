@@ -1,0 +1,27 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "Andrzejkokocinski"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Global Azure Łódź ",
+    "Country": "Poland",
+    "Url": "https://app.evenea.pl/event/globalazurelodz/",
+    "Description_SessionizeApiId": "https://sessionize.com/api/v2/ou668e6u/view/Sessions",
+    "SessionizeApiId": "ou668e6u",
+    "SessionizeEventName": "global-azure-lodz-2023",
+    "Logo": {
+      "Description": "GlobalAzureLodz",
+      "File": "GlobalAzurelodz.png"
+    },
+    "Locations": [
+      {
+        "Name": "Lodz",
+        "Latitude": 51.759326199155716,
+        "Longitude": 19.459243665523722
+      }
+    ]
+  }
+}
