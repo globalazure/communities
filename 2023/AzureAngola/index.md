@@ -1,4 +1,4 @@
-# Global Azure Angola by Data & Azure Community Luanda
+# Global Azure Angola by Data & Azure Community Luanda 
 
 [![Data & Azure Community Luanda](Logo%20Global%20Azure%20Angola.png "Visit us here!")](https://www.globalazure.ao/)
 
