@@ -1,0 +1,28 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "ahzahri"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Microsoft Tech Group Strasbourg",
+    "Country": "France",
+    "Url": "https://www.linkedin.com/company/87242272/",
+    "SessionizeApiId": "",
+    "Description_SessionizeApiId": "If you have configured your Sessionize correctly then browsing to this url (replacing {Your sessionize event Id} with your event sessionize id) will return valid json: https://sessionize.com/api/v2/joc32ual/view/Sessions",
+    "SessionizeEventName": "",
+    "Logo": {
+      "Description": "Microsoft Tech Group Strasbourg Logo",
+      "File": "MTGStrasbourg.png"
+    },
+    "Locations": [
+      {
+        "Name": "Strasbourg",
+        "Address": "Avenue des Vosges, 67000, Strasbourg",
+        "Latitude": 48.589521,
+        "Longitude": 7.751291
+      }
+    ]
+  }
+}

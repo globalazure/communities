@@ -1,0 +1,29 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "bjompen",
+      "SimonWahlin",
+      "StefanIvemo",
+      "PalmEmanuel"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Global Azure Stockholm",
+    "Country": "Sweden",
+    "Url": "https://www.meetup.com/vasteras-azure-user-group/events/291645252/",
+    "SessionizeApiId": "l7bcancn",
+    "SessionizeEventName": "Global Azure Stockholm 2023",
+    "Logo": {
+      "Description": "Global Azure Stockholm 2023",
+      "File": "gasthlm.png"
+    },
+    "Locations": [
+      {
+        "Name": "Stockholm",
+        "Latitude": 59.334240,
+        "Longitude": 18.067720
+      }
+    ]
+  }
+}

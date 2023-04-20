@@ -1,0 +1,32 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "carloslauff",
+      "",
+      ""
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Global Azure Bootcamp Rio - Edição 2023",
+    "Country": "Brasil",
+    "Url": "https://gabrio.azurewebsites.net",
+    "Description_SessionizeApiId": "https://sessionize.com/api/v2/5ened6s3/view/Sessions",
+    "SessionizeApiId": "5ened6s3",
+    "SessionizeEventName": "https://sessionize.com/global-azure-bootcamp-rio",
+    "Logo": {
+      "Description": "Community logo is a .png file 500X500px in this folder!",
+      "File": "{Logofilename}"
+    },
+    "Locations": [
+      {
+        "Description": "Each location where your community will be running a Global Azure event.",
+        "Name": "Instituto Infnet",
+        "Address": "Rua São José, 90 - Centro - Rio de Janeiro",
+        "Description_Lat_Lon": "The Lat and Lon location for where you want your community pin on the Global Azure Community Map (example 47.6457554, -122.1299952).",
+        "Latitude": -22.906130,
+        "Longitude": -43.176850
+      }
+    ]
+  }
+}

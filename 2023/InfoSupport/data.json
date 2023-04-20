@@ -1,0 +1,30 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "amolenk",
+      "eNeRGy164",
+      "tom171296"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Info Support Microsoft Community",
+    "Country": "The Netherlands",
+    "Url": "https://www.infosupport.com/resources/global-azure-2023/",
+    "SessionizeApiId": "",
+    "Description_SessionizeApiId": "If you have configured your Sessionize correctly then browsing to this url (replacing {Your sessionize event Id} with your event sessionize id) will return valid json: https://sessionize.com/api/v2/{Your sessionize event Id}/view/Sessions",
+    "SessionizeEventName": "",
+    "Logo": {
+      "Description": "Community logo is a .png file 500X500px named {foldername}.png.",
+      "File": "InfoSupport.png"
+    },
+    "Locations": [
+      {
+        "Name": "Info Support",
+        "Address": "Kruisboog 42, 3905TG, Veenendaal, The Netherlands",
+        "Latitude": 52.041204664073454,
+        "Longitude": 5.534951827364987
+      }
+    ]
+  }
+}

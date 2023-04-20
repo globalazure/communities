@@ -12,7 +12,7 @@ We want to make sure any community who is interested in being part of #GlobalAzu
 
 1. Fork this repo.
 2. Find the right year folder. (Hint: For Global Azure 2023 the folder is '2023'.)
-3. Copy the root folder "_template" and give it a repo unique folder name for example with the name of your community.
+3. Copy the folder "template" and give it a repo unique folder name for example with the name of your community.
    * Example: Your community name is "Foo Community in Malmö Sweden" you could make your folder name in this repo this: './2023/FooCommunity/'.
    * You pick the folder name.
    * If it is already taken you need to choose another name.
@@ -24,9 +24,9 @@ We want to make sure any community who is interested in being part of #GlobalAzu
 6. Update the rest of the data in data.json to match your community. We recommend using the English country name to better integrate with the Global Azure website.
 7. Your community locations are optional and will be used to build a global map with all the communities. To find your location, you can use Google Maps or a site like https://www.latlong.net. Note you can add more than one location to support communities spread over different locations.
 8. Your community logo: Place a square 500x500 px .png in the folder named {folder name}.png (example from above './2023/FooCommunity/FooCommunity.png').
-9. Make a PR!
-   * We review the PRs manually - automation will follow if this becomes too much of a burden. The process of pushing your information to our web site is *best-community-effort-based* and should be reasonably automatic.
-   * If needs be notify [@globalazure](https://twitter.com/globalazure) of your PR or [contact us](https://blog.globalazure.net/About/Contact-Us) through the Global Azure site!
+9. Make a PR (Pull Request)!
+   * At the top of your fork there is a section for Pull Requests. You create a "New Pull Request" to signal to us that we are to review and pull your changes from your fork into our main in our repository.
+   * We review the PRs manually. The process of pushing your information to our web site is *best-community-effort-based* and should be reasonably quick.
 
 ## How community PRs are reviewed
 
@@ -47,5 +47,12 @@ The rules for PR review are:
 
 Regards,  
 
-[@globalazure](https://twitter.com/globalazure)  
-[@davidjrh](https://twitter.com/davidjrh), [@iamalexmang](https://twitter.com/iamalexmang), [@noopman](https://twitter.com/noopman), [@sjoukjezaal](https://twitter.com/sjoukjezaal), [@wesleycabus](https://twitter.com/wesleycabus)
+[@globalazure Admins](https://twitter.com/globalazure):
+
+[Alex Mang](https://github.com/iamalexmang),
+Allen O'Neill
+[David Rodríguez](https://github.com/davidjrh),
+[Luce Carter](https://github.com/LuceCarter),
+[Magnus M&aring;rtensson](https://github.com/noopman),
+Olena Borzenko
+[Rik Hepworth](https://github.com/rikhepworth)

@@ -1,0 +1,28 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "ThomasPe"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Azure DEV Meetup München",
+    "Country": "Germany",
+    "Url": "https://global.azuredev.org/",
+    "SessionizeApiId": "ge246qi8",
+    "Description_SessionizeApiId": "If you have configured your Sessionize correctly then browsing to this url (replacing {Your sessionize event Id} with your event sessionize id) will return valid json: https://sessionize.com/api/v2/joc32ual/view/Sessions",
+    "SessionizeEventName": "Global Azure Munich 2023",
+    "Logo": {
+      "Description": "Azure DEV Meetup München Logo",
+      "File": "AzureDevMeetupMunich.png"
+    },
+    "Locations": [
+      {
+        "Name": "Munich",
+        "Address": "Walter-Gropius-Straße 5, 80807 München",
+        "Latitude": 48.17783190942424,
+        "Longitude": 11.593826927289166
+      }
+    ]
+  }
+}

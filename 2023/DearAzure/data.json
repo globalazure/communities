@@ -1,0 +1,33 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "kasamshaikh",
+	  "saineshwar",
+      "",
+      ""
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Dear Azure",
+    "Country": "India",
+    "Url": "https://www.eventbrite.com/o/dear-azure-az-india-by-kasam-shaikh-18178264307",
+    "Description_SessionizeApiId": "If you have configured your Sessionize correctly then browsing to this url (replacing {Your sessionize event Id} with your event sessionize id) will return valid json: https://sessionize.com/api/v2/{Your sessionize event Id}/view/Sessions",
+    "SessionizeApiId": "{Your sessionize event Id}",
+    "SessionizeEventName": "https://www.eventbrite.com/o/dear-azure-az-india-by-kasam-shaikh-18178264307",
+    "Logo": {
+      "Description": "Community logo is a .png file 500X500px in this folder!",
+      "File": "dearazure.png"
+    },
+    "Locations": [
+      {
+        "Description": "Microsoft Office, Mumbai, INDIA.",
+        "Name": "Mumbai",
+        "Address": "Microsoft Mumbai, 4th Floor, Windsor, CST Road, Kalina, Santacruz East, Mumbai, Maharashtra 400098, India",
+        "Description_Lat_Lon": "Microsoft Office, Mumbai",
+        "Latitude": 19.0760,
+        "Longitude": 72.8777
+      }
+    ]
+  }
+}

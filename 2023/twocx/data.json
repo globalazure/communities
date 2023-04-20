@@ -1,0 +1,30 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "malakzia",
+      "",
+      ""
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Azure Day by TwoCX",
+    "Country": "Pakistan",
+    "Url": "https://www.facebook.com/events/868067437833119",
+    "SessionizeApiId": "c6gswpfr",
+    "Description_SessionizeApiId": "If you have configured your Sessionize correctly then browsing to this url (replacing {Your sessionize event Id} with your event sessionize id) will return valid json: https://sessionize.com/api/v2/c6gswpfr/view/Sessions",
+    "SessionizeEventName": "https://sessionize.com/twocx-global-azure-2023",
+    "Logo": {
+      "Description": "TwoCX Academy - Azure Group",
+      "File": "twocx-global-azure.png"
+    },
+    "Locations": [
+      {
+        "Name": "TwoCX Swat Office",
+        "Address": "TwoCX, Nasir Khel, Bara Bandai, Swat, KP Pakistan",
+        "Latitude": 34.8223234,
+        "Longitude": 72.3972164
+      }
+    ]
+  }
+}

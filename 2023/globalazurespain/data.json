@@ -1,0 +1,38 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "davidjrh",
+      "adiazcan",
+      "santypr"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Global Azure Spain",
+    "Country": "Spain",
+    "Url": "https://globalazure.es",
+    "SessionizeApiId": "rw5eqe7m",
+    "SessionizeEventName": "https://sessionize.com/global-azure-2023-spain/",
+    "Logo": {
+      "Description": "Community logo is a .png file 500X500px named {foldername}.png.",
+      "File": "GlobalAzure2023LiveFromSpain-250.png"
+    },
+    "Locations": [
+      {
+        "Name": "Madrid",
+        "Latitude": 40.416775,
+        "Longitude": -3.703790
+      },
+      {
+        "Name": "Barcelona",
+        "Latitude": 41.385064,
+        "Longitude": 2.173403
+      },
+      {
+        "Name": "Zaragoza",
+        "Latitude": 41.651750,
+        "Longitude": -0.930000
+      }
+    ]
+  }
+}
