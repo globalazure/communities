@@ -8,10 +8,10 @@
   "CommunityInfo": {
     "Name": "{Microsoft Learn Community - GBU}",
     "Country": "{India}",
-    "Url": "https://www.linkedin.com/in/srronaksingh/&wt.mc_id=studentamb_244015",
+    "Url": "https://yourcommunity.something/",
     "Description_SessionizeApiId": "If you have configured your Sessionize correctly then browsing to this url (replacing {Your sessionize event Id} with your event sessionize id) will return valid json: https://sessionize.com/api/v2/h7zfs3pq/view/Sessions",
     "SessionizeApiId": "h7zfs3pq",
-    "SessionizeEventName": "Microsoft Learn Community Global Azure 2023 Bootcamp",
+    "SessionizeEventName": "https://sessionize.com/microsoft-learn-community-global-azure-2023/",
     "Logo": {
       "Description": "Community logo is a .png file 500X500px in this folder!",
       "File": "MLC-GBU_Global_Azure.png"
