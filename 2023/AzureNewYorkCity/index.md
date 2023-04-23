@@ -7,11 +7,9 @@ The New York City event will be an afternoon and evening of learning with fantas
 
 The event will take place on Thursday, May 11th from 2pm EST to 8pm EST at the Microsoft New York City Reactor at 11 Times Square.
 
-Registration information will be available soon for those looking to attend in person.
+Registration is now open on the Microsoft Reactor site:
 
-If you are interested in speaking at the event, please submit your session at Sessionize:
-
-[Submit Session](https://sessionize.com/global-azure-new-york-city-2023/)
+[Registration](https://reactor.microsoft.com/en-us/reactor/events/19211/)
 
 If you have any questions, feedback or thoughts, please reach out to the Community organizer:
 
