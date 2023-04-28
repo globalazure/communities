@@ -6,8 +6,8 @@
     ]
   },
   "CommunityInfo": {
-    "Name": "{Microsoft Learn Community - GBU}",
-    "Country": "{India}",
+    "Name": "Microsoft Learn Community - GBU",
+    "Country": "India",
     "Url": "https://linktr.ee/mlc_gbu",
     "Description_SessionizeApiId": "If you have configured your Sessionize correctly then browsing to this url (replacing {Your sessionize event Id} with your event sessionize id) will return valid json: https://sessionize.com/api/v2/h7zfs3pq/view/Sessions",
     "SessionizeApiId": "h7zfs3pq",
