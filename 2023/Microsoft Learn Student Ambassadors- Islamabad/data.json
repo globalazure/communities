@@ -1,0 +1,28 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "EmanAmjad"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Microsoft Learn Student Ambassadors-Islamabad",
+    "Country": "Pakistan",
+    "Url": "https://",
+    "SessionizeApiId": " ",
+    "Description_SessionizeApiId": "If you have configured your Sessionize correctly then browsing to this url (replacing {Your sessionize event Id} with your event sessionize id) will return valid json: https://sessionize.com/api/v2/{Your sessionize event Id}/view/Sessions",
+    "SessionizeEventName": " ",
+    "Logo": {
+      "Description": "Community logo ",
+      "File": ""
+    },
+    "Locations": [
+      {
+        "Name": "MLSA- Islamabad",
+        "Address": "Islamabad Pakistan",
+        "Latitude": 33.6842699087201,
+        "Longitude":73.04345548528059
+      }
+    ]
+  }
+}
