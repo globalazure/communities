@@ -1,4 +1,5 @@
 
+
 Microsoft Learn Community Global Azure 2023
 ===
 ![Microsoft Learn Community Global Azure](MLC-GBU_Global_Azure.png)
