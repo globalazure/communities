@@ -1,0 +1,30 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+                                                                    "GitHubHandles": [
+      "",
+      "",
+      ""
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Cloud Experts Community",
+    "Country": "Perú",
+    "Url": "https://www.meetup.com/es-ES/cloudexpertsc/events/292526242/",
+    "SessionizeApiId": "h2gr7sya",
+    "Description_SessionizeApiId": "https://sessionize.com/api/v2/h2gr7sya/view/Sessions",
+    "SessionizeEventName": "https://sessionize.com/gab2023cec",
+    "Logo": {
+      "Description": "Cloud Experts",
+      "File": "cec2.png"
+    },
+    "Locations": [
+      {
+        "Name": "Lima",
+        "Address": "Camara de Comercio de Lima",
+        "Latitude": -12.08,
+        "Longitude": -77.04
+      }
+    ]
+  }
+}
