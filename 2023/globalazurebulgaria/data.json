@@ -6,10 +6,10 @@
     ]
   },
   "CommunityInfo": {
-    "Name": "Global Azure Warsaw",
+    "Name": "Global Azure Bulgaria",
     "Country": "Poland",
-    "Url": "https://globalazurewarsaw.net/",
-    "Description_SessionizeApiId": "https://sessionize.com/api/v2/73rbfx77/view/Sessions",
+    "Url": "https://globalazure.eu/",
+    "Description_SessionizeApiId": "https://sessionize.com/api/v2/dtlp91mu/view/Sessions",
     "SessionizeApiId": "dtlp91mu",
     "SessionizeEventName": "global-azure-bulgaria-2023",
     "Logo": {
