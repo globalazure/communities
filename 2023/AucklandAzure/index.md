@@ -2,9 +2,9 @@
 
 ![Global Azure Auckland](logo.png)
 
-We're excited to be hosting an event at the **[Auckland Azure Lunchtime Meetup](https://www.meetup.com/auckland-azure-lunchtime-meetup/)** in Auckland on **May 11th and 12th**!
+We're excited to be hosting an event at the **[Aotearoa Azure Meetup](https://www.meetup.com/auckland-azure-usergroup/)** in Auckland on **May 12th**!
 
-We are having hybrid lunch sessions to talk about Azure!
+We are having a hybrid lunch session to talk about Azure!
 
 Expect great sessions covering AI, security, identity, developer technologies, devops and beyond.
 
@@ -14,7 +14,7 @@ Talks will be delivered to our live audience and streamed through Microsoft Team
 
 ## Tickets
 
-Registration will be available on [Meetup](https://www.meetup.com/auckland-azure-lunchtime-meetup/) in the near future.
+Registration is available on [Meetup](https://www.meetup.com/auckland-azure-usergroup/events/293269056/).
 
 ## Organizers
 
