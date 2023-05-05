@@ -1,0 +1,32 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "EmanAmjad",
+      "usmanniazi",
+      ""
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Microsoft Learn Student Ambassadors- Islamabad",
+    "Country": "Pakistan",
+    "Url": "https://yourcommunity.something/",
+    "Description_SessionizeApiId": "If you have configured your Sessionize correctly then browsing to this url (replacing {Your sessionize event Id} with your event sessionize id) will return valid json: https://sessionize.com/api/v2/{Your sessionize event Id}/view/Sessions",
+    "SessionizeApiId": "{zqe7q7zc}",
+    "SessionizeEventName": "{Your sessionize event name (or complete URL to the public Sessionize C4P, i.e. https://sessionize.com/data-engineering-on-azure)}",
+    "Logo": {
+      "Description": "Community logo is a .png file 500X500px in this folder!",
+      "File": "{Logofilename}"
+    },
+    "Locations": [
+      {
+        "Description": "Each location where your community will be running a Global Azure event.",
+        "Name": "{Pakistan}",
+        "Address": "{Islamabad}",
+        "Description_Lat_Lon": "The Lat and Lon location for where you want your community pin on the Global Azure Community Map (example 47.6457554, -122.1299952).",
+        "Latitude": 33.70597892722437,
+        "Longitude": 73.04757535820217
+      }
+    ]
+  }
+}
