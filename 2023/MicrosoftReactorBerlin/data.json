@@ -5,17 +5,17 @@
     ]
   },
   "CommunityInfo": {
-    "Name": "Global Azure Berlin",
+    "Name": "Microsoft Reactor Berlin",
     "Country": "Germany",
     "Url": "https://www.microsoft.com/de-de/techwiese/events/microsoft-reactor-azure-global-berlin-2023.aspx",
     "SessionizeApiId": "w8xhawr9",
     "SessionizeEventName": "https://sessionize.com/global-azure-2023-Microsoft-Reactor-Berlin/",
     "Logo": {
-      "File": "GlobalAzureBerlin.png"
+      "File": "MicrosoftReactorBerlin.png"
     },
     "Locations": [
       {
-        "Name": "Global Azure Berlin",
+        "Name": "Microsoft Reactor Berlin",
         "Address": "Unter den Linden 17, 10117 Berlin",
         "Latitude": 52.516800,
         "Longitude": 13.390460
