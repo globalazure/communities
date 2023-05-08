@@ -1,8 +1,8 @@
-Global Azure London
+Global Azure Berlin
 
-We're excited to be hosting an event at the Microsoft Reactor in Berlin on May 12th!
+We're excited to be hosting an event at the [Microsoft Reactor in Berlin](https://www.microsoft.com/de-de/techwiese/events/microsoft-reactor-azure-global-berlin-2023.aspx) on May 12th.
 
-Expect a day packed full of awesome Azure talks, covering everything from PaaS, DevOps, IoT, AI / ML, security, tooling, and beyond.
+Expect a day packed full of awesome Azure talks, covering everything from AI / ML and beyond.
 
 This is also a great chance to network with MVPs and experts in the Azure world.
 
