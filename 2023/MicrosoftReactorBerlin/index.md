@@ -1,4 +1,6 @@
-Global Azure Berlin
+![Microsoft Reactor Berlin](./MicrosoftReactorBerlin.PNG "MicrosoftReactorBerlin")
+
+# Global Azure 2023 @ Microsoft Reactor Berlin
 
 We're excited to be hosting an event at the [Microsoft Reactor in Berlin](https://www.microsoft.com/de-de/techwiese/events/microsoft-reactor-azure-global-berlin-2023.aspx) on May 12th.
 
