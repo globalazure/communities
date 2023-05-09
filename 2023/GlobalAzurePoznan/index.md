@@ -18,6 +18,6 @@ Prowadzący warsztat: Artur Mucha, CloudOps Lead, Nordcloud
 
 ## 15:00 - … - Prelekcje i networking
 
-Więcej szczegółów wkrótce. Dokładna agenda zostanie opublikowana w pierwszym tygodniu maja.
+Więcej szczegółów wkrótce.
 
 Wydarzenie jest w 100% darmowe! Od społeczności - dla społeczności! I dlatego, jako społeczność - chcemy pomagać i mnożyć nasze dobro! Przy okazji tej edycji wydarzenia pomagamy naszemu koledze Grzegorzowi i jego choremu synkowi Remkowi - wejdź, wesprzyj i zapoznaj się z ich historią: https://www.siepomaga.pl/remek-kieszkowski.
