@@ -10,23 +10,23 @@ Don't miss this opportunity to join us and network with fellow Azure enthusiasts
 
 ## Event Details:
 
-**Title:** Data Engineering on Azure
-**Date:** 12 May, 2023
-**Time:** 9 PM(UTC+5:00) Islamabad, Paksitan
-**Platform:** Microsoft Teams
-**Registration Form:** https://bit.ly/DataEngineeringonAzureforGlobalAzure2023
++ **Title:** Data Engineering on Azure
++ **Date:** 12 May, 2023
++ **Time:** 9 PM(UTC+5:00) Islamabad, Paksitan
++ **Platform:** Microsoft Teams
++ **Registration Form:** https://bit.ly/DataEngineeringonAzureforGlobalAzure2023
 
 
 ## Event Collaborators:
-**Organizer:** Eman Amjad *(Beta MLSA)*
-**Speaker:** Usman Khan *(Gold MLSA)*
-**Mentor:** Gosia Borzecka *(Microsoft AI MVP)*
++ **Organizer:** Eman Amjad *(Beta MLSA)*
++ **Speaker:** Usman Khan *(Gold MLSA)*
++ **Mentor:** Gosia Borzecka *(Microsoft AI MVP)*
 
 
 ## CONNECT WITH MLSA Islamabad:
-**Twitter:** https://twitter.com/mlsaislamabad
-**Instagram:** https://www.instagram.com/mlsaislamabad
-**LinkedIn:** https://www.linkedin.com/company/mlsaislamabad
-**Facebook:** https://www.facebook.com/mlsaislamabad
++ **Twitter:** https://twitter.com/mlsaislamabad
++ **Instagram:** https://www.instagram.com/mlsaislamabad
++ **LinkedIn:** https://www.linkedin.com/company/mlsaislamabad
++ **Facebook:** https://www.facebook.com/mlsaislamabad
 
 
