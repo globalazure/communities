@@ -16,7 +16,7 @@ W tym roku organizujemy to wydarzenie również w Poznaniu! Ze względu na ogran
 Poziom: Junior (100)
 Prowadzący warsztat: Artur Mucha, CloudOps Lead, Nordcloud
 
-~~15:00 - … - Prelekcje i networking ~~
+~~15:00 - … - Prelekcje i networking~~
 
 **W związku z małym zainteresowaniem, część związana z prelekcjami zostaje odwołana. Dzięki temu zyskamy przestrzeń na przedłużenie warsztatów!**
 
