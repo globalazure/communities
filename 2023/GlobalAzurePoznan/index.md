@@ -16,8 +16,8 @@ W tym roku organizujemy to wydarzenie również w Poznaniu! Ze względu na ogran
 Poziom: Junior (100)
 Prowadzący warsztat: Artur Mucha, CloudOps Lead, Nordcloud
 
-## 15:00 - … - Prelekcje i networking
+~~15:00 - … - Prelekcje i networking ~~
 
-Więcej szczegółów wkrótce.
+**W związku z małym zainteresowaniem, część związana z prelekcjami zostaje odwołana. Dzięki temu zyskamy przestrzeń na przedłużenie warsztatów!**
 
 Wydarzenie jest w 100% darmowe! Od społeczności - dla społeczności! I dlatego, jako społeczność - chcemy pomagać i mnożyć nasze dobro! Przy okazji tej edycji wydarzenia pomagamy naszemu koledze Grzegorzowi i jego choremu synkowi Remkowi - wejdź, wesprzyj i zapoznaj się z ich historią: https://www.siepomaga.pl/remek-kieszkowski.
