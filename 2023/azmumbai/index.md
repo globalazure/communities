@@ -1,6 +1,6 @@
 # Global Azure Bootcamp 2023 - Mumbai
 
-[![Global Azure Bootcamp 2023 - Mumbai](GABMum2023.png "Global Azure Bootcamp 2022 - Mumbai registration")](http://gab22mum.eventbrite.com)
+[![Global Azure Bootcamp 2023 - Mumbai](GABMum2023.png "Global Azure Bootcamp 2022 - Mumbai registration")](https://gab23mum.eventbrite.com/?aff=gab)
 
 ## नमस्कार, मुंबई 🙏
 
