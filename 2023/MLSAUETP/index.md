@@ -13,18 +13,24 @@ Join us at Global Azure Day 2023 to connect with fellow Azure enthusiasts and im
 ## 🗓️ Event Detail:
 
 **Title:** 3-Tier VM Application Deployment on Azure
+
 **Day:** 13 May 2023\*
+
 **Time:** 7:30 To 9:00 PM (Pakistan Standard Time)
+
 **Venue:** Microsoft Teams
 
 ## 🗣️ Event Collaborators:
 
 **Organizer & Speaker:** [Tameem Ud Din](https://www.linkedin.com/in/tameem623/) _(Beta MLSA)_
+
 **Contributor:** Sameer Ahmed Siddiqui _(Beta MLSA)_
 
 ## 🤝 CONNECT WITH MSLA UET Peshawar
 
 [🔗 **LinkedIn:** MLSA UET Peshawar](https://www.linkedin.com/company/mlsauetp/)
+
 [🔗 **Facebook:** Microsoft Learn Student Ambassador - UET Peshawar ](https://www.facebook.com/MLSAUETP/)
+<br>
 
 <span style="font-size: small; color: grey;">\* The timing of the event is subject to change due to factors such as internet unavailability and uncertain conditions in Pakistan. Stay tuned on our social media handles for the updates.</span>
