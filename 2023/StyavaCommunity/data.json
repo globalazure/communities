@@ -1,0 +1,27 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "kulkarnikushal17"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Styava Community",
+    "Country": "India",
+    "Url": "https://azure.styava.dev/apac/en/home",
+    "SessionizeApiId": "",
+    "SessionizeEventName": "",
+    "Logo": {
+      "Description": "Community logo is a .png file 500X500px named styavacommunity.png.",
+      "File": "styavacommunity.png"
+    },
+    "Locations": [
+      {
+        "Name": "Pune",
+        "Address": "22 Aundh Road Pune 411020 India",
+        "Latitude": 18.5204,
+        "Longitude": 73.8567
+      }
+    ]
+  }
+}
