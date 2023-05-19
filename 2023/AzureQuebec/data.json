@@ -10,7 +10,7 @@
     "Name": "Communauté Azure de Québec",
     "Country": "Canada",
     "Url": "https://meetup.com/azureqc",
-    "SessionizeApiId": "{Your sessionize event Id}",
+    "SessionizeApiId": "",
     "Logo": {
       "Description": "Community logo is a .png file 500X500px named AzureQuebec.png.",
       "File": "AzureQuebec.png"
