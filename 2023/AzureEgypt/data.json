@@ -1,0 +1,31 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "@iabdelrhmaneyad",
+      "@OmarSalah26"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Microsoft Learn Student Ambassadors Egypt",
+    "Country": "Egypt",
+    "Url": "https://www.facebook.com/MLSAEgypt",
+    "Description_SessionizeApiId": "If you have configured your Sessionize correctly then browsing to this url (replacing {Your sessionize event Id} with your event sessionize id) will return valid json: https://sessionize.com/api/v2/{Your sessionize event Id}/view/Sessions",
+    "SessionizeApiId": "ka74ryg9",
+    "SessionizeEventName": "Global Azure Egypt 2023, URL https://sessionize.com/global-azure-egypt-2023/",
+    "Logo": {
+      "Description": "Community logo is a .png file 500X500px in this folder!",
+      "File": "logo.png"
+    },
+    "Locations": [
+      {
+        "Description": "Each location where your community will be running a Global Azure event.",
+        "Name": "Egypt",
+        "Address": "Cairo, Egypt",
+        "Description_Lat_Lon": "The Lat and Lon location for where you want your community pin on the Global Azure Community Map (example 47.6457554, -122.1299952).",
+        "Latitude": 30.044420,
+        "Longitude": 31.235712
+      }
+    ]
+  }
+}

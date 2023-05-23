@@ -1,0 +1,27 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "PiotrWachulec"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Global Azure Bulgaria",
+    "Country": "Poland",
+    "Url": "https://globalazure.eu/",
+    "Description_SessionizeApiId": "https://sessionize.com/api/v2/dtlp91mu/view/Sessions",
+    "SessionizeApiId": "dtlp91mu",
+    "SessionizeEventName": "global-azure-bulgaria-2023",
+    "Logo": {
+      "Description": "Global Azure 2023 Bulgaria logo",
+      "File": "GlobalAzure2023Bulgaria500x500.png"
+    },
+    "Locations": [
+      {
+        "Name": "Onsite in Sofia, Bulgaria (Sofia Tech Park)",
+        "Latitude": 42.6675913,
+        "Longitude": 23.3712187
+      }
+    ]
+  }
+}

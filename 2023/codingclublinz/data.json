@@ -1,0 +1,26 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "rstropek",
+      "karin112358"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Coding Club Linz",
+    "Country": "Austria",
+    "Url": "https://globalazure.at",
+    "Logo": {
+      "Description": "Community logo is a .png file 500X500px named {foldername}.png.",
+      "File": "codingclublinz.png"
+    },
+    "Locations": [
+      {
+        "Name": "Linz, Austria",
+        "Address": "Online, virtual event",
+        "Latitude": 48.306938,
+        "Longitude": 14.285830
+      }
+    ]
+  }
+}
