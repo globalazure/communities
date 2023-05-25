@@ -67,5 +67,4 @@ We enjoyed hosting you, excited to see you next year more enthusiasm.
 
 Here is a quick recap
 
-<iframe width="420" height="345" src="https://www.youtube.com/embed/a0nnxO5K4Nw">
-</iframe>
+https://www.youtube.com/watch?v=a0nnxO5K4Nw
