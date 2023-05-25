@@ -55,7 +55,11 @@ The exciting QUIZ participation and the give aways
 
 [![Global Azure Bangalore 2023](Quiz.jpeg "See you next year !")](https://bengaluru.globalazure.in/)
 
+And few moments captured
 
+[![Global Azure Bangalore 2023](collage_1.gif "See you next year !")](https://bengaluru.globalazure.in/)
+
+[![Global Azure Bangalore 2023](collage_2.gif "See you next year !")](https://bengaluru.globalazure.in/)
 
 It is great to hear back 
 
