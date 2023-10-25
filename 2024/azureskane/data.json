@@ -1,29 +1,24 @@
 {
-  "ValidMaintainers": {
-    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
-    "GitHubHandles": [
-      "noopman",
-      "BMichaelJ",
-      "gvu-agnitio",
-      "negarfield"
-    ]
-  },
-  "CommunityInfo": {
-    "Name": "Azure Skåne",
-    "Country": "Sweden",
-    "Url": "https://www.meetup.com/Azure-Skane/",
-    "SessionizeApiId": "",
-    "SessionizeEventName": "",
-    "Logo": {
-      "Description": "Azure Skåne",
-      "File": "azureskane.png"
+    "ValidMaintainers": {
+      "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+      "GitHubHandles": [
+        "itstalmeez"
+      ]
     },
-    "Locations": [
-      {
-        "Name": "Malmö",
-        "Latitude": 55.61126802005422,
-        "Longitude": 13.00184398064394
-      }
-    ]
+    "CommunityInfo": {
+      "Name": "TechEmpire",
+      "Country": "Pakistan",
+      "Url": "https://www.linkedin.com/in/itstalmeez/",
+      "Logo": {
+        "Description": "TechEmpire",
+        "File": "TE logo light.png"
+      },
+      "Locations": [
+        {
+          "Name": "Arid Agriculture University, Sahiwal Campus",
+          "Address": "520 B-7 Jail Rd, Sahiwal, Sahiwal District, Punjab 57000",
+        
+        }
+      ]
+    }
   }
-}

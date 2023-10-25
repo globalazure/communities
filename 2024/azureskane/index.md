@@ -1,18 +1,11 @@
-# Azure Sk&aring;ne
+Tech Empire is not just a community but has a great vision to related to emerging technology. We are going to build empire and we'll have International good reputation among societies. It is a friendly community with a focus on empowering students. Tech Empire also provides Mentorship, Leading Skills, Structured Roadmaps and Virtual internship opportunities. Our Main agenda is not just Web Development, App Development but we will add emerging technologies like AI/ML/AR/VR/BlockChain.  
 
-[![Azure Skåne logo](azureskane_small.png "Join Azure Sk&aring;ne here")](https://www.meetup.com/Azure-Skane/)
 
-Our community operates in the south of Sweden, based out of Malm&ouml;. We strive to run monthly meetups, and to invite interesting speakers with exciting Azure topics. We are set up to live stream and you can visit our events to view them live and socialize with the other members.
+Want To Be Speaker For Our Event? Feel Free To Ping!
 
-[Please pop into our Meetup page and have a look at our community and our activities - and do join our over 1 000 members!](https://www.meetup.com/Azure-Skane/)
+Talmeez Fuaad LinkedIn
 
-If you have any questions, feedback or thoughts, please reach out to the community organizers:
 
-* Goran Vuksic
-* Magnus M&aring;rtensson [Azure MVP](https://mvp.microsoft.com/en-us/PublicProfile/4038183) & [Microsoft RD](https://rd.microsoft.com/en-us/magnus-martensson) [@noopman](https://twitter.com/noopman)
-* Michael Jonsson [@Michael_Jonsson](https://twitter.com/Michael_Jonsson)
-* Negar Shahbaz [@NegarShahbaz](https://twitter.com/NegarShahbaz)
+Venue: Arid Agriculture University, Sahiwal Campus
 
-We arrange our meetup events at:
-
-[![Foo Café](foocafe.png "Foo Café")](https://foocafe.org/)
+Follow To Get Future Updates
