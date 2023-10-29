@@ -1,0 +1,25 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "noopman",
+      "BMichaelJ",
+      "gvu-agnitio",
+      "negarfield"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Tech Empire",
+    "Country": "Pakistan",
+    "Url": "baraniinstitute.edu.pk",
+    "SessionizeApiId": "",
+    "SessionizeEventName": "",
+    "Logo": {
+      "Description": "Tech Empire",
+      "File": "techempire.png"
+    },
+    "Locations": [
+     
+    ]
+  }
+}
