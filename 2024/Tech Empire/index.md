@@ -3,7 +3,7 @@ Tech Empire is not just a community but has a great vision to related to emergin
 
 Want To Be Speaker For Our Event? Feel Free To Ping!
 
-Talmeez Fuaad LinkedIn
+Talmeez Fuaad
 
 
 Venue: Arid Agriculture University, Sahiwal Campus
