@@ -7,7 +7,7 @@ All around the world user groups and communities are sharing knowledge to profes
 On Apr 20, 2024, we will come together to once again bring the Global Azure event! The Azure User Group Portugal brings a one day world-class event on Microsoft Azure. Join us online and don't forget to use the social hashtags #GlobalAzurePT and #GlobalAzure!
 
 
-The [Call for Speakers is open](https://sessionize.com/global-azure-portugal-2023/). Selection will happen on an ongoing basis. Don't wait to the last day to submit your sessions!!! 
+The [Call for Speakers is open](https://sessionize.com/global-azure-portugal-2024/). Selection will happen on an ongoing basis. Don't wait to the last day to submit your sessions!!! 
 
 
 Resume information:
