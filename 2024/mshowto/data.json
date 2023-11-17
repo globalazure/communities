@@ -9,7 +9,8 @@
     "Name": "MSHOWTO",
     "Country": "Republic of Turkiye",
     "Url": "https://www.mshowto.org/",
-    "SessionizeApiId": "{Your sessionize event Id}",
+    "SessionizeApiId": "dfbr5f8p",
+    "SessionizeEventName": "https://sessionize.com/global-azure-2024-istanbul/",
     "Logo": {
       "Description": "mshowto logo",
       "File": "mshowto.png"
