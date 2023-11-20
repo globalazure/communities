@@ -1,0 +1,24 @@
+{
+    "ValidMaintainers": {
+      "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+      "GitHubHandles": [
+        "tdavidnudelman",
+      ]
+    },
+    "CommunityInfo": {
+      "Name": "Global Azure POA"",
+      "Country": "Brazil",
+      "Url": "http://gabpoa.azurewebsites.net/",
+         "Locations": [
+        {
+          "Name": "Porto Alegre",
+          "Latitude": -29.996205262516572,
+          "Longitude":-51.20125468718969
+        }
+      ],
+      "Logo": {
+        "Description": "VanTUG logo.",
+        "File": "vantug.png"
+      }
+    }
+  }
