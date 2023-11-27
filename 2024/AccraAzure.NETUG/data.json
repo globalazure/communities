@@ -1,0 +1,28 @@
+{
+    "ValidMaintainers": {
+      "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+      "GitHubHandles": [
+        "sadranyi",
+        "frankodoom"
+      ]
+    },
+    "CommunityInfo": {
+      "Name": "Accra Azure & .NET User Group",
+      "Country": "Ghana",
+      "Url": "https://lu.ma/9bmrgmz2",
+      "SessionizeApiId": "5375e0",
+      "Logo": {
+        "Description": "Global Azure bootcamp 2024 Accra Edition",
+        "File": "AAUG.png"
+      },
+      "Locations": [
+        {
+          "Name": "Accra Technical University",
+          "Address": "Barnes Rd, Accra",
+          "Latitude": 5.6562852, 
+          "Longitude": -0.2309652
+        }
+      ]
+    }
+  }
+  
