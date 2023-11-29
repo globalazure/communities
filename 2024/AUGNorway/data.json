@@ -1,0 +1,28 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "janvidarelven",
+      "ehrnst",
+      "anderseide"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Azure user group Norway",
+    "Country": "Norway",
+    "Url": "https://azureusergroup.no/",
+    "SessionizeApiId": "",
+    "SessionizeEventName": "",
+    "Logo": {
+      "Description": "Community logo is a .png file 500X500px named {foldername}.png.",
+      "File": "AUGNorwayLogo_500x500px.png"
+    },
+    "Locations": [
+      {
+        "Name": "Oslo",
+        "Latitude": 59.906847,
+        "Longitude": 10.760941
+      }
+    ]
+  }
+}
