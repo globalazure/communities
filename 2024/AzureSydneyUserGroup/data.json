@@ -1,0 +1,27 @@
+{
+    "ValidMaintainers": {
+      "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+      "GitHubHandles": [
+        "sjwaight",
+        "samalavi",
+        "arafattehsin"
+      ]
+    },
+    "CommunityInfo": {
+      "Name": "Azure Sydney User Group",
+      "Country": "Australia",
+      "Url": "https://www.meetup.com/Azure-Sydney-User-Group/",
+      "Logo": {
+        "Description": "Community logo is a .png file 500X500px named {foldername}.png.",
+        "File": "AzureSydneyUserGroup.png"
+      },
+      "Locations": [
+        {
+          "Name": "Microsoft Reactor Sydney",
+          "Address": "Level 10, 11 York Street, Sydney, 2000",
+          "Latitude": -33.86531,
+          "Longitude": 151.20526
+        }
+      ]
+    }
+  }
