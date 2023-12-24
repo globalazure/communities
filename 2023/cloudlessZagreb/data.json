@@ -1,0 +1,21 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "CuljakIvan"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Cloudless Zagreb",
+    "Country": "Croatia",
+    "Url": "https://www.meetup.com/Cloudless-Zagreb/",
+    "Locations": [
+      {
+        "Name": "Sky Office building - 14th floor - Business Club 5*",
+        "Address": "Ul. Roberta Frangeša Mihanovića 9, 10110, Zagreb",
+        "Latitude": 45.7965858,
+        "Longitude": 15.9091218
+      }
+    ]
+  }
+}

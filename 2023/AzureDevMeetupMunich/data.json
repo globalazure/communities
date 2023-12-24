@@ -8,8 +8,8 @@
   "CommunityInfo": {
     "Name": "Azure DEV Meetup München",
     "Country": "Germany",
-    "Url": "https://azuredev.org/",
-    "SessionizeApiId": "hq47twj6",
+    "Url": "https://global.azuredev.org/",
+    "SessionizeApiId": "ge246qi8",
     "Description_SessionizeApiId": "If you have configured your Sessionize correctly then browsing to this url (replacing {Your sessionize event Id} with your event sessionize id) will return valid json: https://sessionize.com/api/v2/joc32ual/view/Sessions",
     "SessionizeEventName": "Global Azure Munich 2023",
     "Logo": {

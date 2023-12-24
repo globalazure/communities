@@ -1,0 +1,26 @@
+{
+  "ValidMaintainers": {
+    "GitHubHandles": [
+      "callumbwhyte",
+      "poornimanayar"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Global Azure London",
+    "Country": "United Kingdom",
+    "Url": "https://developer.microsoft.com/reactor/events/19851/",
+    "SessionizeApiId": "gnrmj8fs",
+    "SessionizeEventName": "https://sessionize.com/global-azure-london-2023/",
+    "Logo": {
+      "File": "logo.png"
+    },
+    "Locations": [
+      {
+        "Name": "Microsoft Reactor London",
+        "Address": "70 Wilson Street, London, EC2A 2DB",
+        "Latitude": 51.521794,
+        "Longitude": -0.0842329
+      }
+    ]
+  }
+}

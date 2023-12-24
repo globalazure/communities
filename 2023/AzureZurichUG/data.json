@@ -1,0 +1,26 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "thomash0815"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Azure Zurich User Group",
+    "Country": "Switzerland",
+    "Url": "https://www.meetup.com/de-DE/microsoft-azure-zurich-user-group/events/293257803/",
+    "SessionizeApiId": "",
+    "Logo": {
+      "Description": "Azure Zurich User Group Logo",
+      "File": "azurezurichusergroup.png"
+    },
+    "Locations": [
+      {
+        "Name": "Azure Zurich User Group",
+        "Address": "Limmatstrasse 50, 8005 Zurich",
+        "Latitude": 47.381900,
+        "Longitude": 8.535690
+      }
+    ]
+  }
+}

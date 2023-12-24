@@ -1,0 +1,32 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "",
+      "",
+      ""
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "AzureChile",
+    "Country": "Chile",
+    "Url": "https://www.meetup.com/es-ES/power-bi-chile/",
+    "Description_SessionizeApiId": "If you have configured your Sessionize correctly then browsing to this url (replacing {Your sessionize event Id} with your event sessionize id) will return valid json: https://sessionize.com/api/v2/q1ywz50x/view/Sessions",
+    "SessionizeApiId": "q1ywz50x",
+    "SessionizeEventName": "q1ywz50x}",
+    "Logo": {
+      "Description": "Community logo is a .png file 500X500px in this folder!",
+      "File": "{Logofilename}"
+    },
+    "Locations": [
+      {
+        "Description": "Each location where your community will be running a Global Azure event.",
+        "Name": "Santiago de Chile",
+        "Address": "{Optional address of the location}",
+        "Description_Lat_Lon": "The Lat and Lon location for where you want your community pin on the Global Azure Community Map (example 47.6457554, -122.1299952).",
+        "Latitude": -33.447487,
+        "Longitude": -70.673676
+      }
+    ]
+  }
+}

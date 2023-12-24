@@ -1,0 +1,30 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "melkor54248",
+      "xabikos",
+      "ziaziosk"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Thessaloníki .NET Meetup",
+    "Country": "Greece",
+    "Url": "https://www.meetup.com/thessaloniki-net-meetup/",
+    "SessionizeApiId": "afto9lzw",
+    "Description_SessionizeApiId": "If you have configured your Sessionize correctly then browsing to this url (replacing {Your sessionize event Id} with your event sessionize id) will return valid json: https://sessionize.com/api/v2/{Your sessionize event Id}/view/Sessions",
+    "SessionizeEventName": "https://sessionize.com/globalazure2023Thess/",
+    "Logo": {
+      "Description": "Thessaloniki.net meetup logo with the text and city's monuments",
+      "File": "logo.png"
+    },
+    "Locations": [
+      {
+        "Name": "Cosmos Offices",
+        "Address": "5 Agiou Georgiou , Thermi 555 35",
+        "Latitude": 40.55787,
+        "Longitude":  22.98844,
+      }
+    ]
+  }
+}
