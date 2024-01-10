@@ -1,0 +1,25 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "esdanielgomez"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Virtual DEV Show (ATG)",
+    "Country": "Colombia",
+    "Url": "https://virtualdevshow.com/GlobalAzure2024/",
+    "Logo": {
+      "Description": "Virtual DEV Show (ATG)",
+      "File": "logo.png"
+    },
+    "Locations": [
+      {
+        "Name": "Virtual DEV Show (ATG)",
+        "Address": "Bogota",
+        "Latitude": 4.6733864,
+        "Longitude": -74.0489991
+      }
+    ]
+  }
+}
