@@ -2,24 +2,23 @@
   "ValidMaintainers": {
     "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
     "GitHubHandles": [
-      "nkuppurasu",
-      "suhasparameshwara"
+      "nkuppurasu"
     ]
   },
   "CommunityInfo": {
-    "Name": "TechMeet360",
+    "Name": "Microsoft DEV Geeks",
     "Country": "India",
-    "Url": "https://www.meetup.com/techmeet360/",
+    "Url": "https://www.meetup.com/msdevgeeks/",
     "Logo": {
-      "Description": "Community logo is a .png file 500X500px named techmeet360.png.",
-      "File": "techmeet360.png"
+      "Description": "Community logo is a .png file 500X500px named msdevgeeks.png.",
+      "File": "msdevgeeks.png"
     },
     "Locations": [
       {
-        "Name": "Coimbatore",
-        "Address": "Kovai.co",
-        "Latitude": 11.072026602086565,
-        "Longitude": 76.9804370782794
+        "Name": "Salem",
+        "Address": "TBA",
+        "Latitude": 11.662779703606654,
+        "Longitude": 78.14583938648576
       }
     ]
   }
