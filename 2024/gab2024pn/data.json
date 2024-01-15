@@ -1,0 +1,26 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "marcoparenzan"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "1nn0va",
+    "Country": "Italy",
+    "Url": "https://www.1nn0va.it/",
+    "SessionizeApiId": "avu1xdua",
+    "Logo": {
+      "Description": "1nn0va",
+      "File": "AzureMeetupTorino.png"
+    },
+    "Locations": [
+      {
+        "Name": "Consorzio Universitario di Pordenone",
+        "Address": "Via Prasecco 3/a, Pordenone",
+        "Latitude": 45.9522118,
+        "Longitude": 12.6781303
+      }
+    ]
+  }
+}
