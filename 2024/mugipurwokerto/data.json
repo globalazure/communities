@@ -1,0 +1,26 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "agussuparno"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Microsoft User Group Indonesia (Mugi) Purwokerto",
+    "Country": "Indonesia",
+    "Url": "https://mugipurwokerto.or.id/",
+    "SessionizeApiId": "4qqpmexi",
+    "Logo": {
+      "Description": "Community logo is a .png file 500X500px named {foldername}.png.",
+      "File": "MugiPurwokerto.png"
+    },
+    "Locations": [
+      {
+        "Name": "Indonesia",
+        "Address": "Purwokerto, Central Java",
+        "Latitude": -7.446437473770497,
+        "Longitude": 109.24220318670153
+      }
+    ]
+  }
+}
