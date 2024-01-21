@@ -1,0 +1,28 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "akshay-99h",
+      "GaganGulyani",
+      "rishabhbansal1998",
+      "abhishek-dhnma"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Open Community of Developers(OCD-India)",
+    "Country": "India",
+    "Url": "https://x.com/akshay-99h",
+    "Logo": {
+      "Description": "Open Community of Developers (OCD India)",
+      "File": "OCD.png"
+    },
+    "Locations": [
+      {
+        "Name": "New Delhi",
+        "Address": "New Delhi",
+        "Latitude": 28.7041,
+        "Longitude": 77.1025
+      }
+    ]
+  }
+}
