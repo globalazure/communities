@@ -11,17 +11,29 @@
     "Name": "Azure user group Norway",
     "Country": "Norway",
     "Url": "https://azureusergroup.no/",
-    "SessionizeApiId": "",
-    "SessionizeEventName": "",
+    "SessionizeApiId": "r6kxbmb0",
+    "SessionizeEventName": "global-azure-norway-2024",
     "Logo": {
       "Description": "Community logo is a .png file 500X500px named {foldername}.png.",
       "File": "AUGNorwayLogo_500x500px.png"
     },
     "Locations": [
       {
+        "Name": "Bergen",
+        "Address": "Kanalveien 11, 5068 Bergen",
+        "Latitude": 60.3690458,
+        "Longitude": 5.3414367
+      },      
+      {
         "Name": "Oslo",
-        "Latitude": 59.906847,
-        "Longitude": 10.760941
+        "Address": "Tollbugata 24, 0157 Oslo",        
+        "Latitude": 59.91108,
+        "Longitude": 10.74167
+      },
+      {
+        "Name": "Kristiansand",
+        "Latitude": 58.1462,
+        "Longitude": 7.9952
       }
     ]
   }
