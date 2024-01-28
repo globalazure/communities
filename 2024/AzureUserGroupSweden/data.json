@@ -1,0 +1,28 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "abbhakan",
+      "jonahandersson"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Azure User Group Sweden",
+    "Country": "Sweden",
+    "Url": "https://sessionize.com/global-azure-sweden-2024/",
+    "SessionizeApiId": "zyb14zo2",
+    "Description_SessionizeApiId": "",
+    "SessionizeEventName": "global-azure-sweden-2024",
+    "Locations": [ 
+      {
+        "Name": "Sundsvall",
+        "Latitude": 62.390812,
+        "Longitude": 17.306927
+      }
+    ],
+    "Logo": {
+      "Description": "Logo Global Azure Sweden.",
+      "File": "GlobalAzureSweden.png"
+    }
+  }
+}
