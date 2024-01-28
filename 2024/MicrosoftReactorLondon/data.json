@@ -1,0 +1,26 @@
+{
+  "ValidMaintainers": {
+    "GitHubHandles": [
+      "callumbwhyte",
+      "poornimanayar"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Global Azure London",
+    "Country": "United Kingdom",
+    "Url": "https://www.meetup.com/microsoft-reactor-london/",
+    "SessionizeApiId": "51l6dk3u",
+    "SessionizeEventName": "https://sessionize.com/global-azure-london-2024/",
+    "Logo": {
+      "File": "logo.png"
+    },
+    "Locations": [
+      {
+        "Name": "Microsoft Reactor London",
+        "Address": "2 Kingdom Street, Paddington, London, W2 6BD",
+        "Latitude": 51.5194952,
+        "Longitude": -0.1813375
+      }
+    ]
+  }
+}
