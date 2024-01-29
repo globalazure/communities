@@ -1,7 +1,7 @@
 # Global Azure Milano by Azure Meetup Milano and Cloud Champions
 
 ![Azure Meetup Milano Logo](AzureMeetupMilano_500px.png)[Azure Meetup Milano](https://www.azuremeetupmilano.it/)
-![Cloud Champions Logo](AzureMeetupMilano_500px.png)[Cloud Champions](https://www.cloudchampions.tech/)
+![Cloud Champions Logo](Cloud Champions_500px.png)[Cloud Champions](https://www.cloudchampions.tech/)
 
 Global Azure Milano is a community event organized by Azure Meetup Milano in collaboration with Cloud Champions.
 All around the world user groups and communities are sharing knowledge to professionals that want to learn more about Microsoft Azure and Cloud Computing!
