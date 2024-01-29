@@ -1,6 +1,6 @@
 # Global Azure Milano by Azure Meetup Milano and Cloud Champions
 
-Global Azure Milano is a community event organized by Azure Meetup Milano in collaboration with Cloud Champions.
+Global Azure Milano is a community event organized by **Azure Meetup Milano** in collaboration with **Cloud Champions**.
 All around the world user groups and communities are sharing knowledge to professionals that want to learn more about Microsoft Azure and Cloud Computing!
 On Apr 18, 2024, we will come together to once again bring the Global Azure event! 
 
