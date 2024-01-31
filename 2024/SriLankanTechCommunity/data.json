@@ -1,0 +1,26 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "viknarajM",
+      "hadshana"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Sri Lankan Tech Community",
+    "Country": "Sri Lanka",
+    "Url": "https://www.sltechcommunity.lk/", 
+    "Logo": {
+      "Description": "Community logo is a .png file 500X500px named sltc.png.",
+      "File": "sltc.png"
+    },
+    "Locations": [
+      {
+        "Name": "Sri Lanka",
+        "Address": "Green Garden Hotel",
+        "Latitude": 13.0328421,
+        "Longitude": 80.241602
+      }
+    ]
+  }
+}
