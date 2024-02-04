@@ -6,7 +6,7 @@
     ]
   },
   "CommunityInfo": {
-    "Name": "Cloud Mechanics UAE Meetup Group",
+    "Name": "Cloud Mechanics Meetup",
     "Country": "United Arab Emirates",
     "Url": "https://www.meetup.com/cloud-mechanics-uae-meetup-group",
     "SessionizeApiId": "/",
@@ -14,7 +14,7 @@
     "SessionizeEventName": "Global Azure Bootcamp 2024 - UAE",
     "Locations": [
       {
-        "Name": "Bespin Global, Abu Dhabi",
+        "Name": "Abu Dhabi",
         "Latitude": 24.486402,
         "Longitude": 54.404269
       }
