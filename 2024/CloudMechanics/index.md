@@ -2,7 +2,7 @@
 
 🌐 **Welcome to Global Azure 2024!**  a community-driven event in the United Arab Emirates, hosted by Cloud Mechanics UAE Meetup Group. This event provides a unique opportunity for professionals interested in Microsoft Azure and Cloud Computing to come together, learn, and collaborate.
 
-<center> <a href="https://www.meetup.com/cloud-mechanics-uae-meetup-group"><img src="CloudMechanics.png" alt="Cloud Mechanics UAE Meetup Group" width="300" height="auto"> </a></center> 
+<center> <p><a href="https://www.meetup.com/cloud-mechanics-uae-meetup-group"><img src="https://raw.githubusercontent.com/globalazure/communities/main/2024/CloudMechanics/CloudMechanics.png" class="img-fluid" alt="Cloud Mechanics UAE Meetup Group"  width="300" height="auto" title="Visit us here" /></a></p> </center> 
 
 ## About Cloud Mechanics UAE Meetup Group
 
@@ -17,8 +17,8 @@
 
 📅 **Date:** April 18, 2024  
 🏠 **Location:** BESPIN GLOBAL MEA HQ - Abu Dhabi, UAE 
-🎫 **Free Ticket:** [Meetup Event Page](https://www.meetup.com/cloud-mechanics-uae-meetup-group/events/298976356/)  
 🎙️ **Call for Speakers:** [Sessionize](https://sessionize.com/global-azure-bootcamp-2024-uae/)  
+🎫 **Free Ticket:** [Meetup Event Page](https://www.meetup.com/cloud-mechanics-uae-meetup-group/events/298976356/)  
 💶 **Sponsors:** Thanks to our sponsors [BESPIN GLOBAL](https://www.bespinglobal.ae). If you want to contribute to making this event better, please contact us [here](https://www.linkedin.com/in/mahmoudatallah).
 
 ## Contact Information
