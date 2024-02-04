@@ -32,4 +32,4 @@
 - **LinkedIn:** [Cloud Mechanics LinkedIn](https://bit.ly/CloudMechanics_LinkedIn)
 - **Telegram:** [Cloud Mechanics Telegram](https://t.me/CloudMechanics)
 
-If you have any questions, feedback, or thoughts, feel free to reach out to the [Community Organizer](https://www.linkedin.com/in/mahmoudatallah) or through the contact details available on our [website](https://www.linkedin.com/in/mahmoudatallah)
+If you have any questions, feedback, or thoughts, feel free to reach out to the [Community Organizer](https://www.linkedin.com/in/mahmoudatallah) or through the contact details available on our [website](https://3tallah.com/contact-us/)
