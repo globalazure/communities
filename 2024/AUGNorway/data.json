@@ -32,8 +32,9 @@
       },
       {
         "Name": "Kristiansand",
-        "Latitude": 58.1462,
-        "Longitude": 7.9952
+        "Address": "Vestre Strandgate 67 Quadrum, 6.etg, 4612 Kristiansand",
+        "Latitude": 58.14628355997549, 
+        "Longitude": 7.98529052908242
       }
     ]
   }
