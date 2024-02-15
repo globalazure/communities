@@ -11,7 +11,7 @@
       "Country": "Netherlands",
       "Url": "https://events.xebia.com/global-azure-nl-community-event-18-april-2024",
       "Description_SessionizeApiId": "If you have configured your Sessionize correctly then browsing to this url (replacing {Your sessionize event Id} with your event sessionize id) will return valid json: https://sessionize.com/api/v2/{Your sessionize event Id}/view/Sessions",
-      "SessionizeApiId": "14597",
+      "SessionizeApiId": "2o4o2kfh",
       "SessionizeEventName": "https://sessionize.com/global-azure-netherlands-2024",
       "Logo": {
         "Description": "Community logo is a .png file 500X500px in this folder!",
