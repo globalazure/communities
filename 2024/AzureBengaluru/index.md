@@ -1,10 +1,11 @@
 # Global Azure 2024 - Bengaluru 
 
-[![Global Azure 2023 - Bengaluru ](_template.png "Global Azure Bootcamp 2023 - Bengaluru registration")]
+
+<img width="462" alt="logo" src="https://github.com/globalazure/communities/assets/20562985/da7acf0e-ad45-4238-992e-c7801486e810">
 
 ## ನಮಸ್ಕಾರ , Namaskara Bengaluru 🙏
 
-We are excited to bring back in-person events and host Global Azure Day 2023 for the Bengaluru Azure Community. 
+We are excited to bring back in-person events and host Global Azure Day 2024 for the Bengaluru Azure Community. 
 
 The event will be focused on all things Azure, including Cloud computing, Data management, Artificial intelligence, Cloud Security and more. Our goal is to provide attendees with the latest insights, trends, and best practices in the Azure ecosystem.
 
