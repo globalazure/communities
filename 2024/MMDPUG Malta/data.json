@@ -6,12 +6,12 @@
       ]
     },
   "CommunityInfo": {
-    "Name": "Malta Microsoft Data Platform User Group - MMDPUG",
+    "Name": "Malta Global Azure",
     "Country": "Malta",
     "Url": "https://www.meetup.com/mmdpug/",
-    "SessionizeApiId": "",
-    "Description_SessionizeApiId": "",
-    "SessionizeEventName": "",
+    "SessionizeApiId": "mokthkn2",
+    "Description_SessionizeApiId": "globalazuremalta",
+    "SessionizeEventName": "https://sessionize.com/global-azure-2024-malta/",
     "Locations": [
       {
         "Name": "Malta",
