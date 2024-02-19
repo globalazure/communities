@@ -2,18 +2,15 @@
 
 ![Global Azure Auckland](logo.png)
 
-We're excited to be co-hosting an event at the **[Coding Night NZ](https://www.meetup.com/coding-night-nz/)** in Auckland on **May 11th, 12th and 13th**!
+We're excited to be co-hosting the event at **[Coding Night NZ](https://www.meetup.com/coding-night-nz/)** on May 12th!
 
-We are having hybrid lunch sessions on May 11th, 12th at Microsoft Auckland, and online on May 13th to talk about Azure!
+We are having a hybrid lunch session on May 12th at Microsoft Auckland, and ad-hoc online sessions on May 13th to talk about Azure!
+
 Expect great sessions covering AI, security, identity, developer technologies, devops and beyond.
 
 This is also a great chance to network with MVPs and experts in the Azure world.
 
 Talks will be delivered to our live audience and streamed on Coding Night NZ YouTube channel.
-
-## Call for speakers
-
-If you are interested in speaking at Global Azure Auckland on May 13th, submit your sessions at [Sessionize](https://sessionize.com/global-azure-auckland-2023/).
 
 ## Organizers
 

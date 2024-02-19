@@ -1,0 +1,28 @@
+{
+    "ValidMaintainers": {
+      "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+      "GitHubHandles": [
+        "tiagocostapt",
+        "pmsousa"
+      ]
+    },
+    "CommunityInfo": {
+      "Name": "Azure User Group Portugal",
+      "Country": "Portugal",
+      "Url": "https://www.globalazure.pt",
+      "SessionizeApiId": "9uzm5lft",
+      "Description_SessionizeApiId": "https://sessionize.com/api/v2/9uzm5lft/view/Sessions",
+      "SessionizeEventName": "Global Azure Portugal 2024",
+      "Locations": [
+        {
+          "Name": "Lisbon",
+          "Latitude": 38.761020,
+          "Longitude":-9.094664
+        }
+      ],
+      "Logo": {
+        "Description": "Azure User Group Portugal logo.",
+        "File": "AZUGPT.png"
+      }
+    }
+  }

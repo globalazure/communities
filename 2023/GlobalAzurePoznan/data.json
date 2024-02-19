@@ -1,0 +1,27 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "FlyManPL"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Global Azure Poznań",
+    "Country": "Poland",
+    "Url": "https://globalazurepoznan.pl/",
+    "Description_SessionizeApiId": "https://sessionize.com/api/v2/jnvahlth/view/Sessions",
+    "SessionizeApiId": "jnvahlth",
+    "SessionizeEventName": "global-azure-2023-poznan-edition",
+    "Logo": {
+      "Description": "Global Azure 2023 Poznan Edition logo",
+      "File": "global-azure-2023-poznan.png"
+    },
+    "Locations": [
+      {
+        "Name": "Poznań",
+        "Latitude": 52.405578,
+        "Longitude": 16.931988
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "mertyeter"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "MSHOWTO",
+    "Country": "Republic of Turkiye",
+    "Url": "https://www.mshowto.org/",
+    "SessionizeApiId": "dfbr5f8p",
+    "SessionizeEventName": "https://sessionize.com/global-azure-2024-istanbul/",
+    "Logo": {
+      "Description": "mshowto logo",
+      "File": "mshowto.png"
+    },
+    "Locations": [
+      {
+        "Name": "Istanbul",
+        "Latitude": 41.013000,
+        "Longitude": 28.974800
+      }
+    ]
+  }
+}

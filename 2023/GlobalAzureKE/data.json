@@ -1,0 +1,28 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "hum-dev"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "GlobalAzureKE",
+    "Country": "Kenya",
+    "Url": "",
+    "SessionizeApiId": "",
+    "Description_SessionizeApiId": "If you have configured your Sessionize correctly then browsing to this url (replacing {Your sessionize event Id} with your event sessionize id) will return valid json: https://sessionize.com/api/v2/{Your sessionize event Id}/view/Sessions",
+    "SessionizeEventName": "Global-Azure-Kenya 2023",
+    "Logo": {
+      "Description": "Community logo is a .png file 500X500px named {foldername}.png.",
+      "File": "GlobalAzureKE.png"
+    },
+    "Locations": [
+      {
+        "Name": "Kenya",
+        "Address": "Kenya,Kirinyaga University",
+        "Latitude": 0.5662,
+        "Longitude": 37.3203
+      }
+    ]
+  }
+}

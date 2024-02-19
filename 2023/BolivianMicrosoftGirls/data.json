@@ -1,0 +1,31 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "ElianaRocio",
+      "",
+      ""
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Bolivian Microsoft Girls",
+    "Country": "Bolivia",
+    "Url": "https://beacons.ai/bolviangirls",
+    "Description_SessionizeApiId": "https://sessionize.com/api/v2/hgm72kt6/view/Sessions",
+    "SessionizeApiId": "hgm72kt6",
+    "SessionizeEventName": "https://sessionize.com/global-azure-BMG/",
+    "Logo": {
+      "Description": "Community logo is a .png file 500X500px in this folder!",
+      "File": "logobmg.png"
+    },
+    "Locations": [
+      {
+        "Name": "Bolivia",
+        "Address": "",
+        "Description_Lat_Lon": "The Lat and Lon location for where you want your community pin on the Global Azure Community Map (example 47.6457554, -122.1299952).",
+        "Latitude": -16.497789,
+        "Longitude": -68.125839
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "tameem-623"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "MLSA UET Peshawar",
+    "Country": "Pakistan",
+    "Url": "https://www.linkedin.com/company/mlsauetp/",
+    "Logo": {
+      "Description": "MLSA UETP Logo",
+      "File": "MLSAUETPLogo.png"
+    },
+    "Locations": [
+      {
+        "Name": "University of Engineering & Technology Peshawar",
+        "Address": "2F3P+67R University campus, University Rd, Rahat Abad, Peshawar, Khyber Pakhtunkhwa, Pakistan",
+        "Latitude": 34.003163865592086,
+        "Longitude": 71.4844965944646
+      }
+    ]
+  }
+}

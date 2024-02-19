@@ -1,0 +1,25 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "saran2991"
+         ]
+  },
+  "CommunityInfo": {
+    "Name": "AzureDeveloperCommunity",
+    "Country": "India",
+    "Url": "https://azdev.reskilll.com/", 
+    "Logo": {
+      "Description": "Community logo is a .png file 500X500px named azuredev.png.",
+      "File": "azuredev.png"
+    },
+    "Locations": [
+      {
+        "Name": "Chennai",
+        "Address": "Microsoft Corporation India Pvt. Ltd.",
+        "Latitude": 13.0328421,
+        "Longitude": 80.241602
+      }
+    ]
+  }
+}
