@@ -3,7 +3,7 @@
     "Description": "Global Azure 2024 - Poland on-line",
     "GitHubHandles": [
       "RogalaPiotr",
-      "MichalJankowskii"
+      "MichalJankowskii",
       "PiotrWachulec"
     ]
   },
@@ -11,7 +11,9 @@
     "Name": "Azure Poland - online",
     "Country": "Poland",
     "Url": "https://www.eventbrite.com/e/global-azure-2024-poland-on-line-tickets-843540521407",
+    "Description_SessionizeApiId": "https://sessionize.com/api/v2/c14gmbzr/view/Sessions",
     "SessionizeApiId": "c14gmbzr",
+    "SessionizeEventName": "https://sessionize.com/global-azure-2024-poland-on-line",
     "Logo": {
       "Description": "GlobalAzurePolandOnline",
       "File": "GlobalAzurePolandOnline-500x500.png"
