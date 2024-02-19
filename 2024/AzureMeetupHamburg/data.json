@@ -1,0 +1,28 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "itpropro",
+      "jme107",
+      "chrburmeister"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Azure Meetup Hamburg",
+    "Country": "Germany",
+    "Url": "https://www.meetup.com/azure-meetup-hamburg/",
+    "SessionizeApiId": "2xfj8ws3",
+    "Logo": {
+      "Description": "Azure Meetup Hamburg",
+      "File": "AzureMeetupHamburg.png"
+    },
+    "Locations": [
+      {
+        "Name": "Hamburg",
+        "Address": "Hamburg",
+        "Latitude": 53.551086,
+        "Longitude": 9.993682
+      }
+    ]
+  }
+}
