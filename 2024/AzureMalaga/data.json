@@ -1,0 +1,27 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "jecaestevez",
+      "Masahigo"      
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Azure Malaga",
+    "Country": "Spain",
+    "Url": "https://AzureMalaga.com",
+    "SessionizeApiId": "1y1z9367",
+    "SessionizeEventName": "https://sessionize.com/global-azure-2024-malaga",
+    "Logo": {
+      "Description": "Community logo is a .png file 500X500px named {foldername}.png.",
+      "File": "azureMalaga.png"
+    },
+    "Locations": [
+      {
+        "Name": "Malaga",
+        "Latitude": 36.719883,
+        "Longitude": -4.421506
+      }
+    ]
+  }
+}
