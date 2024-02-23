@@ -30,4 +30,5 @@ Whether you're a beginner or have years of experience with Azure, this event wil
 *Sponsors*
 
 [![responsiveX](responsivex_white_logo.png)](https://responsivex.com/) 
+
 [![Microsoft](Microsoft_logo.png)](https://www.microsoft.com/en-us/)
