@@ -1,7 +1,5 @@
 # Chicago Global Azure 2024
 
-![Chicago Global Azure 2024](responsivex_logo.png)
-
 Explore modern app development on Azure with industry experts at the Microsoft offices in downtown Chicago on Friday, April 19. 
  
 [Visit the event signup page here](https://www.eventbrite.com/e/chicago-global-azure-2024-tickets-830534951397?aff=globalazure)
