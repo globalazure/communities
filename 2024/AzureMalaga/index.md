@@ -1,13 +1,20 @@
-# Global Azure Spain
+# Global Azure Malaga
 
-[![Global Azure Spain Logo](GlobalAzure2024LiveFromSpain-250.png "Visit us here!")](https://globalazure.es/)
+Global Azure Malaga is a community event organized by **Azure Malaga** in collaboration with **Sevendos**.
 
-Global Azure Spain is a community organizing the Global Azure event in Spain, sponsored by Microsoft and local partners being one of the most important technical forums about Microsoft's Cloud Computing platform.
+On Saturday April 20th, 2024, we will come together to bring the Global Azure event in Málaga!
 
-In this 2024 edition, we are preparing a **hybrid event with online sessions but also live sessions in Madrid, Barcelona and Zaragoza**. The [Call for Speakers is already open and is for both virtual and physical sessions](https://sessionize.com/global-azure-2024-spain), so please specify your preference when submitting your proposals. We will try to respect this preference as much as possible, taking into account the capacity of the spaces provided for the physical events.
+The [Call for Speakers is already open and is for physical sessions](https://sessionize.com/global-azure-2024-malaga/).
 
-If you have any questions, feedback or thoughts, please reach out to the community organizers:
-* hello@globalazure.es 
-* Other contact details available on https://globalazure.es/
+Key information:
 
-More details soon!
+* 📅April, 20 2024
+* 🏠Wunderdog Labs - Calle Marqués de Larios 3, Málaga
+* 🎫Get your [FREE ticket](https://www.eventbrite.es/link-missing)
+* 🎙️Call for speakers - [https://sessionize.com/global-azure-2024-malaga/](https://sessionize.com/global-azure-2024-malaga/)
+
+If you have any questions, feedback or thoughts, please reach out to [the community organizers](https://azuremalaga.com/organiza/).
+
+_Agenda will be updated after the Call for speakers is over!_
+
+[![Azure Malaga](azureMalaga.png "Azure Malaga")](https://azuremalaga.com/)
