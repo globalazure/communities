@@ -12,6 +12,7 @@ We are showcasing Azure SDKs, AI Applications, Infrastructure Management, Integr
 https://passadis.github.io/azure-innovators/
 
 ## Latest Event
+## 29 February 2024 , 7.30 UTC +2
 
 # Build a Multiagent Speech Web App using Azure Container Apps, React and Python
 
