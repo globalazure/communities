@@ -11,10 +11,12 @@ Key information:
 * 📅April, 20 2024
 * 🏠Wunderdog Labs - Calle Marqués de Larios 3, Málaga
 * 🎫Get your [FREE ticket](https://www.eventbrite.es/e/global-azure-malaga-2024-tickets-850353549357)
-* 🎙️Call for speakers - [https://sessionize.com/global-azure-2024-malaga/](https://sessionize.com/global-azure-2024-malaga/)
+* 🎙️Call for Speakers - [https://sessionize.com/global-azure-2024-malaga/](https://sessionize.com/global-azure-2024-malaga/)
 
 If you have any questions, feedback or thoughts, please reach out to [the community organizers](https://azuremalaga.com/organiza/).
 
-_Agenda will be updated after the Call for speakers is over!_
+_Agenda will be updated after the Call for Speakers is over!_
 
 [![Azure Malaga](azureMalaga.png "Azure Malaga")](https://azuremalaga.com/)
+
+[![Sevendos](Sevendos_500px.png "Sevendos")](https://sevendos.com/)
