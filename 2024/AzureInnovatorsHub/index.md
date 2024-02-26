@@ -11,7 +11,7 @@ We are showcasing Azure SDKs, AI Applications, Infrastructure Management, Integr
 ## Code of Conduct
 https://passadis.github.io/azure-innovators/
 
-## Latest Event
+### Latest Event
 ## 29 February 2024 , 7.30 UTC +2
 
 # Build a Multiagent Speech Web App using Azure Container Apps, React and Python
