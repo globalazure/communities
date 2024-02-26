@@ -19,10 +19,10 @@ Join us for an exhilarating online event where technology meets creativity. This
 In this comprehensive workshop, you'll learn how to seamlessly integrate Microsoft Azure's cutting-edge AI capabilities and Azure Container Apps with the flexibility of React and the power of Python. Whether you're looking to enhance existing applications or build new ones from scratch, this event will equip you with the skills and knowledge needed to create responsive, intelligent speech-based applications.
 Key Takeaways:
 
-    - Understanding the Basics: Grasp the fundamentals of multiagent systems and their application in speech recognition and processing.
-    - Integration Techniques: Learn how to integrate Azure's AI services with a React frontend and Python backend for a smooth, full-stack development experience.
-    - Hands-On Experience: Follow along with live coding sessions and gain practical experience in building a speech app.
-    - Networking Opportunities: Connect with like-minded individuals and industry experts to expand your professional network.
+- Understanding the Basics: Grasp the fundamentals of multiagent systems and their application in speech recognition and processing.
+- Integration Techniques: Learn how to integrate Azure's AI services with a React frontend and Python backend for a smooth, full-stack development experience.
+- Hands-On Experience: Follow along with live coding sessions and gain practical experience in building a speech app.
+- Networking Opportunities: Connect with like-minded individuals and industry experts to expand your professional network.
 	
 https://www.meetup.com/athens-azure-tech-group/events/299425483/
 	
