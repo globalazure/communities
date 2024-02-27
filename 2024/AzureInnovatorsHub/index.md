@@ -2,14 +2,9 @@
 
 ![Community title](azureinnovatorshub.png)
 
-We're excited to be hosting an event at [Azure Innovators Hub](https://www.meetup.com/athens-azure-tech-group/)!
-
-Our community is hosting all about Azure events as well as sessions that our members wish to see!
-
-We are showcasing Azure SDKs, AI Applications, Infrastructure Management, Integration and Innovative solutions that will inspire and make your Cloud Journey quite exciting!
-
-## Code of Conduct
-https://passadis.github.io/azure-innovators/
+Global Azure Greece is a community event organized by the Azure Innovators Hub User Group Greece.
+All around the world user groups and communities are sharing knowledge to professionals that want to learn more about Microsoft Azure and Cloud Computing!
+On Apr 20, 2024, we will come together to once again bring the Global Azure event! The Azure User Group Greece brings a one day world-class event on Microsoft Azure. Join us online and don't forget to use the social hashtags #GlobalAzurePT and #GlobalAzure!
 
 # Latest Event
 ## 29 February 2024 , 7.30 UTC +2
