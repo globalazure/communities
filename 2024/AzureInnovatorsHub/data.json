@@ -24,7 +24,7 @@
         "Name": "Athens, Greece",
         "Address": "Athens, Greece",
         "Description_Lat_Lon": "The Lat and Lon location for where you want your community pin on the Global Azure Community Map (example 47.6457554, -122.1299952).",
-        "Latitude": 37.983810
+        "Latitude": 37.983810,
         "Longitude": 23.727539
       }
     ]
