@@ -13,6 +13,7 @@ The [Call for Speakers is open](https://sessionize.com/global-azure-greece-2024/
 Resume information:
 * 📅April, 20 2024
 
+💶Sponsors - We are looking for sponsors. Reach out to the organization team at https://www.meetup.com/athens-azure-tech-group/
 
 If you have any questions, feedback or thoughts, please reach out to the community organizers at:
 * https://www.meetup.com/athens-user-group/
