@@ -9,7 +9,7 @@ Let's get together and make it happen!
 
 ## Event page
 
-https://jazug.connpass.com/event/279068/
+https://jazug.connpass.com/event/311408/
 
 ## Links
 [Main website][0]
