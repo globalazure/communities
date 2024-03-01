@@ -28,6 +28,7 @@ You will have the opportunity to connect with fellow Azure enthusiasts, exchange
 Join us on this journey of exploring the limitless potential of AI on Microsoft Azure. Don't miss out on this incredible opportunity to learn, grow, and be part of the AI revolution. Grab your spot now and get ready to unlock the power of AI in Microsoft Azure!
 
 ## Venue
+
 The Global Azure Mauritius 2024 event will be held at SWAN, a leading insurance services provider in Mauritius. The address is:
 
 Swan Center
@@ -35,11 +36,13 @@ Swan Center
 Port Louis, Mauritius
 
 ## Registration
+
 Registration for the event is now open. To register, please visit the following link:
 
 [Registration Link](https://www.meetup.com/mauritiussoftwarecraftsmanshipcommunity/events/298626973/)
 
 ## Contact Us
+
 If you have any questions about the event, please contact the Community organizer:
 
 * [Shelly](https://www.meetup.com/members/305729361)
