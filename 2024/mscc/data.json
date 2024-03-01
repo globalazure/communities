@@ -1,0 +1,28 @@
+{
+    "ValidMaintainers": {
+      "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+      "GitHubHandles": [
+        "jochenkirstaetter"
+      ]
+    },
+    "CommunityInfo": {
+      "Name": "Mauritius Software Craftsmanship Community",
+      "Country": "Mauritius",
+      "CountryCode": "MU",
+      "Language": "English",
+      "Url": "https://www.mscc.mu/",
+      "Logo": {
+        "Description": "Logo of the Mauritius Software Craftsmanship Community",
+        "File": "mscc.png"
+      },
+      "Locations": [
+        {
+          "Name": "Port Louis",
+          "Address": "Swan Center, 10 Intendance St, Port Louis",
+          "Latitude": -20.1638416,
+          "Longitude": 57.5009746
+        }
+      ]
+    }
+  }
+  
