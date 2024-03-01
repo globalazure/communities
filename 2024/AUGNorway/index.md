@@ -6,7 +6,7 @@ Global Azure 2024 will once again be supported by Azure User Group Norway!
 
 We plan to support Global Azure 2024 (https://globalazure.net) by organizing multiple regional meetups i Norway, during the days of April 18th to April 20th, 2024.
 
-Planning is underway, and several locations are confirmed, se below links. We are looking for organizations and members of our network that would like to sponsor and contribute to a regional event. See more info under sponsors below.
+Planning is underway, and several locations are confirmed, se below links. We are continually looking for organizations and members of our network that would like to sponsor and contribute to a regional event. See more info under sponsors below.
 
 ### Oslo
 
@@ -16,9 +16,9 @@ Our Global Azure Meetup event for Oslo is being sponsored by [Devoteam](https://
 
 ### Kristiansand
 
-Our Global Azure Meetup event for Kristiansand us being sponsored by [Point Taken](https://www.pointtaken.no/)!
+Our Global Azure Meetup event for Kristiansand us being sponsored by [Point Taken](https://www.pointtaken.no/) and [KPMG](https://www.kpmg.no)!
 
-[![Global Azure Norway 2024 - Kristiansand](GlobalAzure2024_Kristiansand_Pointtaken.png "Event information")](https://www.meetup.com/azure-user-group-norway/events/298799537/)
+[![Global Azure Norway 2024 - Kristiansand](GlobalAzure2024_Kristiansand_Pointtaken_KPMG.png "Event information")](https://www.meetup.com/azure-user-group-norway/events/298799537/)
 
 ### Bergen
 
