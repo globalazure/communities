@@ -1,10 +1,16 @@
 {
   "ValidMaintainers": {
-    "Description": "Global Azure 2024 - Poland on-line",
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
     "GitHubHandles": [
       "RogalaPiotr",
       "MichalJankowskii",
-      "PiotrWachulec"
+      "PiotrWachulec",
+      "mskuratowski",
+      "pawelsiwek",
+      "mimachniak",
+      "barozi",
+      "donnik007",
+      "mmisztal1980"
     ]
   },
   "CommunityInfo": {

@@ -1,4 +1,4 @@
-# Global Azure 2024 - Poland on-line
+# Global Azure 2024 - Wrocław on-site Workshop
 
 Visit our website at <https://azurepoland.pl>. If you have any questions, feedback or thoughts, please reach out to the community organizers:
 
