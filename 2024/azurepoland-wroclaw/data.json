@@ -1,6 +1,6 @@
 {
   "ValidMaintainers": {
-    "Description": "Global Azure 2024 - Wrocław Workshop on-site",
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
     "GitHubHandles": [
       "RogalaPiotr",
       "MichalJankowskii"
