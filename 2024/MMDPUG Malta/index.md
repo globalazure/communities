@@ -3,7 +3,7 @@
 ## Organizers: MMDPUG, Alteryx Community, TechSpark, TechMalta
 
 
-<table style="float:left;margin-top:50px;width:200%">
+<table style="float:left;margin-top:50px;width:120%">
 <tr><td width="20%"   style="vertical-align:top">
 <b>Malta Microsoft Data Platform User Group (MMDPUG)</b>
 
