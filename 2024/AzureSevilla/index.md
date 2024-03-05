@@ -4,7 +4,7 @@
 
 Global Azure Sevilla is a community event organized by **Azure Sevilla**
 
-All around the world user groups and communities want to learn about Azure and Cloud Computing! On April 20, 2024, all communities will come together once again in a great Global Azure event!
+All around the world user groups and communities want to learn about Azure and Cloud Computing!, all communities will come together once again in a great Global Azure event!
 
 ## Call for Speakers
 
@@ -17,6 +17,10 @@ The [Call for Speakers is open](https://sessionize.com/global-azure-sevilla-2024
 * 🎫Get your [FREE ticket](https://www.eventbrite.es/e/entradas-global-azure-sevilla-853577010817)
 * 🎙️Call for speakers - [https://sessionize.com/global-azure-sevilla-2024](https://sessionize.com/global-azure-sevilla-2024)
 * 💶Sponsors - We are looking for sponsors. Reach out to any of the [organizers](#organizers)
+
+## Agenda
+
+The agenda will be updated once the call for speakers has ended.
 
 ## Organizers
 
