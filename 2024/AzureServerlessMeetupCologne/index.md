@@ -1,7 +1,17 @@
-# Community title
+# Azure Serverless Stammtisch - Köln
 
-![Community title](template.png)
+![Azure Serverless Stammtisch](azureserverlessstammtisch.png)
 
-We're excited to be hosting an event at [Community title](https://globalazure.net/this-is-just-a-sample-link/)!
+We're excited to be hosting an event at [Azure Serverless Stammtisch Köln](https://globalazure.net/this-is-just-a-sample-link/)!
 
-Here you put any markdown content which describes your event location, and what you will be doing at your event. Get creative and tell your own story, list your agenda, speakers, and anything else that seems relevant to you! Please feel free to be inspired by all the community submissions at [GlobalAzure.net/communities](http://globalazure.net/communities)
+
+
+Der Azure Serverless Stammtisch organisiert am Donnerstag, den 18. April 2024 im Rahmen von Global Azure zwei Vorträge.
+
+Es geht nicht nur um technische Einblicke und Erfahrungen, sondern auch um einen Abend voller Erfahrungsaustausch, Networking und Spaß.
+
+Das Programm und die Sessions werden bald bekannt gegeben, nicht verpassen!
+
+Du hast einen spannenden Vortrag, den du vorstellen willst? Dann melde dich bei uns! #CallForSpeaker
+
+Wenn du Fragen, Feedback oder Anregungen hast, wende dich bitte an die Organisatoren der Community.
