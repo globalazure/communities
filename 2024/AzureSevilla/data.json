@@ -2,7 +2,8 @@
   "ValidMaintainers": {
     "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
     "GitHubHandles": [
-      "rfernandezdo"
+      "rfernandezdo",
+      "jioller"
     ]
   },
   "CommunityInfo": {
@@ -21,8 +22,8 @@
         "Description": "Principal location",
         "Name": "Sevilla, Spain",
         "Address": "Sevilla, Spain",        
-        "Latitude": 37.3891,
-        "Longitude": 5.9845
+        "Latitude": 37.392529,
+        "Longitude": -5.994072
       }
     ]
   }
