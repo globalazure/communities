@@ -1,0 +1,26 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "ryutakojo",
+      "darkcrash",
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "SapporoAzureMok2",
+    "Country": "Japan",
+    "Url": "https://sapporoazuremok2.connpass.com/",
+    "Logo"{
+      "Description": "Community logo is a .png file 300X300px in this folder!",
+      "File": "SapporoAzureMok2Logo.png"
+    },
+    "Locations": [
+      {
+        "Name": "Sapporo Ubiquitous Co-creation Square U-cala 札幌ユビキタス協創広場 U-cala",
+        "Address": "Sapporo Factory article 1 building 1st floor, 1-1 Kita1-higashi4, Chuo Ku, Sapporo, Hokkaido   札幌市中央区北1条東4丁目サッポロファクトリー1条館1階",
+        "Latitude": 43.064625,
+        "Longitude": 141.362420
+      }
+    ]
+  }
+}
