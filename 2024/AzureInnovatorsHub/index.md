@@ -9,6 +9,7 @@ On Apr 20, 2024, we will come together to once again bring the Global Azure even
 
 The [Call for Speakers is open](https://sessionize.com/global-azure-greece-2024/). Selection will happen on an ongoing basis. Don't wait to the last day to submit your sessions!!! 
 
+The Registration link is coming soon !
 
 Resume information:
 * 📅April, 20 2024
