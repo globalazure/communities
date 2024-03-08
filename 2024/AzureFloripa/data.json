@@ -1,0 +1,24 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "deschampsvinicius"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Global Azure Floripa",
+    "Country": "Brazil",
+    "Url": "http://azurefloripa.com.br",
+       "Locations": [
+      {
+        "Name": "Florianópolis",
+        "Latitude": -27.594870,
+        "Longitude": -48.548222
+      }
+    ],
+    "Logo": {
+      "Description": "Global Azure - Azure Floripa",
+      "File": "global-azure-floripa.png"
+    }
+  }
+}
