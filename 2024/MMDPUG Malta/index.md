@@ -1,5 +1,7 @@
 # Malta Global Azure Bootcamp
 
+## Free Registration: https://bit.ly/MaltaGlobalAzure
+
 ## Organizers: MMDPUG, Alteryx Community, TechSpark, TechMalta
 
 
@@ -73,5 +75,3 @@ Join our [What's App Group](https://chat.whatsapp.com/HP2HDu15tSqHnRIQjwBWCe)
 </td>
 </table>
 <br /><br />
-
-## Session details, tickets/seat reservation will be available soon!
