@@ -12,8 +12,8 @@
     "Country": "Greece",
     "Url": "https://www.meetup.com/athens-azure-tech-group/",
     "Description_SessionizeApiId": "",
-    "SessionizeApiId": "",
-    "SessionizeEventName": "",
+    "SessionizeApiId": "igb6icil",
+    "SessionizeEventName": "Global Azure Greece 2024",
     "Logo": {
       "Description": "Community logo is a .png file 500X500px in this folder!",
       "File": "azureinnovatorshub.png"
