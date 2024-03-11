@@ -1,0 +1,29 @@
+{
+  "ValidMaintainers": {
+    "Description": "Global Azure 2024 - Trójmiasto Workshop",
+    "GitHubHandles": [
+      "grzegorzmeger",
+      "pawelsiwek"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Global Azure - Trójmiasto",
+    "Country": "Poland",
+    "Url": "https://www.eventbrite.com/e/global-azure-2024-warsztaty-trojmiasto-tickets-861127725207",
+    "Description_SessionizeApiId": "",
+    "SessionizeApiId": "",
+    "SessionizeEventName": "",
+    "Logo": {
+      "Description": "GlobalAzurePolandTrójmiasto",
+      "File": "azureglobaltrojmiasto.png"
+    },
+    "Locations": [
+      {
+        "Name": "Online",
+        "Address": "https://www.eventbrite.fi/x/861127725207/",
+        "Latitude": 54.39907011378257,
+        "Longitude": 18.576722591817365 
+      }
+    ]
+  }
+}
