@@ -1,0 +1,31 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "ebordim",
+      "osanam-giordane"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Azure Brasil",
+    "Country": "Brazil",
+    "Url": "https://globalazure.cloudweek.com.br/",
+    "Description_SessionizeApiId": "If you have configured your Sessionize correctly then browsing to this url (replacing {Your sessionize event Id} with your event sessionize id) will return valid json: https://sessionize.com/api/v2/{Your sessionize event Id}/view/Sessions",
+    "SessionizeApiId": "https://sessionize.com/api/v2/14992/view/Sessions",
+    "SessionizeEventName": "https://sessionize.com/global-azure-bootcamp-jundiai-2024",
+    "Logo": {
+      "Description": "Community logo is a .png file 500X500px in this folder!",
+      "File": "gabjundiai.png"
+    },
+    "Locations": [
+      {
+        "Description": "Each location where your community will be running a Global Azure event.",
+        "Name": "Jundiaí",
+        "Address": "Online",
+        "Description_Lat_Lon": "The Lat and Lon location for where you want your community pin on the Global Azure Community Map (example 47.6457554, -122.1299952).",
+        "Latitude": -23.157064,
+        "Longitude": -46.886784
+      }
+    ]
+  }
+}
