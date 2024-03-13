@@ -1,0 +1,25 @@
+{
+    "ValidMaintainers": {
+      "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+      "GitHubHandles": [
+        "Ch1c4n0"
+        
+      ]
+    },
+    "CommunityInfo": {
+      "Name": "Global Azure Floripa",
+      "Country": "Brazil",
+      "Url": "https://www.linkedin.com/in/marcelocloud/",
+         "Locations": [
+        {
+          "Name": "Campinas",
+          "Latitude": -22.9059498,
+          "Longitude": -47.0629112
+        }
+      ],
+      "Logo": {
+        "Description": "Cloud na Quebrada - Campinas",
+        "File": "cloudnaquebrada.png"
+      }
+    }
+  }
