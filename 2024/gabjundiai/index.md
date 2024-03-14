@@ -1,7 +1,13 @@
 # Community title
 
-![Community title](template.png)
+![Azure Brasil](gabjundiai.png)
 
-We're excited to be hosting an event at [Community title](https://globalazure.net/this-is-just-a-sample-link/)!
+We're excited to be hosting an event at [Azure Brasil](https://globalazure.cloudweek.com.br/)!
 
-Here you put any markdown content which describes your event location, and what you will be doing at your event. Get creative and tell your own story, list your agenda, speakers, and anything else that seems relevant to you! Please feel free to be inspired by all the community submissions at [GlobalAzure.net/communities](http://globalazure.net/communities)
+Global Azure Bootcamp Jundiaí (GABJUNDIAI) is an event organized by the local community of MVPs from Jundiaí and the surrounding region.
+
+It is an event that brings together several professionals with knowledge in Azure from Brazil.
+
+The event is open to the entire community, regardless of the level of knowledge on the platform. We will have two days full of learning, come and be a part of it.
+
+Other contact details available on https://globalazure.cloudweek.com.br/
