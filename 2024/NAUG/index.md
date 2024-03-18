@@ -2,7 +2,7 @@
 
 ![Northern Azure User Group](NAUGUKSquare500x500.png)
 
-We're excited to be hosting an all day event at the **[ANS Offices](https:https://www.ans.co.uk/)** in Manchester on the **April 20th**
+We're excited to be hosting an all day event at the **[ANS Offices](https://www.ans.co.uk/)** in Manchester on the **April 20th**
 
 If you are interested in speaking at our meetup please visit our **[Call for Speakers page](https://sessionize.com/global-azure-2024-naug/)**.
 
