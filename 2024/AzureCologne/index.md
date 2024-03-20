@@ -2,7 +2,7 @@
 
 [![Azure Meetup Cologne](azurecgn.png "Visit us here!")](https://azurecgn.de/)
 
-Global Azure Germany Cologne is a community event organized by the Azure Meetup Cologne.
+Global Azure Germany Cologne is a community event organized by the Azure Meetup Cologne. 
 
 All around the world user groups and communities are sharing knowledge to professionals that want to learn more about Microsoft Azure and Cloud Computing!
 
