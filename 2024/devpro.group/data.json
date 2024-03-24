@@ -1,0 +1,28 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "haohoo"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "devpro.group",
+    "Country": "China",
+    "Url": "http://azurebootcamp.devpro.group",
+    "SessionizeApiId": "u79zn3ip",
+    "Description_SessionizeApiId": "https://sessionize.com/api/v2/u79zn3ip/view/Sessions",
+    "SessionizeEventName": "https://sessionize.com/global-azure-bootcamp-2024",
+    "Logo": {
+      "Description": "Community logo is a .png file 500X500px named devprogroup.png.",
+      "File": "devprogroup.png"
+    },
+    "Locations": [
+      {
+        "Name": "Microsoft Reactor Shanghai",
+        "Address": "No.192, Tianlin Road, Shanghai, China",
+        "Latitude": 31.169050, 
+        "Longitude": 121.408060
+      }
+    ]
+  }
+}

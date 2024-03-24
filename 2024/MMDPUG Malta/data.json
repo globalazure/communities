@@ -1,0 +1,27 @@
+{
+    "ValidMaintainers": {
+      "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+      "GitHubHandles": [
+        "DennesTorres"
+      ]
+    },
+  "CommunityInfo": {
+    "Name": "Malta Global Azure",
+    "Country": "Malta",
+    "Url": "https://www.meetup.com/mmdpug/",
+    "SessionizeApiId": "mokthkn2",
+    "Description_SessionizeApiId": "globalazuremalta",
+    "SessionizeEventName": "https://sessionize.com/global-azure-2024-malta/",
+    "Locations": [
+      {
+        "Name": "Malta",
+        "Latitude": 35.917973,
+        "Longitude": 14.409943
+      }
+    ],
+    "Logo": {
+      "Description": "MMDPUG logo",
+      "File": "LogoAzure.png"
+    }
+  }
+  }
