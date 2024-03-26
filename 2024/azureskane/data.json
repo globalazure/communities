@@ -14,13 +14,22 @@
     "Url": "https://www.meetup.com/Azure-Skane/",
     "SessionizeApiId": "",
     "SessionizeEventName": "",
-    "Logo": {
-      "Description": "Azure Skåne",
-      "File": "azureskane.png"
+    "Files": {
+      "EventPage": "index.md",
+      "SponsorsPage": "sponsors.md",
+      "LogoFile": {
+        "Description": "Azure Skåne Logo",
+        "File": "azureskane.png"
+      }
+    },
+    "SamApp": {
+      "AdditionalHosts": []
     },
     "Locations": [
       {
         "Name": "Malmö",
+        "StartDate": "2024-04-19",
+        "EndDate": "2024-04-19",
         "Latitude": 55.61126802005422,
         "Longitude": 13.00184398064394
       }
