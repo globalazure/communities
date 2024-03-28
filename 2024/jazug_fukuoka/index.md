@@ -17,4 +17,4 @@ https://jazug.connpass.com/event/313994/
 
 [0]: https://r.jazug.jp/
 [1]: https://twitter.com/hashtag/jazug
-[2]: global-azure-jazug-fukuoka.png
+[2]: jazug_ga2024.png
