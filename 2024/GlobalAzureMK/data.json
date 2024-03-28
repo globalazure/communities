@@ -1,0 +1,30 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "glazuremk",
+      "darkomilevski"
+	  "mcekikj"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Global Azure Macedonia",
+    "Country": "Macedonia",
+    "Url": "https://www.facebook.com/mkdotnet",
+    "SessionizeApiId": "6seinuzw",
+    "Description_SessionizeApiId": "If you have configured your Sessionize correctly then browsing to this url (replacing {Your sessionize event Id} with your event sessionize id) will return valid json: https://sessionize.com/api/v2/{Your sessionize event Id}/view/Sessions",
+    "SessionizeEventName": "Global Azure Macedonia 2024",
+    "Logo": {
+      "Description": "Community logo is a .png file 500X500px named {foldername}.png.",
+      "File": "GlobalAzure2024Skopje.png"
+    },
+    "Locations": [
+      {
+        "Name": "International Balkan University",
+        "Address": "Plostad Makedonija bb, 1000 Skopje, North Macedonia",
+        "Latitude": 41.995884,
+        "Longitude": 21.432399
+      }
+    ]
+  }
+}
