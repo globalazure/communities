@@ -13,7 +13,7 @@
     "Description_SessionizeApiId": "If you have configured your Sessionize correctly then browsing to this url (replacing {Your sessionize event Id} with your event sessionize id) will return valid json: https://sessionize.com/api/v2/{Your sessionize event Id}/view/Sessions",
     "SessionizeApiId": "",
     "SessionizeEventName": "",
-    "Logo"{
+    "Logo": {
       "Description": "Community logo is a .png file 300X300px in this folder!",
       "File": "SapporoAzureMok2Logo.png"
     },
