@@ -8,34 +8,48 @@
     ]
   },
   "CommunityInfo": {
-    "Name": "Global Azure Spain",
-    "Country": "Spain",
-    "Url": "https://globalazure.es",
-    "SessionizeApiId": "zvtsb0dr",
-    "SessionizeEventName": "https://sessionize.com/global-azure-2024-spain/",
-    "Logo": {
-      "Description": "Community logo is a .png file 500X500px named {foldername}.png.",
-      "File": "GlobalAzure2024LiveFromSpain-250.png"
-    },
     "Locations": [
       {
-        "Name": "Madrid",
+        "Longitude": -3.6422473,
         "Address": "Kinépolis Diversia, C.C. Heron Diversia, Av. de Bruselas, 21, 28108 Alcobendas, Madrid",
+        "Name": "Madrid",
+        "StartDate": "2024-04-19",
         "Latitude": 40.5300823,
-        "Longitude": -3.6422473
+        "EndDate": "2024-04-19"
       },
       {
+        "Longitude": 2.1853784,
+        "Address": "Ironhack, C/ de Pamplona, 96, Sant Martí, 08018 Barcelona",
         "Name": "Barcelona",
-        "Address": "Ironhack, C/ de Pamplona, 96, Sant Martí, 08018 Barcelona"
+        "StartDate": "2024-04-19",
         "Latitude": 41.397742,
-        "Longitude": 2.1853784
+        "EndDate": "2024-04-19"
       },
       {
-        "Name": "Zaragoza",
+        "Longitude": -0.8996619,
         "Address": "Hiberus, P.º de Isabel la Católica, 6, 50009 Zaragoza",
+        "Name": "Zaragoza",
+        "StartDate": "2024-04-19",
         "Latitude": 41.6369216,
-        "Longitude": -0.8996619
+        "EndDate": "2024-04-19"
       }
-    ]
+    ],
+    "Files": {
+      "LogoFile": {
+        "Description": "Community logo is a .png file 500X500px named {foldername}.png.",
+        "File": "GlobalAzure2024LiveFromSpain-250.png"
+      },
+      "SponsorsPage": "sponsors.md",
+      "EventPage": "index.md"
+    },
+    "Country": "Spain",
+    "Name": "Global Azure Spain",
+    "Description_SessionizeApiId": null,
+    "SessionizeApiId": "zvtsb0dr",
+    "Url": "https://globalazure.es",
+    "SessionizeEventName": "https://sessionize.com/global-azure-2024-spain/",
+    "SamApp": {
+      "AdditionalHosts": []
+    }
   }
 }

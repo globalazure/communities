@@ -1,28 +1,38 @@
 {
-    "ValidMaintainers": {
-      "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
-      "GitHubHandles": [
-        "tiagocostapt",
-        "pmsousa"
-      ]
-    },
-    "CommunityInfo": {
-      "Name": "Azure User Group Portugal",
-      "Country": "Portugal",
-      "Url": "https://www.globalazure.pt",
-      "SessionizeApiId": "9uzm5lft",
-      "Description_SessionizeApiId": "https://sessionize.com/api/v2/9uzm5lft/view/Sessions",
-      "SessionizeEventName": "Global Azure Portugal 2024",
-      "Locations": [
-        {
-          "Name": "Lisbon",
-          "Latitude": 38.761020,
-          "Longitude":-9.094664
-        }
-      ],
-      "Logo": {
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "tiagocostapt",
+      "pmsousa"
+    ]
+  },
+  "CommunityInfo": {
+    "Locations": [
+      {
+        "Longitude": -9.094664,
+        "Address": null,
+        "Name": "Lisbon",
+        "StartDate": "2024-04-19",
+        "Latitude": 38.76102,
+        "EndDate": "2024-04-19"
+      }
+    ],
+    "Files": {
+      "LogoFile": {
         "Description": "Azure User Group Portugal logo.",
         "File": "AZUGPT.png"
-      }
+      },
+      "SponsorsPage": "sponsors.md",
+      "EventPage": "index.md"
+    },
+    "Country": "Portugal",
+    "Name": "Azure User Group Portugal",
+    "Description_SessionizeApiId": "https://sessionize.com/api/v2/9uzm5lft/view/Sessions",
+    "SessionizeApiId": "9uzm5lft",
+    "Url": "https://www.globalazure.pt",
+    "SessionizeEventName": "Global Azure Portugal 2024",
+    "SamApp": {
+      "AdditionalHosts": []
     }
   }
+}

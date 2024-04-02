@@ -1,28 +1,35 @@
 {
   "ValidMaintainers": {
     "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
-    "GitHubHandles": [
-      "haohoo"
-    ]
+    "GitHubHandles": "haohoo"
   },
   "CommunityInfo": {
-    "Name": "devpro.group",
-    "Country": "China",
-    "Url": "http://azurebootcamp.devpro.group",
-    "SessionizeApiId": "u79zn3ip",
-    "Description_SessionizeApiId": "https://sessionize.com/api/v2/u79zn3ip/view/Sessions",
-    "SessionizeEventName": "https://sessionize.com/global-azure-bootcamp-2024",
-    "Logo": {
-      "Description": "Community logo is a .png file 500X500px named devprogroup.png.",
-      "File": "devprogroup.png"
-    },
     "Locations": [
       {
-        "Name": "Microsoft Reactor Shanghai",
+        "Longitude": 121.40806,
         "Address": "No.192, Tianlin Road, Shanghai, China",
-        "Latitude": 31.169050, 
-        "Longitude": 121.408060
+        "Name": "Microsoft Reactor Shanghai",
+        "StartDate": "2024-04-19",
+        "Latitude": 31.16905,
+        "EndDate": "2024-04-19"
       }
-    ]
+    ],
+    "Files": {
+      "LogoFile": {
+        "Description": "Community logo is a .png file 500X500px named devprogroup.png.",
+        "File": "devprogroup.png"
+      },
+      "SponsorsPage": "sponsors.md",
+      "EventPage": "index.md"
+    },
+    "Country": "China",
+    "Name": "devpro.group",
+    "Description_SessionizeApiId": "https://sessionize.com/api/v2/u79zn3ip/view/Sessions",
+    "SessionizeApiId": "u79zn3ip",
+    "Url": "http://azurebootcamp.devpro.group",
+    "SessionizeEventName": "https://sessionize.com/global-azure-bootcamp-2024",
+    "SamApp": {
+      "AdditionalHosts": []
+    }
   }
 }

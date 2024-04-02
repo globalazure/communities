@@ -1,25 +1,35 @@
 {
   "ValidMaintainers": {
     "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
-    "GitHubHandles": [
-      "nkuppurasu",
-    ]
+    "GitHubHandles": "nkuppurasu"
   },
   "CommunityInfo": {
-    "Name": "TechMeet360",
-    "Country": "India",
-    "Url": "https://www.meetup.com/techmeet360/",
-    "Logo": {
-      "Description": "Community logo is a .png file 500X500px named techmeet360.png.",
-      "File": "techmeet360.png"
-    },
     "Locations": [
       {
-        "Name": "Coimbatore",
+        "Longitude": 76.9804370782794,
         "Address": "Kovai.co",
+        "Name": "Coimbatore",
+        "StartDate": "2024-04-19",
         "Latitude": 11.072026602086565,
-        "Longitude": 76.9804370782794
+        "EndDate": "2024-04-19"
       }
-    ]
+    ],
+    "Files": {
+      "LogoFile": {
+        "Description": "Community logo is a .png file 500X500px named techmeet360.png.",
+        "File": "techmeet360.png"
+      },
+      "SponsorsPage": "sponsors.md",
+      "EventPage": "index.md"
+    },
+    "Country": "India",
+    "Name": "TechMeet360",
+    "Description_SessionizeApiId": null,
+    "SessionizeApiId": null,
+    "Url": "https://www.meetup.com/techmeet360/",
+    "SessionizeEventName": null,
+    "SamApp": {
+      "AdditionalHosts": []
+    }
   }
 }

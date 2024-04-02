@@ -1,26 +1,35 @@
 {
-    "ValidMaintainers": {
-      "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
-      "GitHubHandles": [
-        "your-azure-coach"
-      ]
-    },
-    "CommunityInfo": {
-      "Name": "Campus Cloud Café",
-      "Country": "Belgium",
-      "Url": "https://www.eventbrite.com/e/tickets-campus-cloud-cafe-hogent-768408770317",
-      "SessionizeApiId": "",
-      "Logo": {
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": "your-azure-coach"
+  },
+  "CommunityInfo": {
+    "Locations": [
+      {
+        "Longitude": 3.72227,
+        "Address": "HoGent - Campus to be announced",
+        "Name": "Gent",
+        "StartDate": "2024-04-19",
+        "Latitude": 51.053822,
+        "EndDate": "2024-04-19"
+      }
+    ],
+    "Files": {
+      "LogoFile": {
         "Description": "Campus Cloud Café - GlobalAzure Edition",
         "File": "logo.png"
       },
-      "Locations": [
-        {
-          "Name": "Gent",
-          "Address": "HoGent - Campus to be announced",
-          "Latitude": 51.053822, 
-          "Longitude": 3.722270
-        }
-      ]
+      "SponsorsPage": "sponsors.md",
+      "EventPage": "index.md"
+    },
+    "Country": "Belgium",
+    "Name": "Campus Cloud Café",
+    "Description_SessionizeApiId": null,
+    "SessionizeApiId": "",
+    "Url": "https://www.eventbrite.com/e/tickets-campus-cloud-cafe-hogent-768408770317",
+    "SessionizeEventName": null,
+    "SamApp": {
+      "AdditionalHosts": []
     }
   }
+}

@@ -1,25 +1,35 @@
 {
   "ValidMaintainers": {
     "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
-    "GitHubHandles": [
-      "synergetics-learning"
-      ]
+    "GitHubHandles": "synergetics-learning"
   },
   "CommunityInfo": {
-    "Name": "Azure Tech Community",
-    "Country": "India",
-    "Url": "https://www.meetup.com/Emerging-Technology-Meetup/",
-    "Logo": {
-      "Description": "Azure Tech Community - Logo",
-      "File": "ATC-Logo.png"
-    },
     "Locations": [
       {
-        "Description": "Each location where your community will be running a Global Azure event.",
+        "Longitude": null,
+        "Address": "Andheri",
         "Name": "MUMBAI",
-        "Address": "Andheri"
-        
+        "StartDate": "2024-04-19",
+        "Latitude": null,
+        "EndDate": "2024-04-19"
       }
-    ]
+    ],
+    "Files": {
+      "LogoFile": {
+        "Description": "Azure Tech Community - Logo",
+        "File": "ATC-Logo.png"
+      },
+      "SponsorsPage": "sponsors.md",
+      "EventPage": "index.md"
+    },
+    "Country": "India",
+    "Name": "Azure Tech Community",
+    "Description_SessionizeApiId": null,
+    "SessionizeApiId": null,
+    "Url": "https://www.meetup.com/Emerging-Technology-Meetup/",
+    "SessionizeEventName": null,
+    "SamApp": {
+      "AdditionalHosts": []
+    }
   }
 }

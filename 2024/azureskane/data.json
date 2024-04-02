@@ -9,30 +9,32 @@
     ]
   },
   "CommunityInfo": {
-    "Name": "Azure Skåne",
-    "Country": "Sweden",
-    "Url": "https://www.meetup.com/Azure-Skane/",
-    "SessionizeApiId": "",
-    "SessionizeEventName": "",
-    "Files": {
-      "EventPage": "index.md",
-      "SponsorsPage": "sponsors.md",
-      "LogoFile": {
-        "Description": "Azure Skåne Logo",
-        "File": "azureskane.png"
-      }
-    },
-    "SamApp": {
-      "AdditionalHosts": []
-    },
     "Locations": [
       {
+        "Longitude": 13.00184398064394,
+        "Address": null,
         "Name": "Malmö",
         "StartDate": "2024-04-19",
-        "EndDate": "2024-04-19",
         "Latitude": 55.61126802005422,
-        "Longitude": 13.00184398064394
+        "EndDate": "2024-04-19"
       }
-    ]
+    ],
+    "Files": {
+      "LogoFile": {
+        "Description": null,
+        "File": null
+      },
+      "SponsorsPage": "sponsors.md",
+      "EventPage": "index.md"
+    },
+    "Country": "Sweden",
+    "Name": "Azure Skåne",
+    "Description_SessionizeApiId": null,
+    "SessionizeApiId": "",
+    "Url": "https://www.meetup.com/Azure-Skane/",
+    "SessionizeEventName": "",
+    "SamApp": {
+      "AdditionalHosts": []
+    }
   }
 }

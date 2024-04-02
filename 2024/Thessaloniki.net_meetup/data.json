@@ -8,23 +8,32 @@
     ]
   },
   "CommunityInfo": {
-    "Name": "Thessaloníki .NET Meetup",
-    "Country": "Greece",
-    "Url": "https://www.meetup.com/thessaloniki-net-meetup/",
-    "SessionizeApiId": "afto9lzw",
-    "Description_SessionizeApiId": "If you have configured your Sessionize correctly then browsing to this url (replacing {Your sessionize event Id} with your event sessionize id) will return valid json: https://sessionize.com/api/v2/{Your sessionize event Id}/view/Sessions",
-    "SessionizeEventName": "https://sessionize.com/globalazure2023Thess/",
-    "Logo": {
-      "Description": "Thessaloniki.net meetup logo with the text and city's monuments",
-      "File": "logo.png"
-    },
     "Locations": [
       {
-        "Name": "OK! Thess",
+        "Longitude": 22.9511,
         "Address": "2 Komotinis Thessaloniki 546 55",
+        "Name": "OK! Thess",
+        "StartDate": "2024-04-19",
         "Latitude": 40.59547,
-        "Longitude":  22.95110,
+        "EndDate": "2024-04-19"
       }
-    ]
+    ],
+    "Files": {
+      "LogoFile": {
+        "Description": "Thessaloniki.net meetup logo with the text and city's monuments",
+        "File": "logo.png"
+      },
+      "SponsorsPage": "sponsors.md",
+      "EventPage": "index.md"
+    },
+    "Country": "Greece",
+    "Name": "Thessaloníki .NET Meetup",
+    "Description_SessionizeApiId": "If you have configured your Sessionize correctly then browsing to this url (replacing {Your sessionize event Id} with your event sessionize id) will return valid json: https://sessionize.com/api/v2/{Your sessionize event Id}/view/Sessions",
+    "SessionizeApiId": "afto9lzw",
+    "Url": "https://www.meetup.com/thessaloniki-net-meetup/",
+    "SessionizeEventName": "https://sessionize.com/globalazure2023Thess/",
+    "SamApp": {
+      "AdditionalHosts": []
+    }
   }
 }

@@ -9,20 +9,32 @@
     ]
   },
   "CommunityInfo": {
-    "Name": "Open Community of Developers(OCD-India)",
-    "Country": "India",
-    "Url": "https://lu.ma/OCDIndia",
-    "Logo": {
-      "Description": "Open Community of Developers (OCD India)",
-      "File": "OCD.png"
-    },
     "Locations": [
       {
-        "Name": "New Delhi",
+        "Longitude": 77.1025,
         "Address": "New Delhi",
+        "Name": "New Delhi",
+        "StartDate": "2024-04-19",
         "Latitude": 28.7041,
-        "Longitude": 77.1025
+        "EndDate": "2024-04-19"
       }
-    ]
+    ],
+    "Files": {
+      "LogoFile": {
+        "Description": "Open Community of Developers (OCD India)",
+        "File": "OCD.png"
+      },
+      "SponsorsPage": "sponsors.md",
+      "EventPage": "index.md"
+    },
+    "Country": "India",
+    "Name": "Open Community of Developers(OCD-India)",
+    "Description_SessionizeApiId": null,
+    "SessionizeApiId": null,
+    "Url": "https://lu.ma/OCDIndia",
+    "SessionizeEventName": null,
+    "SamApp": {
+      "AdditionalHosts": []
+    }
   }
 }

@@ -1,24 +1,35 @@
 {
-    "ValidMaintainers": {
-      "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
-      "GitHubHandles": [
-        "tdavidnudelman",
-      ]
-    },
-    "CommunityInfo": {
-      "Name": "Global Azure POA",
-      "Country": "Brazil",
-      "Url": "http://gabpoa.azurewebsites.net/",
-         "Locations": [
-        {
-          "Name": "Porto Alegre",
-          "Latitude": -29.996205262516572,
-          "Longitude":-51.20125468718969
-        }
-      ],
-      "Logo": {
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": "tdavidnudelman"
+  },
+  "CommunityInfo": {
+    "Locations": [
+      {
+        "Longitude": -51.20125468718969,
+        "Address": null,
+        "Name": "Porto Alegre",
+        "StartDate": "2024-04-19",
+        "Latitude": -29.996205262516572,
+        "EndDate": "2024-04-19"
+      }
+    ],
+    "Files": {
+      "LogoFile": {
         "Description": "VanTUG logo.",
         "File": "gabpoa.png"
-      }
+      },
+      "SponsorsPage": "sponsors.md",
+      "EventPage": "index.md"
+    },
+    "Country": "Brazil",
+    "Name": "Global Azure POA",
+    "Description_SessionizeApiId": null,
+    "SessionizeApiId": null,
+    "Url": "http://gabpoa.azurewebsites.net/",
+    "SessionizeEventName": null,
+    "SamApp": {
+      "AdditionalHosts": []
     }
   }
+}

@@ -1,25 +1,35 @@
 {
   "ValidMaintainers": {
     "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
-    "GitHubHandles": [
-      "esdanielgomez"
-    ]
+    "GitHubHandles": "esdanielgomez"
   },
   "CommunityInfo": {
-    "Name": "Virtual DEV Show (ATG)",
-    "Country": "Colombia",
-    "Url": "https://virtualdevshow.com/GlobalAzure2024/",
-    "Logo": {
-      "Description": "Virtual DEV Show (ATG)",
-      "File": "logo.png"
-    },
     "Locations": [
       {
-        "Name": "Virtual DEV Show (ATG)",
+        "Longitude": -74.0489991,
         "Address": "Bogota",
+        "Name": "Virtual DEV Show (ATG)",
+        "StartDate": "2024-04-19",
         "Latitude": 4.6733864,
-        "Longitude": -74.0489991
+        "EndDate": "2024-04-19"
       }
-    ]
+    ],
+    "Files": {
+      "LogoFile": {
+        "Description": "Virtual DEV Show (ATG)",
+        "File": "logo.png"
+      },
+      "SponsorsPage": "sponsors.md",
+      "EventPage": "index.md"
+    },
+    "Country": "Colombia",
+    "Name": "Virtual DEV Show (ATG)",
+    "Description_SessionizeApiId": null,
+    "SessionizeApiId": null,
+    "Url": "https://virtualdevshow.com/GlobalAzure2024/",
+    "SessionizeEventName": null,
+    "SamApp": {
+      "AdditionalHosts": []
+    }
   }
 }

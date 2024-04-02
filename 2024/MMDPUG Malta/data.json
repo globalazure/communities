@@ -1,27 +1,35 @@
 {
-    "ValidMaintainers": {
-      "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
-      "GitHubHandles": [
-        "DennesTorres"
-      ]
-    },
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": "DennesTorres"
+  },
   "CommunityInfo": {
-    "Name": "Malta Global Azure",
-    "Country": "Malta",
-    "Url": "https://www.meetup.com/mmdpug/",
-    "SessionizeApiId": "mokthkn2",
-    "Description_SessionizeApiId": "globalazuremalta",
-    "SessionizeEventName": "https://sessionize.com/global-azure-2024-malta/",
     "Locations": [
       {
+        "Longitude": 14.409943,
+        "Address": null,
         "Name": "Malta",
+        "StartDate": "2024-04-19",
         "Latitude": 35.917973,
-        "Longitude": 14.409943
+        "EndDate": "2024-04-19"
       }
     ],
-    "Logo": {
-      "Description": "MMDPUG logo",
-      "File": "LogoAzure.png"
+    "Files": {
+      "LogoFile": {
+        "Description": "MMDPUG logo",
+        "File": "LogoAzure.png"
+      },
+      "SponsorsPage": "sponsors.md",
+      "EventPage": "index.md"
+    },
+    "Country": "Malta",
+    "Name": "Malta Global Azure",
+    "Description_SessionizeApiId": "globalazuremalta",
+    "SessionizeApiId": "mokthkn2",
+    "Url": "https://www.meetup.com/mmdpug/",
+    "SessionizeEventName": "https://sessionize.com/global-azure-2024-malta/",
+    "SamApp": {
+      "AdditionalHosts": []
     }
   }
-  }
+}

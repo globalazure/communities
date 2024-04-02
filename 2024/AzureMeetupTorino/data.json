@@ -1,26 +1,35 @@
 {
   "ValidMaintainers": {
     "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
-    "GitHubHandles": [
-      "alberto-annunziata90"
-    ]
+    "GitHubHandles": "alberto-annunziata90"
   },
   "CommunityInfo": {
-    "Name": "Azure Meetup Torino",
-    "Country": "Italy",
-    "Url": "https://www.meetup.com/Meetup-Microsoft-Azure-Torino/",
-    "SessionizeApiId": "avu1xdua",
-    "Logo": {
-      "Description": "Azure Meetup Torino",
-      "File": "AzureMeetupTorino.png"
-    },
     "Locations": [
       {
-        "Name": "Fondazione ITS ICT",
+        "Longitude": 7.660096,
         "Address": "Via Jacopo Durandi 10, Turin",
+        "Name": "Fondazione ITS ICT",
+        "StartDate": "2024-04-19",
         "Latitude": 45.081726,
-        "Longitude": 7.660096
+        "EndDate": "2024-04-19"
       }
-    ]
+    ],
+    "Files": {
+      "LogoFile": {
+        "Description": "Azure Meetup Torino",
+        "File": "AzureMeetupTorino.png"
+      },
+      "SponsorsPage": "sponsors.md",
+      "EventPage": "index.md"
+    },
+    "Country": "Italy",
+    "Name": "Azure Meetup Torino",
+    "Description_SessionizeApiId": null,
+    "SessionizeApiId": "avu1xdua",
+    "Url": "https://www.meetup.com/Meetup-Microsoft-Azure-Torino/",
+    "SessionizeEventName": null,
+    "SamApp": {
+      "AdditionalHosts": []
+    }
   }
 }

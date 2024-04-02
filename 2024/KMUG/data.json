@@ -1,27 +1,35 @@
 {
   "ValidMaintainers": {
     "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
-    "GitHubHandles": [
-      "anuraj"
-    ]
+    "GitHubHandles": "anuraj"
   },
   "CommunityInfo": {
-    "Name": "K-MUG",
-    "Country": "India",
-    "Url": "https://k-mug.net/",
-    "SessionizeApiId": "2bbts6a7",
-    "SessionizeEventName": "https://sessionize.com/k-mug-global-azure-bootcamp-2024/",
-    "Logo": {
-      "Description": "Community logo is a .png file 500X500px named k-mug.png.",
-      "File": "k-mug.png"
-    },
     "Locations": [
       {
-        "Name": "Cochin",
+        "Longitude": 76.36593973670695,
         "Address": "Orion Innovation, 103, 1st Floor, Lulu Cyber Tower I, Infopark, Kakkanad, Kochi, Kerala 682042, India",
+        "Name": "Cochin",
+        "StartDate": "2024-04-19",
         "Latitude": 10.010070288555351,
-        "Longitude": 76.36593973670695
+        "EndDate": "2024-04-19"
       }
-    ]
+    ],
+    "Files": {
+      "LogoFile": {
+        "Description": "Community logo is a .png file 500X500px named k-mug.png.",
+        "File": "k-mug.png"
+      },
+      "SponsorsPage": "sponsors.md",
+      "EventPage": "index.md"
+    },
+    "Country": "India",
+    "Name": "K-MUG",
+    "Description_SessionizeApiId": null,
+    "SessionizeApiId": "2bbts6a7",
+    "Url": "https://k-mug.net/",
+    "SessionizeEventName": "https://sessionize.com/k-mug-global-azure-bootcamp-2024/",
+    "SamApp": {
+      "AdditionalHosts": []
+    }
   }
 }

@@ -1,26 +1,35 @@
 {
-    "ValidMaintainers": {
-      "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
-      "GitHubHandles": [
-        "markti"
-      ]
-    },
-    "CommunityInfo": {
-      "Name": "Azure CBUS",
-      "Country": "United States",
-      "Url": "https://www.meetup.com/central-ohio-azure/events/299187312/",
-      "SessionizeApiId": "",
-      "Logo": {
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": "markti"
+  },
+  "CommunityInfo": {
+    "Locations": [
+      {
+        "Longitude": -82.9988,
+        "Address": null,
+        "Name": "Columbus",
+        "StartDate": "2024-04-19",
+        "Latitude": 39.9612,
+        "EndDate": "2024-04-19"
+      }
+    ],
+    "Files": {
+      "LogoFile": {
         "Description": "Azure CBUS Meetup Logo",
         "File": "AzureCBUS.png"
       },
-      "Locations": [
-        {
-          "Name": "Columbus",
-          "Latitude": 39.9612, 
-          "Longitude": -82.9988
-        }
-      ]
+      "SponsorsPage": "sponsors.md",
+      "EventPage": "index.md"
+    },
+    "Country": "United States",
+    "Name": "Azure CBUS",
+    "Description_SessionizeApiId": null,
+    "SessionizeApiId": "",
+    "Url": "https://www.meetup.com/central-ohio-azure/events/299187312/",
+    "SessionizeEventName": null,
+    "SamApp": {
+      "AdditionalHosts": []
     }
   }
-  
+}

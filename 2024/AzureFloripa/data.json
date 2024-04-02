@@ -8,19 +8,32 @@
     ]
   },
   "CommunityInfo": {
-    "Name": "Global Azure Floripa",
-    "Country": "Brazil",
-    "Url": "http://azurefloripa.com.br",
-       "Locations": [
+    "Locations": [
       {
+        "Longitude": -48.548222,
+        "Address": null,
         "Name": "Florianópolis",
-        "Latitude": -27.594870,
-        "Longitude": -48.548222
+        "StartDate": "2024-04-19",
+        "Latitude": -27.59487,
+        "EndDate": "2024-04-19"
       }
     ],
-    "Logo": {
-      "Description": "Global Azure - Azure Floripa",
-      "File": "global-azure-floripa.png"
+    "Files": {
+      "LogoFile": {
+        "Description": "Global Azure - Azure Floripa",
+        "File": "global-azure-floripa.png"
+      },
+      "SponsorsPage": "sponsors.md",
+      "EventPage": "index.md"
+    },
+    "Country": "Brazil",
+    "Name": "Global Azure Floripa",
+    "Description_SessionizeApiId": null,
+    "SessionizeApiId": null,
+    "Url": "http://azurefloripa.com.br",
+    "SessionizeEventName": null,
+    "SamApp": {
+      "AdditionalHosts": []
     }
   }
 }

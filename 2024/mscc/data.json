@@ -1,28 +1,35 @@
 {
-    "ValidMaintainers": {
-      "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
-      "GitHubHandles": [
-        "jochenkirstaetter"
-      ]
-    },
-    "CommunityInfo": {
-      "Name": "Mauritius Software Craftsmanship Community",
-      "Country": "Mauritius",
-      "CountryCode": "MU",
-      "Language": "English",
-      "Url": "https://www.mscc.mu/",
-      "Logo": {
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": "jochenkirstaetter"
+  },
+  "CommunityInfo": {
+    "Locations": [
+      {
+        "Longitude": 57.5009746,
+        "Address": "Swan Center, 10 Intendance St, Port Louis",
+        "Name": "Port Louis",
+        "StartDate": "2024-04-19",
+        "Latitude": -20.1638416,
+        "EndDate": "2024-04-19"
+      }
+    ],
+    "Files": {
+      "LogoFile": {
         "Description": "Logo of the Mauritius Software Craftsmanship Community",
         "File": "mscc.png"
       },
-      "Locations": [
-        {
-          "Name": "Port Louis",
-          "Address": "Swan Center, 10 Intendance St, Port Louis",
-          "Latitude": -20.1638416,
-          "Longitude": 57.5009746
-        }
-      ]
+      "SponsorsPage": "sponsors.md",
+      "EventPage": "index.md"
+    },
+    "Country": "Mauritius",
+    "Name": "Mauritius Software Craftsmanship Community",
+    "Description_SessionizeApiId": null,
+    "SessionizeApiId": null,
+    "Url": "https://www.mscc.mu/",
+    "SessionizeEventName": null,
+    "SamApp": {
+      "AdditionalHosts": []
     }
   }
-  
+}

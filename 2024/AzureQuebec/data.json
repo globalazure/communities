@@ -7,21 +7,32 @@
     ]
   },
   "CommunityInfo": {
-    "Name": "Communauté Azure de Québec",
-    "Country": "Canada",
-    "Url": "https://meetup.com/azureqc",
-    "SessionizeApiId": "",
-    "Logo": {
-      "Description": "Community logo is a .png file 500X500px named AzureQuebec.png.",
-      "File": "AzureQuebec.png"
-    },
     "Locations": [
       {
-        "Name": "Le CAMP Quebec",
+        "Longitude": -71.22345,
         "Address": "125, boul. Charest Est, Quebec (QC), G1K 3G5",
-        "Latitude": 46.813860,
-        "Longitude": -71.223450
+        "Name": "Le CAMP Quebec",
+        "StartDate": "2024-04-19",
+        "Latitude": 46.81386,
+        "EndDate": "2024-04-19"
       }
-    ]
+    ],
+    "Files": {
+      "LogoFile": {
+        "Description": "Community logo is a .png file 500X500px named AzureQuebec.png.",
+        "File": "AzureQuebec.png"
+      },
+      "SponsorsPage": "sponsors.md",
+      "EventPage": "index.md"
+    },
+    "Country": "Canada",
+    "Name": "Communauté Azure de Québec",
+    "Description_SessionizeApiId": null,
+    "SessionizeApiId": "",
+    "Url": "https://meetup.com/azureqc",
+    "SessionizeEventName": null,
+    "SamApp": {
+      "AdditionalHosts": []
+    }
   }
 }

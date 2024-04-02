@@ -1,28 +1,35 @@
 {
   "ValidMaintainers": {
-    "Description": "Global Azure 2024 - Kraków Workshop",
-    "GitHubHandles": [
-      "donnik007"
-    ]
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": "donnik007"
   },
   "CommunityInfo": {
-    "Name": "Global Azure - Kraków",
-    "Country": "Poland",
-    "Url": "",
-    "Description_SessionizeApiId": "",
-    "SessionizeApiId": "",
-    "SessionizeEventName": "",
-    "Logo": {
-      "Description": "GlobalAzurePolandKraków",
-      "File": "azureglobalkraków.png"
-    },
     "Locations": [
       {
-        "Name": "Online",
+        "Longitude": 19.944544,
         "Address": "",
+        "Name": "Online",
+        "StartDate": "2024-04-19",
         "Latitude": 50.049683,
-        "Longitude": 19.944544
+        "EndDate": "2024-04-19"
       }
-    ]
+    ],
+    "Files": {
+      "LogoFile": {
+        "Description": "GlobalAzurePolandKraków",
+        "File": "azureglobalkraków.png"
+      },
+      "SponsorsPage": "sponsors.md",
+      "EventPage": "index.md"
+    },
+    "Country": "Poland",
+    "Name": "Global Azure - Kraków",
+    "Description_SessionizeApiId": "",
+    "SessionizeApiId": "",
+    "Url": "",
+    "SessionizeEventName": "",
+    "SamApp": {
+      "AdditionalHosts": []
+    }
   }
 }

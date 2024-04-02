@@ -1,25 +1,35 @@
 {
   "ValidMaintainers": {
     "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
-    "GitHubHandles": [
-      "nkuppurasu"
-    ]
+    "GitHubHandles": "nkuppurasu"
   },
   "CommunityInfo": {
-    "Name": "Microsoft DEV Geeks",
-    "Country": "India",
-    "Url": "https://www.meetup.com/msdevgeeks/",
-    "Logo": {
-      "Description": "Community logo is a .png file 500X500px named msdevgeeks.png.",
-      "File": "msdevgeeks.png"
-    },
     "Locations": [
       {
-        "Name": "Salem",
+        "Longitude": 78.14583938648576,
         "Address": "TBA",
+        "Name": "Salem",
+        "StartDate": "2024-04-19",
         "Latitude": 11.662779703606654,
-        "Longitude": 78.14583938648576
+        "EndDate": "2024-04-19"
       }
-    ]
+    ],
+    "Files": {
+      "LogoFile": {
+        "Description": "Community logo is a .png file 500X500px named msdevgeeks.png.",
+        "File": "msdevgeeks.png"
+      },
+      "SponsorsPage": "sponsors.md",
+      "EventPage": "index.md"
+    },
+    "Country": "India",
+    "Name": "Microsoft DEV Geeks",
+    "Description_SessionizeApiId": null,
+    "SessionizeApiId": null,
+    "Url": "https://www.meetup.com/msdevgeeks/",
+    "SessionizeEventName": null,
+    "SamApp": {
+      "AdditionalHosts": []
+    }
   }
 }

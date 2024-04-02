@@ -1,24 +1,35 @@
 {
-    "ValidMaintainers": {
-      "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
-      "GitHubHandles": [
-        "tdavidnudelman",
-      ]
-    },
-    "CommunityInfo": {
-      "Name": "VanTUG - The Vancouver Technology User Group",
-      "Country": "Canada",
-      "Url": "https://www.vantug.com",
-         "Locations": [
-        {
-          "Name": "Vancouver",
-          "Latitude": 49.2843113,
-          "Longitude":-123.110741
-        }
-      ],
-      "Logo": {
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": "tdavidnudelman"
+  },
+  "CommunityInfo": {
+    "Locations": [
+      {
+        "Longitude": -123.110741,
+        "Address": null,
+        "Name": "Vancouver",
+        "StartDate": "2024-04-19",
+        "Latitude": 49.2843113,
+        "EndDate": "2024-04-19"
+      }
+    ],
+    "Files": {
+      "LogoFile": {
         "Description": "VanTUG logo.",
         "File": "vantug.png"
-      }
+      },
+      "SponsorsPage": "sponsors.md",
+      "EventPage": "index.md"
+    },
+    "Country": "Canada",
+    "Name": "VanTUG - The Vancouver Technology User Group",
+    "Description_SessionizeApiId": null,
+    "SessionizeApiId": null,
+    "Url": "https://www.vantug.com",
+    "SessionizeEventName": null,
+    "SamApp": {
+      "AdditionalHosts": []
     }
   }
+}

@@ -1,30 +1,35 @@
 {
   "ValidMaintainers": {
     "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
-    "GitHubHandles": [
-      "JClarkresx"
-    ]
+    "GitHubHandles": "JClarkresx"
   },
   "CommunityInfo": {
-    "Name": "Chicago Global Azure 2024",
-    "Country": "United States",
-    "Url": "https://www.eventbrite.com/e/chicago-global-azure-2024-tickets-830534951397?aff=globalazure",
-    "Description_SessionizeApiId": "If you have configured your Sessionize correctly then browsing to this url (replacing {Your sessionize event Id} with your event sessionize id) will return valid json: https://sessionize.com/api/v2/{Your sessionize event Id}/view/Sessions",
-    "SessionizeApiId": "rf07bboo",
-    "SessionizeEventName": "https://sessionize.com/chicago-global-azure-2024/",
-    "Logo": {
-      "Description": "Community logo is a .png file 500X500px in this folder!",
-      "File": "responsivex_logo.png"
-    },
     "Locations": [
       {
-        "Description": "Each location where your community will be running a Global Azure event.",
-        "Name": "Microsft Office in Downtown Chicago",
+        "Longitude": -87.6215,
         "Address": "200 East Randolph Street Chicago, IL 60601",
-        "Description_Lat_Lon": "The Lat and Lon location for where you want your community pin on the Global Azure Community Map (example 47.6457554, -122.1299952).",
-        "Latitude": 41.885020,
-        "Longitude": -87.621500
+        "Name": "Microsft Office in Downtown Chicago",
+        "StartDate": "2024-04-19",
+        "Latitude": 41.88502,
+        "EndDate": "2024-04-19"
       }
-    ]
+    ],
+    "Files": {
+      "LogoFile": {
+        "Description": "Community logo is a .png file 500X500px in this folder!",
+        "File": "responsivex_logo.png"
+      },
+      "SponsorsPage": "sponsors.md",
+      "EventPage": "index.md"
+    },
+    "Country": "United States",
+    "Name": "Chicago Global Azure 2024",
+    "Description_SessionizeApiId": "If you have configured your Sessionize correctly then browsing to this url (replacing {Your sessionize event Id} with your event sessionize id) will return valid json: https://sessionize.com/api/v2/{Your sessionize event Id}/view/Sessions",
+    "SessionizeApiId": "rf07bboo",
+    "Url": "https://www.eventbrite.com/e/chicago-global-azure-2024-tickets-830534951397?aff=globalazure",
+    "SessionizeEventName": "https://sessionize.com/chicago-global-azure-2024/",
+    "SamApp": {
+      "AdditionalHosts": []
+    }
   }
 }

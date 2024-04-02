@@ -1,28 +1,35 @@
 {
   "ValidMaintainers": {
     "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
-    "GitHubHandles": [
-      "marcelmedina"
-    ]
+    "GitHubHandles": "marcelmedina"
   },
   "CommunityInfo": {
-    "Name": "Coding Night NZ",
-    "Country": "New Zealand",
-    "Url": "https://www.meetup.com/coding-night-nz/",
-    "SessionizeApiId": "uisvu8bc",
-    "Description_SessionizeApiId": "https://sessionize.com/api/v2/uisvu8bc/view/Sessions",
-    "SessionizeEventName": "https://sessionize.com/global-azure-auckland-2024/",
-    "Logo": {
-      "Description": "Coding Night NZ logo",
-      "File": "logo.png"
-    },
     "Locations": [
       {
-        "Name": "Coding Night NZ",
+        "Longitude": 174.763336,
         "Address": "Auckland, New Zealand",
+        "Name": "Coding Night NZ",
+        "StartDate": "2024-04-19",
         "Latitude": -36.848461,
-        "Longitude": 174.763336
+        "EndDate": "2024-04-19"
       }
-    ]
+    ],
+    "Files": {
+      "LogoFile": {
+        "Description": "Coding Night NZ logo",
+        "File": "logo.png"
+      },
+      "SponsorsPage": "sponsors.md",
+      "EventPage": "index.md"
+    },
+    "Country": "New Zealand",
+    "Name": "Coding Night NZ",
+    "Description_SessionizeApiId": "https://sessionize.com/api/v2/uisvu8bc/view/Sessions",
+    "SessionizeApiId": "uisvu8bc",
+    "Url": "https://www.meetup.com/coding-night-nz/",
+    "SessionizeEventName": "https://sessionize.com/global-azure-auckland-2024/",
+    "SamApp": {
+      "AdditionalHosts": []
+    }
   }
 }

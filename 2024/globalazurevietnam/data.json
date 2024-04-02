@@ -8,21 +8,32 @@
     ]
   },
   "CommunityInfo": {
-    "Name": "DEV Cafe",
-    "Country": "Vietnam",
-    "Url": "https://devcafevn.github.io/globalazure2024/",
-    "SessionizeApiId": "{Your sessionize event Id}",
-    "Logo": {
-      "Description": "Community logo is a .png file 500X500px named {foldername}.png.",
-      "File": "globalazurevietnam.png"
-    },
     "Locations": [
       {
-        "Name": "NashTech Vietnam",
+        "Longitude": 106.640738,
         "Address": "Etown 4, 364 Cong Hoa, Tan Binh, HCMC",
+        "Name": "NashTech Vietnam",
+        "StartDate": "2024-04-19",
         "Latitude": 10.801008,
-        "Longitude": 106.640738
+        "EndDate": "2024-04-19"
       }
-    ]
+    ],
+    "Files": {
+      "LogoFile": {
+        "Description": "Community logo is a .png file 500X500px named {foldername}.png.",
+        "File": "globalazurevietnam.png"
+      },
+      "SponsorsPage": "sponsors.md",
+      "EventPage": "index.md"
+    },
+    "Country": "Vietnam",
+    "Name": "DEV Cafe",
+    "Description_SessionizeApiId": null,
+    "SessionizeApiId": "{Your sessionize event Id}",
+    "Url": "https://devcafevn.github.io/globalazure2024/",
+    "SessionizeEventName": null,
+    "SamApp": {
+      "AdditionalHosts": []
+    }
   }
 }

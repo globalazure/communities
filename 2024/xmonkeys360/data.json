@@ -7,20 +7,32 @@
     ]
   },
   "CommunityInfo": {
-    "Name": "XMonkeys360",
-    "Country": "India",
-    "Url": "https://www.meetup.com/XMonkeys360/", 
-    "Logo": {
-      "Description": "Community logo is a .png file 500X500px named xmonkeys360.png.",
-      "File": "xm360.png"
-    },
     "Locations": [
       {
-        "Name": "Chennai",
+        "Longitude": 80.241602,
         "Address": "Microsoft Corporation India Pvt. Ltd.",
+        "Name": "Chennai",
+        "StartDate": "2024-04-19",
         "Latitude": 13.0328421,
-        "Longitude": 80.241602
+        "EndDate": "2024-04-19"
       }
-    ]
+    ],
+    "Files": {
+      "LogoFile": {
+        "Description": "Community logo is a .png file 500X500px named xmonkeys360.png.",
+        "File": "xm360.png"
+      },
+      "SponsorsPage": "sponsors.md",
+      "EventPage": "index.md"
+    },
+    "Country": "India",
+    "Name": "XMonkeys360",
+    "Description_SessionizeApiId": null,
+    "SessionizeApiId": null,
+    "Url": "https://www.meetup.com/XMonkeys360/",
+    "SessionizeEventName": null,
+    "SamApp": {
+      "AdditionalHosts": []
+    }
   }
 }

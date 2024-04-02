@@ -1,26 +1,35 @@
 {
   "ValidMaintainers": {
     "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
-    "GitHubHandles": [
-      "agussuparno"
-    ]
+    "GitHubHandles": "agussuparno"
   },
   "CommunityInfo": {
-    "Name": "Microsoft User Group Indonesia (Mugi) Purwokerto",
-    "Country": "Indonesia",
-    "Url": "https://mugipurwokerto.or.id/",
-    "SessionizeApiId": "4qqpmexi",
-    "Logo": {
-      "Description": "Community logo is a .png file 500X500px named {foldername}.png.",
-      "File": "MugiPurwokerto.png"
-    },
     "Locations": [
       {
-        "Name": "Indonesia",
+        "Longitude": 109.24220318670153,
         "Address": "Purwokerto, Central Java",
+        "Name": "Indonesia",
+        "StartDate": "2024-04-19",
         "Latitude": -7.446437473770497,
-        "Longitude": 109.24220318670153
+        "EndDate": "2024-04-19"
       }
-    ]
+    ],
+    "Files": {
+      "LogoFile": {
+        "Description": "Community logo is a .png file 500X500px named {foldername}.png.",
+        "File": "MugiPurwokerto.png"
+      },
+      "SponsorsPage": "sponsors.md",
+      "EventPage": "index.md"
+    },
+    "Country": "Indonesia",
+    "Name": "Microsoft User Group Indonesia (Mugi) Purwokerto",
+    "Description_SessionizeApiId": null,
+    "SessionizeApiId": "4qqpmexi",
+    "Url": "https://mugipurwokerto.or.id/",
+    "SessionizeEventName": null,
+    "SamApp": {
+      "AdditionalHosts": []
+    }
   }
 }

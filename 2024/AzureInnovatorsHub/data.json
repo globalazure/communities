@@ -8,25 +8,32 @@
     ]
   },
   "CommunityInfo": {
-    "Name": "Azure Innovators Hub",
-    "Country": "Greece",
-    "Url": "https://www.meetup.com/athens-azure-tech-group/",
-    "Description_SessionizeApiId": "",
-    "SessionizeApiId": "igb6icil",
-    "SessionizeEventName": "Global Azure Greece 2024",
-    "Logo": {
-      "Description": "Community logo is a .png file 500X500px in this folder!",
-      "File": "azureinnovatorshub.png"
-    },
     "Locations": [
       {
-        "Description": "Each location where your community will be running a Global Azure event.",
-        "Name": "Athens, Greece",
+        "Longitude": 23.727539,
         "Address": "Athens, Greece",
-        "Description_Lat_Lon": "The Lat and Lon location for where you want your community pin on the Global Azure Community Map (example 47.6457554, -122.1299952).",
-        "Latitude": 37.983810,
-        "Longitude": 23.727539
+        "Name": "Athens, Greece",
+        "StartDate": "2024-04-19",
+        "Latitude": 37.98381,
+        "EndDate": "2024-04-19"
       }
-    ]
+    ],
+    "Files": {
+      "LogoFile": {
+        "Description": "Community logo is a .png file 500X500px in this folder!",
+        "File": "azureinnovatorshub.png"
+      },
+      "SponsorsPage": "sponsors.md",
+      "EventPage": "index.md"
+    },
+    "Country": "Greece",
+    "Name": "Azure Innovators Hub",
+    "Description_SessionizeApiId": "",
+    "SessionizeApiId": "igb6icil",
+    "Url": "https://www.meetup.com/athens-azure-tech-group/",
+    "SessionizeEventName": "Global Azure Greece 2024",
+    "SamApp": {
+      "AdditionalHosts": []
+    }
   }
 }

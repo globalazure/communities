@@ -7,21 +7,32 @@
     ]
   },
   "CommunityInfo": {
-    "Name": "MUG Peru",
-    "Country": "Perú",
-    "Url": "https://www.meetup.com/es/msperu/events/285086738/",
-    "Logo": {
-      "Description": "Global Azure 2024 Perú Edition",
-      "File": "mugperu.png"
-    },
     "Locations": [
       {
+        "Longitude": -77.02824,
+        "Address": "Online",
         "Name": "Lima",
-        "Address":"Online",
-        "Latitude": -12.04318 ,
-        "Longitude": -77.02824
+        "StartDate": "2024-04-19",
+        "Latitude": -12.04318,
+        "EndDate": "2024-04-19"
       }
-    ]
+    ],
+    "Files": {
+      "LogoFile": {
+        "Description": "Global Azure 2024 Perú Edition",
+        "File": "mugperu.png"
+      },
+      "SponsorsPage": "sponsors.md",
+      "EventPage": "index.md"
+    },
+    "Country": "Perú",
+    "Name": "MUG Peru",
+    "Description_SessionizeApiId": null,
+    "SessionizeApiId": null,
+    "Url": "https://www.meetup.com/es/msperu/events/285086738/",
+    "SessionizeEventName": null,
+    "SamApp": {
+      "AdditionalHosts": []
+    }
   }
 }
-

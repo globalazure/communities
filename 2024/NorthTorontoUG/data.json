@@ -1,28 +1,35 @@
 {
   "ValidMaintainers": {
     "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
-    "GitHubHandles": [
-      "NorthTorontoUGAdmin"
-    ]
+    "GitHubHandles": "NorthTorontoUGAdmin"
   },
   "CommunityInfo": {
-    "Name": "North Toronto Cloud & DevOps User Group",
-    "Country": "Canada",
-    "Url": "https://www.meetup.com/northtorontoug/events/299006318/",
-    "SessionizeApiId": "",
-    "Description_SessionizeApiId": "",
-    "SessionizeEventName": "",
-    "Logo": {
-      "Description": "Global Azure 2024 at North Toronto Cloud & DevOps User Group",
-      "File": "NorthTorontoUG.png"
-    },
     "Locations": [
       {
-        "Name": "Microsoft Canada Head Office",
+        "Longitude": -79.377527,
         "Address": "4400-81 Bay St., Toronto, Ontario M5J 0E7",
+        "Name": "Microsoft Canada Head Office",
+        "StartDate": "2024-04-19",
         "Latitude": 43.644007,
-        "Longitude": -79.377527
+        "EndDate": "2024-04-19"
       }
-    ]
+    ],
+    "Files": {
+      "LogoFile": {
+        "Description": "Global Azure 2024 at North Toronto Cloud & DevOps User Group",
+        "File": "NorthTorontoUG.png"
+      },
+      "SponsorsPage": "sponsors.md",
+      "EventPage": "index.md"
+    },
+    "Country": "Canada",
+    "Name": "North Toronto Cloud & DevOps User Group",
+    "Description_SessionizeApiId": "",
+    "SessionizeApiId": "",
+    "Url": "https://www.meetup.com/northtorontoug/events/299006318/",
+    "SessionizeEventName": "",
+    "SamApp": {
+      "AdditionalHosts": []
+    }
   }
 }

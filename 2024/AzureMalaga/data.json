@@ -3,26 +3,36 @@
     "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
     "GitHubHandles": [
       "jecaestevez",
-      "Masahigo"      
+      "Masahigo"
     ]
   },
   "CommunityInfo": {
-    "Name": "Azure Malaga",
-    "Country": "Spain",
-    "Url": "https://AzureMalaga.com",
-    "SessionizeApiId": "1y1z9367",
-    "SessionizeEventName": "https://sessionize.com/global-azure-2024-malaga",
-    "Logo": {
-      "Description": "Community logo is a .png file 500X500px named {foldername}.png.",
-      "File": "azureMalaga.png"
-    },
     "Locations": [
       {
-        "Name": "Wunderdog Labs",
+        "Longitude": -4.421506,
         "Address": "C Marqués de Larios 3, 3ª planta, oficina 3 IZQ, 29015 Málaga",
+        "Name": "Wunderdog Labs",
+        "StartDate": "2024-04-19",
         "Latitude": 36.719883,
-        "Longitude": -4.421506
+        "EndDate": "2024-04-19"
       }
-    ]
+    ],
+    "Files": {
+      "LogoFile": {
+        "Description": "Community logo is a .png file 500X500px named {foldername}.png.",
+        "File": "azureMalaga.png"
+      },
+      "SponsorsPage": "sponsors.md",
+      "EventPage": "index.md"
+    },
+    "Country": "Spain",
+    "Name": "Azure Malaga",
+    "Description_SessionizeApiId": null,
+    "SessionizeApiId": "1y1z9367",
+    "Url": "https://AzureMalaga.com",
+    "SessionizeEventName": "https://sessionize.com/global-azure-2024-malaga",
+    "SamApp": {
+      "AdditionalHosts": []
+    }
   }
 }

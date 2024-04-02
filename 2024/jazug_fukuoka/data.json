@@ -7,23 +7,32 @@
     ]
   },
   "CommunityInfo": {
-    "Name": "Japan Azure User Group",
-    "Country": "Japan",
-    "Url": "https://jazug.connpass.com/",
-    "Description_SessionizeApiId": "If you have configured your Sessionize correctly then browsing to this url (replacing {Your sessionize event Id} with your event sessionize id) will return valid json: https://sessionize.com/api/v2/{Your sessionize event Id}/view/Sessions",
-    "SessionizeApiId": "",
-    "SessionizeEventName": "",
-    "Logo": {
-      "Description": "Global Azure 2024 in Fukuoka",
-      "File": "jazug_ga2024"
-    },
     "Locations": [
       {
-        "Name": "Alterbooth Inc.",
+        "Longitude": 130.3886655795022,
         "Address": "Fukuoka DK building 5F",
+        "Name": "Alterbooth Inc.",
+        "StartDate": "2024-04-19",
         "Latitude": 33.59019592020964,
-        "Longitude":  130.3886655795022
+        "EndDate": "2024-04-19"
       }
-    ]
+    ],
+    "Files": {
+      "LogoFile": {
+        "Description": "Global Azure 2024 in Fukuoka",
+        "File": "jazug_ga2024"
+      },
+      "SponsorsPage": "sponsors.md",
+      "EventPage": "index.md"
+    },
+    "Country": "Japan",
+    "Name": "Japan Azure User Group",
+    "Description_SessionizeApiId": "If you have configured your Sessionize correctly then browsing to this url (replacing {Your sessionize event Id} with your event sessionize id) will return valid json: https://sessionize.com/api/v2/{Your sessionize event Id}/view/Sessions",
+    "SessionizeApiId": "",
+    "Url": "https://jazug.connpass.com/",
+    "SessionizeEventName": "",
+    "SamApp": {
+      "AdditionalHosts": []
+    }
   }
 }

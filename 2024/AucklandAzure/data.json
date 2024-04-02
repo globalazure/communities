@@ -7,23 +7,32 @@
     ]
   },
   "CommunityInfo": {
-    "Name": "Auckland Azure User Group",
-    "Country": "New Zealand",
-    "Url": "https://www.meetup.com/auckland-azure-usergroup/",
-    "SessionizeApiId": "uisvu8bc",
-    "Description_SessionizeApiId": "https://sessionize.com/api/v2/uisvu8bc/view/Sessions",
-    "SessionizeEventName": "https://sessionize.com/global-azure-auckland-2024/",
-    "Logo": {
-      "Description": "Aotearoa Azure Meetup logo.",
-      "File": "logo.png"
-    },
     "Locations": [
       {
-        "Name": "Auckland Azure User Group",
+        "Longitude": 174.7569,
         "Address": "Auckland, New Zealand",
+        "Name": "Auckland Azure User Group",
+        "StartDate": "2024-04-19",
         "Latitude": -36.8453,
-        "Longitude": 174.7569
+        "EndDate": "2024-04-19"
       }
-    ]
+    ],
+    "Files": {
+      "LogoFile": {
+        "Description": "Aotearoa Azure Meetup logo.",
+        "File": "logo.png"
+      },
+      "SponsorsPage": "sponsors.md",
+      "EventPage": "index.md"
+    },
+    "Country": "New Zealand",
+    "Name": "Auckland Azure User Group",
+    "Description_SessionizeApiId": "https://sessionize.com/api/v2/uisvu8bc/view/Sessions",
+    "SessionizeApiId": "uisvu8bc",
+    "Url": "https://www.meetup.com/auckland-azure-usergroup/",
+    "SessionizeEventName": "https://sessionize.com/global-azure-auckland-2024/",
+    "SamApp": {
+      "AdditionalHosts": []
+    }
   }
 }

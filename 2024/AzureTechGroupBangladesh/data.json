@@ -1,28 +1,38 @@
 {
-    "ValidMaintainers": {
-      "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
-      "GitHubHandles": [
-        "mitul3737",
-        "Imtiaz1234"
-      ]
-    },
-    "CommunityInfo": {
-      "Name": "Azure Tech Group Bangladesh",
-      "Country": "Bangladesh",
-      "Url": "https://www.facebook.com/groups/1770787936632620/",
-      "SessionizeApiId": "",
-      "Logo": {
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "mitul3737",
+      "Imtiaz1234"
+    ]
+  },
+  "CommunityInfo": {
+    "Locations": [
+      {
+        "Longitude": 90.412521,
+        "Address": "NA",
+        "Name": "Dhaka, Bangladesh",
+        "StartDate": "2024-04-19",
+        "Latitude": 23.810331,
+        "EndDate": "2024-04-19"
+      }
+    ],
+    "Files": {
+      "LogoFile": {
         "Description": "Global Azure bootcamp 2024 Bangladesh Edition",
         "File": "AzureTechGroupBangladesh.png"
       },
-      "Locations": [
-        {
-          "Name": "Dhaka, Bangladesh",
-          "Address": "NA",
-          "Latitude": 23.810331,
-          "Longitude": 90.412521
-        }
-      ]
+      "SponsorsPage": "sponsors.md",
+      "EventPage": "index.md"
+    },
+    "Country": "Bangladesh",
+    "Name": "Azure Tech Group Bangladesh",
+    "Description_SessionizeApiId": null,
+    "SessionizeApiId": "",
+    "Url": "https://www.facebook.com/groups/1770787936632620/",
+    "SessionizeEventName": null,
+    "SamApp": {
+      "AdditionalHosts": []
     }
   }
-  
+}

@@ -1,25 +1,35 @@
 {
-    "ValidMaintainers": {
-      "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
-      "GitHubHandles": [
-        "alonf"
-      ]
-    },
-    "CommunityInfo": {
-      "Name": "Azure Israel Meetup",
-      "Country": "Israel",
-      "Url": "https://www.meetup.com/azureisrael/",
-      "Logo": {
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": "alonf"
+  },
+  "CommunityInfo": {
+    "Locations": [
+      {
+        "Longitude": 34.7909223,
+        "Address": "Menachem Begin 144, Floor 50, Tel Aviv",
+        "Name": "Microsoft Reactor Tel Aviv",
+        "StartDate": "2024-04-19",
+        "Latitude": 32.0773385,
+        "EndDate": "2024-04-19"
+      }
+    ],
+    "Files": {
+      "LogoFile": {
         "Description": "Community logo is a .png file 500X500px named {foldername}.png.",
         "File": "AzureIsraelMeetup.png"
       },
-      "Locations": [
-        {
-          "Name": "Microsoft Reactor Tel Aviv",
-          "Address": "Menachem Begin 144, Floor 50, Tel Aviv",
-          "Latitude": 32.0773385,
-          "Longitude": 34.7909223
-        }
-      ]
+      "SponsorsPage": "sponsors.md",
+      "EventPage": "index.md"
+    },
+    "Country": "Israel",
+    "Name": "Azure Israel Meetup",
+    "Description_SessionizeApiId": null,
+    "SessionizeApiId": null,
+    "Url": "https://www.meetup.com/azureisrael/",
+    "SessionizeEventName": null,
+    "SamApp": {
+      "AdditionalHosts": []
     }
   }
+}

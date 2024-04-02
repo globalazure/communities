@@ -1,25 +1,35 @@
 {
   "ValidMaintainers": {
     "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
-    "GitHubHandles": [
-      "randb13"
-    ]
+    "GitHubHandles": "randb13"
   },
   "CommunityInfo": {
-    "Name": "MTG Azure DevOps Aix-en-Provence",
-    "Country": "France",
-    "Url": "https://www.meetup.com/fr-FR/meetup-azure-devops-aix-en-provence/",
-    "Logo": {
-      "Description": "Community logo is a .png file 500X500px in this folder!",
-      "File": "AixMTG.png"
-    },
     "Locations": [
       {
-        "Name": "Aix-en-Provence",
+        "Longitude": 5.44973,
         "Address": "Aix-en-Provence",
-        "Latitude": 43.5283000,
-        "Longitude": 5.4497300
+        "Name": "Aix-en-Provence",
+        "StartDate": "2024-04-19",
+        "Latitude": 43.5283,
+        "EndDate": "2024-04-19"
       }
-    ]
+    ],
+    "Files": {
+      "LogoFile": {
+        "Description": "Community logo is a .png file 500X500px in this folder!",
+        "File": "AixMTG.png"
+      },
+      "SponsorsPage": "sponsors.md",
+      "EventPage": "index.md"
+    },
+    "Country": "France",
+    "Name": "MTG Azure DevOps Aix-en-Provence",
+    "Description_SessionizeApiId": null,
+    "SessionizeApiId": null,
+    "Url": "https://www.meetup.com/fr-FR/meetup-azure-devops-aix-en-provence/",
+    "SessionizeEventName": null,
+    "SamApp": {
+      "AdditionalHosts": []
+    }
   }
 }

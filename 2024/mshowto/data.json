@@ -1,26 +1,35 @@
 {
   "ValidMaintainers": {
     "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
-    "GitHubHandles": [
-      "mertyeter"
-    ]
+    "GitHubHandles": "mertyeter"
   },
   "CommunityInfo": {
-    "Name": "MSHOWTO",
-    "Country": "Republic of Turkiye",
-    "Url": "https://www.mshowto.org/",
-    "SessionizeApiId": "dfbr5f8p",
-    "SessionizeEventName": "https://sessionize.com/global-azure-2024-istanbul/",
-    "Logo": {
-      "Description": "mshowto logo",
-      "File": "mshowto.png"
-    },
     "Locations": [
       {
+        "Longitude": 28.9748,
+        "Address": null,
         "Name": "Istanbul",
-        "Latitude": 41.013000,
-        "Longitude": 28.974800
+        "StartDate": "2024-04-19",
+        "Latitude": 41.013,
+        "EndDate": "2024-04-19"
       }
-    ]
+    ],
+    "Files": {
+      "LogoFile": {
+        "Description": "mshowto logo",
+        "File": "mshowto.png"
+      },
+      "SponsorsPage": "sponsors.md",
+      "EventPage": "index.md"
+    },
+    "Country": "Republic of Turkiye",
+    "Name": "MSHOWTO",
+    "Description_SessionizeApiId": null,
+    "SessionizeApiId": "dfbr5f8p",
+    "Url": "https://www.mshowto.org/",
+    "SessionizeEventName": "https://sessionize.com/global-azure-2024-istanbul/",
+    "SamApp": {
+      "AdditionalHosts": []
+    }
   }
 }
