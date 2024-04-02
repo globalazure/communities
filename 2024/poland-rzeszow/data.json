@@ -1,0 +1,29 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "mimachniak",
+      "mskuratowski"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Global Azure - Poland / Rzeszow",
+    "Country": "Poland",
+    "Url": "https://www.eventbrite.com/e/wprowadzanie-do-infrastructure-as-code-w-azure-z-wykorzystanie-microsoft-bicep-jak-napisac-swoj-p-tickets-876288170507",
+    "Description_SessionizeApiId": "",
+    "SessionizeApiId": "",
+    "SessionizeEventName": "",
+    "Logo": {
+      "Description": "GlobalAzurePolandRzeszów",
+      "File": "{Logofilename}"
+    },
+    "Locations": [
+      {
+        "Name": "OnSite",
+        "Address": "20B aleja Tadeusza Rejtana 35-310 Rzeszów (SII Polska)",
+        "Latitude": 50.02727190565314,
+        "Longitude": 22.01605421122064
+      }
+    ]
+  }
+}
