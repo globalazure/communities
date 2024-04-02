@@ -21,8 +21,8 @@
     ],
     "Files": {
       "LogoFile": {
-        "Description": null,
-        "File": null
+        "Description": "Azure Skåne Logo",
+        "File": "azureskane.png"
       },
       "SponsorsPage": "sponsors.md",
       "EventPage": "index.md"
