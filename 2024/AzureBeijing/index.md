@@ -1,7 +1,13 @@
-# MS Tech Link
+# 微软技术直通车 - Global Azure BootCamp 2024
 
-![China Beijing MS Tech Link](AzureBeijing.png)
+非常高兴我们终于可以回归面对面的活动，为北京社区带来 Global Azure Day 2024 活动！
 
-We're excited to be hosting an event at [MS Tech Link](https://globalazure.net/this-is-just-a-sample-link/)!
+Global Azure 来自社区，为社区服务，在这次全球活动期间，世界各地的社区将会组织众多的本地活动，就像我们北京这样。
 
-Here you put any markdown content which describes your event location, and what you will be doing at your event. Get creative and tell your own story, list your agenda, speakers, and anything else that seems relevant to you! Please feel free to be inspired by all the community submissions at [GlobalAzure.net/communities](http://globalazure.net/communities)
+活动的具体内容还在计划中，我们将会及时更新活动日程，我们计划组织一整天的活动，涵盖广泛的 Azure 主题。
+
+更多详细信息将通过我们的活动页面跟进。
+
+如果您有任何问题、反馈和想法，请与社区组织团队直接联系。
+
+微软技术直通车公众号：技术直通车
