@@ -1,25 +1,39 @@
-{
-  "ValidMaintainers": {
-    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
-    "GitHubHandles": [
-      "kirti-prajapati"
-    ]
-  },
-  "CommunityInfo": {
-    "Name": "M365 Ahmedabad User Group",
-    "Country": "INDIA",
-    "Url": "https://www.meetup.com/m365ahmedabad/events/299883329/",
-    "Logo": {
-      "Description": "M365 Ahmedabad User Group - Logo",
-      "File": "m365ahmedabadusergroup.png"
+[
+  {
+    "ValidMaintainers": {
+      "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+      "GitHubHandles": ["kirti-prajapati"]
     },
-    "Locations": [
+    "CommunityInfo": [
       {
-        "Name": "Ahmedabad",
-        "Address": "Ahmedabad",
-        "Latitude": 23.022505,
-        "Longitude": 72.571365
+        "Name": "M365 Ahmedabad User Group",
+        "Country": "INDIA",
+        "Url": "https://www.meetup.com/m365ahmedabad/events/299883329/",
+        "SessionizeApiId": null,
+        "SessionizeEventName": null,
+        "Description_SessionizeApiId": null,
+        "Files": {
+          "LogoFile": {
+            "Description": "M365 Ahmedabad User Group - Logo",
+            "File": "m365ahmedabadusergroup.png"
+          },
+          "SponsorsPage": "sponsors.md",
+          "EventPage": "index.md"
+        },
+        "SamApp": {
+          "AdditionalHosts": []
+        },
+        "Locations": [
+          {
+            "Name": "Ahmedabad",
+            "StartDate": "2024-04-19",
+            "EndDate": "2024-04-19",
+            "Address": "Ahmedabad",
+            "Latitude": 23.022505,
+            "Longitude": 72.571365
+          }
+        ]
       }
     ]
   }
-}
+]

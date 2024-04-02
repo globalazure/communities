@@ -1,27 +1,39 @@
-{
-  "ValidMaintainers": {
-    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
-    "GitHubHandles": [
-      "3tallah"
-    ]
-  },
-  "CommunityInfo": {
-    "Name": "Cloud Mechanics Meetup",
-    "Country": "United Arab Emirates",
-    "Url": "https://www.meetup.com/cloud-mechanics-uae-meetup-group",
-    "SessionizeApiId": "/",
-    "Description_SessionizeApiId": "https://sessionize.com/api/v2/pblw9xjd/view/Sessions",
-    "SessionizeEventName": "Global Azure Bootcamp 2024 - UAE",
-    "Locations": [
+[
+  {
+    "ValidMaintainers": {
+      "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+      "GitHubHandles": ["3tallah"]
+    },
+    "CommunityInfo": [
       {
-        "Name": "Abu Dhabi",
-        "Latitude": 24.486402,
-        "Longitude": 54.404269
+        "Name": "Cloud Mechanics Meetup",
+        "Country": "United Arab Emirates",
+        "Url": "https://www.meetup.com/cloud-mechanics-uae-meetup-group",
+        "SessionizeApiId": "/",
+        "SessionizeEventName": "Global Azure Bootcamp 2024 - UAE",
+        "Description_SessionizeApiId": "https://sessionize.com/api/v2/pblw9xjd/view/Sessions",
+        "Files": {
+          "LogoFile": {
+            "Description": "Cloud Mechanics Community logo.",
+            "File": "CloudMechanics.png"
+          },
+          "SponsorsPage": "sponsors.md",
+          "EventPage": "index.md"
+        },
+        "SamApp": {
+          "AdditionalHosts": []
+        },
+        "Locations": [
+          {
+            "Name": "Abu Dhabi",
+            "StartDate": "2024-04-19",
+            "EndDate": "2024-04-19",
+            "Address": null,
+            "Latitude": 24.486402,
+            "Longitude": 54.404269
+          }
+        ]
       }
-    ],
-    "Logo": {
-      "Description": "Cloud Mechanics Community logo.",
-      "File": "CloudMechanics.png"
-    }
+    ]
   }
-}
+]

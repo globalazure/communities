@@ -1,32 +1,42 @@
-{
-  "ValidMaintainers": {
-    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
-    "GitHubHandles": [
-      "rfernandezdo",
-      "jioller"
-    ]
-  },
-  "CommunityInfo": {
-    "Name": "Azure Sevilla",
-    "Country": "Spain",
-    "Url": "https://azuresevilla.github.io/",
-    "Description_SessionizeApiId": "https://sessionize.com/api/v2/l0llponb/view/Sessions",
-    "SessionizeApiId": "l0llponb",
-    "SessionizeEventName": "https://sessionize.com/global-azure-sevilla-2024",
-    "Logo": {
-      "Description": "Community logo 500X500px",
-      "File": "LogoAzureGlobalSevilla500x500.png"
+[
+  {
+    "ValidMaintainers": {
+      "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+      "GitHubHandles": [
+        "rfernandezdo",
+        "jioller"
+      ]
     },
-    "Locations": [
+    "CommunityInfo": [
       {
-        "Description": "Principal location",
-        "Name": "Sevilla, Spain",
-        "Address": "Sevilla, Spain",        
-        "Latitude": 37.392529,
-        "Longitude": -5.994072
+        "Name": "Azure Sevilla",
+        "Country": "Spain",
+        "Url": "https://azuresevilla.github.io/",
+        "SessionizeApiId": "l0llponb",
+        "SessionizeEventName": "https://sessionize.com/global-azure-sevilla-2024",
+        "Description_SessionizeApiId": "https://sessionize.com/api/v2/l0llponb/view/Sessions",
+        "Files": {
+          "LogoFile": {
+            "Description": "Community logo 500X500px",
+            "File": "LogoAzureGlobalSevilla500x500.png"
+          },
+          "SponsorsPage": "sponsors.md",
+          "EventPage": "index.md"
+        },
+        "SamApp": {
+          "AdditionalHosts": []
+        },
+        "Locations": [
+          {
+            "Name": "Sevilla, Spain",
+            "StartDate": "2024-04-19",
+            "EndDate": "2024-04-19",
+            "Address": "Sevilla, Spain",
+            "Latitude": 37.392529,
+            "Longitude": -5.994072
+          }
+        ]
       }
     ]
   }
-}
-
-
+]

@@ -1,26 +1,43 @@
-{
-  "ValidMaintainers": {
-    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
-    "GitHubHandles": [
-      "deschampsvinicius",
-      "rafaelmaferreira",
-      "sertaoseracloud"
-    ]
-  },
-  "CommunityInfo": {
-    "Name": "Global Azure Floripa",
-    "Country": "Brazil",
-    "Url": "http://azurefloripa.com.br",
-       "Locations": [
+[
+  {
+    "ValidMaintainers": {
+      "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+      "GitHubHandles": [
+        "deschampsvinicius",
+        "rafaelmaferreira",
+        "sertaoseracloud"
+      ]
+    },
+    "CommunityInfo": [
       {
-        "Name": "Florianópolis",
-        "Latitude": -27.594870,
-        "Longitude": -48.548222
+        "Name": "Global Azure Floripa",
+        "Country": "Brazil",
+        "Url": "http://azurefloripa.com.br",
+        "SessionizeApiId": null,
+        "SessionizeEventName": null,
+        "Description_SessionizeApiId": null,
+        "Files": {
+          "LogoFile": {
+            "Description": "Global Azure - Azure Floripa",
+            "File": "global-azure-floripa.png"
+          },
+          "SponsorsPage": "sponsors.md",
+          "EventPage": "index.md"
+        },
+        "SamApp": {
+          "AdditionalHosts": []
+        },
+        "Locations": [
+          {
+            "Name": "Florianópolis",
+            "StartDate": "2024-04-19",
+            "EndDate": "2024-04-19",
+            "Address": null,
+            "Latitude": -27.59487,
+            "Longitude": -48.548222
+          }
+        ]
       }
-    ],
-    "Logo": {
-      "Description": "Global Azure - Azure Floripa",
-      "File": "global-azure-floripa.png"
-    }
+    ]
   }
-}
+]

@@ -1,28 +1,44 @@
-{
-  "ValidMaintainers": {
-    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
-    "GitHubHandles": [
-      "akshay-99h",
-      "GaganGulyani",
-      "rishabhbansal1998",
-      "abhishek-dhnma"
-    ]
-  },
-  "CommunityInfo": {
-    "Name": "Open Community of Developers(OCD-India)",
-    "Country": "India",
-    "Url": "https://lu.ma/OCDIndia",
-    "Logo": {
-      "Description": "Open Community of Developers (OCD India)",
-      "File": "OCD.png"
+[
+  {
+    "ValidMaintainers": {
+      "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+      "GitHubHandles": [
+        "akshay-99h",
+        "GaganGulyani",
+        "rishabhbansal1998",
+        "abhishek-dhnma"
+      ]
     },
-    "Locations": [
+    "CommunityInfo": [
       {
-        "Name": "New Delhi",
-        "Address": "New Delhi",
-        "Latitude": 28.7041,
-        "Longitude": 77.1025
+        "Name": "Open Community of Developers(OCD-India)",
+        "Country": "India",
+        "Url": "https://lu.ma/OCDIndia",
+        "SessionizeApiId": null,
+        "SessionizeEventName": null,
+        "Description_SessionizeApiId": null,
+        "Files": {
+          "LogoFile": {
+            "Description": "Open Community of Developers (OCD India)",
+            "File": "OCD.png"
+          },
+          "SponsorsPage": "sponsors.md",
+          "EventPage": "index.md"
+        },
+        "SamApp": {
+          "AdditionalHosts": []
+        },
+        "Locations": [
+          {
+            "Name": "New Delhi",
+            "StartDate": "2024-04-19",
+            "EndDate": "2024-04-19",
+            "Address": "New Delhi",
+            "Latitude": 28.7041,
+            "Longitude": 77.1025
+          }
+        ]
       }
     ]
   }
-}
+]

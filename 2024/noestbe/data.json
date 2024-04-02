@@ -1,26 +1,39 @@
-{
+[
+  {
     "ValidMaintainers": {
       "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
-      "GitHubHandles": [
-        "your-azure-coach"
-      ]
+      "GitHubHandles": ["your-azure-coach"]
     },
-    "CommunityInfo": {
-      "Name": "Campus Cloud Café",
-      "Country": "Belgium",
-      "Url": "https://www.eventbrite.com/e/tickets-campus-cloud-cafe-hogent-768408770317",
-      "SessionizeApiId": "",
-      "Logo": {
-        "Description": "Campus Cloud Café - GlobalAzure Edition",
-        "File": "logo.png"
-      },
-      "Locations": [
-        {
-          "Name": "Gent",
-          "Address": "HoGent - Campus to be announced",
-          "Latitude": 51.053822, 
-          "Longitude": 3.722270
-        }
-      ]
-    }
+    "CommunityInfo": [
+      {
+        "Name": "Campus Cloud Café",
+        "Country": "Belgium",
+        "Url": "https://www.eventbrite.com/e/tickets-campus-cloud-cafe-hogent-768408770317",
+        "SessionizeApiId": "",
+        "SessionizeEventName": null,
+        "Description_SessionizeApiId": null,
+        "Files": {
+          "LogoFile": {
+            "Description": "Campus Cloud Café - GlobalAzure Edition",
+            "File": "logo.png"
+          },
+          "SponsorsPage": "sponsors.md",
+          "EventPage": "index.md"
+        },
+        "SamApp": {
+          "AdditionalHosts": []
+        },
+        "Locations": [
+          {
+            "Name": "Gent",
+            "StartDate": "2024-04-19",
+            "EndDate": "2024-04-19",
+            "Address": "HoGent - Campus to be announced",
+            "Latitude": 51.053822,
+            "Longitude": 3.72227
+          }
+        ]
+      }
+    ]
   }
+]

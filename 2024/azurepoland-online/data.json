@@ -1,36 +1,49 @@
-{
-  "ValidMaintainers": {
-    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
-    "GitHubHandles": [
-      "RogalaPiotr",
-      "MichalJankowskii",
-      "PiotrWachulec",
-      "mskuratowski",
-      "pawelsiwek",
-      "mimachniak",
-      "barozi",
-      "donnik007",
-      "mmisztal1980"
-    ]
-  },
-  "CommunityInfo": {
-    "Name": "Azure Poland - online",
-    "Country": "Poland",
-    "Url": "https://www.eventbrite.com/e/global-azure-2024-poland-on-line-tickets-843540521407",
-    "Description_SessionizeApiId": "https://sessionize.com/api/v2/c14gmbzr/view/Sessions",
-    "SessionizeApiId": "c14gmbzr",
-    "SessionizeEventName": "https://sessionize.com/global-azure-2024-poland-on-line",
-    "Logo": {
-      "Description": "GlobalAzurePolandOnline",
-      "File": "GlobalAzurePolandOnline-500x500.png"
+[
+  {
+    "ValidMaintainers": {
+      "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+      "GitHubHandles": [
+        "RogalaPiotr",
+        "MichalJankowskii",
+        "PiotrWachulec",
+        "mskuratowski",
+        "pawelsiwek",
+        "mimachniak",
+        "barozi",
+        "donnik007",
+        "mmisztal1980"
+      ]
     },
-    "Locations": [
+    "CommunityInfo": [
       {
-        "Name": "Online",
-        "Address": "https://www.eventbrite.fi/x/843540521407/",
-        "Latitude": 51.9194,
-        "Longitude": 19.1451
+        "Name": "Azure Poland - online",
+        "Country": "Poland",
+        "Url": "https://www.eventbrite.com/e/global-azure-2024-poland-on-line-tickets-843540521407",
+        "SessionizeApiId": "c14gmbzr",
+        "SessionizeEventName": "https://sessionize.com/global-azure-2024-poland-on-line",
+        "Description_SessionizeApiId": "https://sessionize.com/api/v2/c14gmbzr/view/Sessions",
+        "Files": {
+          "LogoFile": {
+            "Description": "GlobalAzurePolandOnline",
+            "File": "GlobalAzurePolandOnline-500x500.png"
+          },
+          "SponsorsPage": "sponsors.md",
+          "EventPage": "index.md"
+        },
+        "SamApp": {
+          "AdditionalHosts": []
+        },
+        "Locations": [
+          {
+            "Name": "Online",
+            "StartDate": "2024-04-19",
+            "EndDate": "2024-04-19",
+            "Address": "https://www.eventbrite.fi/x/843540521407/",
+            "Latitude": 51.9194,
+            "Longitude": 19.1451
+          }
+        ]
       }
     ]
   }
-}
+]

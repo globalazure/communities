@@ -1,41 +1,59 @@
-{
-  "ValidMaintainers": {
-    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
-    "GitHubHandles": [
-      "janvidarelven",
-      "ehrnst",
-      "anderseide"
-    ]
-  },
-  "CommunityInfo": {
-    "Name": "Azure user group Norway",
-    "Country": "Norway",
-    "Url": "https://azureusergroup.no/",
-    "SessionizeApiId": "r6kxbmb0",
-    "SessionizeEventName": "global-azure-norway-2024",
-    "Logo": {
-      "Description": "Community logo is a .png file 500X500px named {foldername}.png.",
-      "File": "AUGNorwayLogo_500x500px.png"
+[
+  {
+    "ValidMaintainers": {
+      "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+      "GitHubHandles": [
+        "janvidarelven",
+        "ehrnst",
+        "anderseide"
+      ]
     },
-    "Locations": [
+    "CommunityInfo": [
       {
-        "Name": "Bergen",
-        "Address": "Kanalveien 11, 5068 Bergen",
-        "Latitude": 60.3690458,
-        "Longitude": 5.3414367
-      },      
-      {
-        "Name": "Oslo",
-        "Address": "Tollbugata 24, 0157 Oslo",        
-        "Latitude": 59.91108,
-        "Longitude": 10.74167
-      },
-      {
-        "Name": "Kristiansand",
-        "Address": "Vestre Strandgate 67 Quadrum, 6.etg, 4612 Kristiansand",
-        "Latitude": 58.14628355997549, 
-        "Longitude": 7.98529052908242
+        "Name": "Azure user group Norway",
+        "Country": "Norway",
+        "Url": "https://azureusergroup.no/",
+        "SessionizeApiId": "r6kxbmb0",
+        "SessionizeEventName": "global-azure-norway-2024",
+        "Description_SessionizeApiId": null,
+        "Files": {
+          "LogoFile": {
+            "Description": "Community logo is a .png file 500X500px named {foldername}.png.",
+            "File": "AUGNorwayLogo_500x500px.png"
+          },
+          "SponsorsPage": "sponsors.md",
+          "EventPage": "index.md"
+        },
+        "SamApp": {
+          "AdditionalHosts": []
+        },
+        "Locations": [
+          {
+            "Name": "Bergen",
+            "StartDate": "2024-04-19",
+            "EndDate": "2024-04-19",
+            "Address": "Kanalveien 11, 5068 Bergen",
+            "Latitude": 60.3690458,
+            "Longitude": 5.3414367
+          },
+          {
+            "Name": "Oslo",
+            "StartDate": "2024-04-19",
+            "EndDate": "2024-04-19",
+            "Address": "Tollbugata 24, 0157 Oslo",
+            "Latitude": 59.91108,
+            "Longitude": 10.74167
+          },
+          {
+            "Name": "Kristiansand",
+            "StartDate": "2024-04-19",
+            "EndDate": "2024-04-19",
+            "Address": "Vestre Strandgate 67 Quadrum, 6.etg, 4612 Kristiansand",
+            "Latitude": 58.14628355997549,
+            "Longitude": 7.98529052908242
+          }
+        ]
       }
     ]
   }
-}
+]

@@ -1,27 +1,39 @@
-{
-  "ValidMaintainers": {
-    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
-    "GitHubHandles": [
-      "roberto-chan"
-    ]
-  },
-  "CommunityInfo": {
-    "Name": "Azure Fort Lauderdale",
-    "Country": "United States",
-    "Url": "https://followoz.com/",
-    "SessionizeApiId": "rcbhvssy",
-    "Logo": {
-      "Description": "Azure Fort Lauderdale",
-      "File": "AzureGlobalFortLauderdale.png"
+[
+  {
+    "ValidMaintainers": {
+      "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+      "GitHubHandles": ["roberto-chan"]
     },
-    "Locations": [
+    "CommunityInfo": [
       {
-        "Description": "Follow Oz Office",
-        "Name": "Fort Lauderdale",
-        "Address": "500 W Cypress Creek Rd #570 / Fort Lauderdale / FL 33309",
-        "Latitude": 26.2028390506612,
-        "Longitude": -80.15063969219518
+        "Name": "Azure Fort Lauderdale",
+        "Country": "United States",
+        "Url": "https://followoz.com/",
+        "SessionizeApiId": "rcbhvssy",
+        "SessionizeEventName": null,
+        "Description_SessionizeApiId": null,
+        "Files": {
+          "LogoFile": {
+            "Description": "Azure Fort Lauderdale",
+            "File": "AzureGlobalFortLauderdale.png"
+          },
+          "SponsorsPage": "sponsors.md",
+          "EventPage": "index.md"
+        },
+        "SamApp": {
+          "AdditionalHosts": []
+        },
+        "Locations": [
+          {
+            "Name": "Fort Lauderdale",
+            "StartDate": "2024-04-19",
+            "EndDate": "2024-04-19",
+            "Address": "500 W Cypress Creek Rd #570 / Fort Lauderdale / FL 33309",
+            "Latitude": 26.2028390506612,
+            "Longitude": -80.15063969219518
+          }
+        ]
       }
     ]
   }
-}
+]

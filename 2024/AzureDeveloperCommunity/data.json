@@ -1,25 +1,39 @@
-{
-  "ValidMaintainers": {
-    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
-    "GitHubHandles": [
-      "saran2991"
-         ]
-  },
-  "CommunityInfo": {
-    "Name": "Csharp Corner - Chennai Chapter",
-    "Country": "India",
-    "Url": "https://www.c-sharpcorner.com/", 
-    "Logo": {
-      "Description": "Community logo is a .png file 500X500px named azuredev.png.",
-      "File": "csharpcorner.png"
+[
+  {
+    "ValidMaintainers": {
+      "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+      "GitHubHandles": ["saran2991"]
     },
-    "Locations": [
+    "CommunityInfo": [
       {
-        "Name": "Chennai",
-        "Address": "",
-        "Latitude": 13.0328421,
-        "Longitude": 80.241602
+        "Name": "Csharp Corner - Chennai Chapter",
+        "Country": "India",
+        "Url": "https://www.c-sharpcorner.com/",
+        "SessionizeApiId": null,
+        "SessionizeEventName": null,
+        "Description_SessionizeApiId": null,
+        "Files": {
+          "LogoFile": {
+            "Description": "Community logo is a .png file 500X500px named azuredev.png.",
+            "File": "csharpcorner.png"
+          },
+          "SponsorsPage": "sponsors.md",
+          "EventPage": "index.md"
+        },
+        "SamApp": {
+          "AdditionalHosts": []
+        },
+        "Locations": [
+          {
+            "Name": "Chennai",
+            "StartDate": "2024-04-19",
+            "EndDate": "2024-04-19",
+            "Address": "",
+            "Latitude": 13.0328421,
+            "Longitude": 80.241602
+          }
+        ]
       }
     ]
   }
-}
+]

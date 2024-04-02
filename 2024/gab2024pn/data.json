@@ -1,27 +1,39 @@
-{
-  "ValidMaintainers": {
-    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
-    "GitHubHandles": [
-      "marcoparenzan"
-    ]
-  },
-  "CommunityInfo": {
-    "Name": "1nn0va",
-    "Country": "Italy",
-    "Url": "https://www.1nn0va.it/",
-    "SessionizeApiId": "r34gxh7p",
-    "SessionizeEventName": "gab2024pn",
-    "Logo": {
-      "Description": "1nn0va",
-      "File": "1nn0va-CloudGen.png"
+[
+  {
+    "ValidMaintainers": {
+      "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+      "GitHubHandles": ["marcoparenzan"]
     },
-    "Locations": [
+    "CommunityInfo": [
       {
-        "Name": "Consorzio Universitario di Pordenone",
-        "Address": "Via Prasecco 3/a, Pordenone",
-        "Latitude": 45.9522118,
-        "Longitude": 12.6781303
+        "Name": "1nn0va",
+        "Country": "Italy",
+        "Url": "https://www.1nn0va.it/",
+        "SessionizeApiId": "r34gxh7p",
+        "SessionizeEventName": "gab2024pn",
+        "Description_SessionizeApiId": null,
+        "Files": {
+          "LogoFile": {
+            "Description": "1nn0va",
+            "File": "1nn0va-CloudGen.png"
+          },
+          "SponsorsPage": "sponsors.md",
+          "EventPage": "index.md"
+        },
+        "SamApp": {
+          "AdditionalHosts": []
+        },
+        "Locations": [
+          {
+            "Name": "Consorzio Universitario di Pordenone",
+            "StartDate": "2024-04-19",
+            "EndDate": "2024-04-19",
+            "Address": "Via Prasecco 3/a, Pordenone",
+            "Latitude": 45.9522118,
+            "Longitude": 12.6781303
+          }
+        ]
       }
     ]
   }
-}
+]

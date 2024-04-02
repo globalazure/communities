@@ -1,29 +1,44 @@
-{
-  "ValidMaintainers": {
-    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
-    "GitHubHandles": [
-      "nanddeepn",
-      "SmitaNachan",
-      "siddharth-vaghasia",
-      "kunj-sangani"
-    ]
-  },
-  "CommunityInfo": {
-    "Name": "Pune Tech Community",
-    "Country": "India",
-    "Url": "https://www.meetup.com/pune-tech-community/events/299269909/",
-    "SessionizeApiId": "g08mn03o",
-    "Logo": {
-      "Description": "Global Azure 2024 by Pune Tech Community",
-      "File": "punetechcommunity.png"
+[
+  {
+    "ValidMaintainers": {
+      "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+      "GitHubHandles": [
+        "nanddeepn",
+        "SmitaNachan",
+        "siddharth-vaghasia",
+        "kunj-sangani"
+      ]
     },
-    "Locations": [
+    "CommunityInfo": [
       {
-        "Name": "Pune",
-        "Address": "Pune",
-        "Latitude": 18.516726,
-        "Longitude": 73.856255
+        "Name": "Pune Tech Community",
+        "Country": "India",
+        "Url": "https://www.meetup.com/pune-tech-community/events/299269909/",
+        "SessionizeApiId": "g08mn03o",
+        "SessionizeEventName": null,
+        "Description_SessionizeApiId": null,
+        "Files": {
+          "LogoFile": {
+            "Description": "Global Azure 2024 by Pune Tech Community",
+            "File": "punetechcommunity.png"
+          },
+          "SponsorsPage": "sponsors.md",
+          "EventPage": "index.md"
+        },
+        "SamApp": {
+          "AdditionalHosts": []
+        },
+        "Locations": [
+          {
+            "Name": "Pune",
+            "StartDate": "2024-04-19",
+            "EndDate": "2024-04-19",
+            "Address": "Pune",
+            "Latitude": 18.516726,
+            "Longitude": 73.856255
+          }
+        ]
       }
     ]
   }
-}
+]

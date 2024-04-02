@@ -1,4 +1,5 @@
-{
+[
+  {
     "ValidMaintainers": {
       "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
       "GitHubHandles": [
@@ -6,21 +7,36 @@
         "matthewjward"
       ]
     },
-    "CommunityInfo": {
-      "Name": "Perth Azure User Group",
-      "Country": "Australia",
-      "Url": "https://www.meetup.com/perthazug/",
-      "Logo": {
-        "Description": "Community logo is a .png file 500X500px named {foldername}.png.",
-        "File": "PerthAzureUserGroupLogo.png"
-      },
-      "Locations": [
-        {
-          "Name": "Microsoft Perth",
-          "Address": "Level 10, 100 St Georges Terrace, Perth, WA 6000",
-          "Latitude": -31.954875,
-          "Longitude": 115.857519
-        }
-      ]
-    }
+    "CommunityInfo": [
+      {
+        "Name": "Perth Azure User Group",
+        "Country": "Australia",
+        "Url": "https://www.meetup.com/perthazug/",
+        "SessionizeApiId": null,
+        "SessionizeEventName": null,
+        "Description_SessionizeApiId": null,
+        "Files": {
+          "LogoFile": {
+            "Description": "Community logo is a .png file 500X500px named {foldername}.png.",
+            "File": "PerthAzureUserGroupLogo.png"
+          },
+          "SponsorsPage": "sponsors.md",
+          "EventPage": "index.md"
+        },
+        "SamApp": {
+          "AdditionalHosts": []
+        },
+        "Locations": [
+          {
+            "Name": "Microsoft Perth",
+            "StartDate": "2024-04-19",
+            "EndDate": "2024-04-19",
+            "Address": "Level 10, 100 St Georges Terrace, Perth, WA 6000",
+            "Latitude": -31.954875,
+            "Longitude": 115.857519
+          }
+        ]
+      }
+    ]
   }
+]

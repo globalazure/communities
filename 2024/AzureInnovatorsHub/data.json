@@ -1,32 +1,43 @@
-{
-  "ValidMaintainers": {
-    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
-    "GitHubHandles": [
-      "passadis",
-      "telelogic",
-      ""
-    ]
-  },
-  "CommunityInfo": {
-    "Name": "Azure Innovators Hub",
-    "Country": "Greece",
-    "Url": "https://www.meetup.com/athens-azure-tech-group/",
-    "Description_SessionizeApiId": "",
-    "SessionizeApiId": "igb6icil",
-    "SessionizeEventName": "Global Azure Greece 2024",
-    "Logo": {
-      "Description": "Community logo is a .png file 500X500px in this folder!",
-      "File": "azureinnovatorshub.png"
+[
+  {
+    "ValidMaintainers": {
+      "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+      "GitHubHandles": [
+        "passadis",
+        "telelogic",
+        ""
+      ]
     },
-    "Locations": [
+    "CommunityInfo": [
       {
-        "Description": "Each location where your community will be running a Global Azure event.",
-        "Name": "Athens, Greece",
-        "Address": "Athens, Greece",
-        "Description_Lat_Lon": "The Lat and Lon location for where you want your community pin on the Global Azure Community Map (example 47.6457554, -122.1299952).",
-        "Latitude": 37.983810,
-        "Longitude": 23.727539
+        "Name": "Azure Innovators Hub",
+        "Country": "Greece",
+        "Url": "https://www.meetup.com/athens-azure-tech-group/",
+        "SessionizeApiId": "igb6icil",
+        "SessionizeEventName": "Global Azure Greece 2024",
+        "Description_SessionizeApiId": "",
+        "Files": {
+          "LogoFile": {
+            "Description": "Community logo is a .png file 500X500px in this folder!",
+            "File": "azureinnovatorshub.png"
+          },
+          "SponsorsPage": "sponsors.md",
+          "EventPage": "index.md"
+        },
+        "SamApp": {
+          "AdditionalHosts": []
+        },
+        "Locations": [
+          {
+            "Name": "Athens, Greece",
+            "StartDate": "2024-04-19",
+            "EndDate": "2024-04-19",
+            "Address": "Athens, Greece",
+            "Latitude": 37.98381,
+            "Longitude": 23.727539
+          }
+        ]
       }
     ]
   }
-}
+]

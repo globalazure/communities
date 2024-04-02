@@ -1,29 +1,42 @@
-{
-  "ValidMaintainers": {
-    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
-    "GitHubHandles": [
-      "rbrayb",
-      "marcelmedina"
-    ]
-  },
-  "CommunityInfo": {
-    "Name": "Auckland Azure User Group",
-    "Country": "New Zealand",
-    "Url": "https://www.meetup.com/auckland-azure-usergroup/",
-    "SessionizeApiId": "uisvu8bc",
-    "Description_SessionizeApiId": "https://sessionize.com/api/v2/uisvu8bc/view/Sessions",
-    "SessionizeEventName": "https://sessionize.com/global-azure-auckland-2024/",
-    "Logo": {
-      "Description": "Aotearoa Azure Meetup logo.",
-      "File": "logo.png"
+[
+  {
+    "ValidMaintainers": {
+      "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+      "GitHubHandles": [
+        "rbrayb",
+        "marcelmedina"
+      ]
     },
-    "Locations": [
+    "CommunityInfo": [
       {
         "Name": "Auckland Azure User Group",
-        "Address": "Auckland, New Zealand",
-        "Latitude": -36.8453,
-        "Longitude": 174.7569
+        "Country": "New Zealand",
+        "Url": "https://www.meetup.com/auckland-azure-usergroup/",
+        "SessionizeApiId": "uisvu8bc",
+        "SessionizeEventName": "https://sessionize.com/global-azure-auckland-2024/",
+        "Description_SessionizeApiId": "https://sessionize.com/api/v2/uisvu8bc/view/Sessions",
+        "Files": {
+          "LogoFile": {
+            "Description": "Aotearoa Azure Meetup logo.",
+            "File": "logo.png"
+          },
+          "SponsorsPage": "sponsors.md",
+          "EventPage": "index.md"
+        },
+        "SamApp": {
+          "AdditionalHosts": []
+        },
+        "Locations": [
+          {
+            "Name": "Auckland Azure User Group",
+            "StartDate": "2024-04-19",
+            "EndDate": "2024-04-19",
+            "Address": "Auckland, New Zealand",
+            "Latitude": -36.8453,
+            "Longitude": 174.7569
+          }
+        ]
       }
     ]
   }
-}
+]

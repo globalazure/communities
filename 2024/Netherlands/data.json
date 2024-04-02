@@ -1,4 +1,5 @@
-{
+[
+  {
     "ValidMaintainers": {
       "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
       "GitHubHandles": [
@@ -6,26 +7,36 @@
         "OlenaBorzenko"
       ]
     },
-    "CommunityInfo": {
-      "Name": "Global Azure Netherlands Community",
-      "Country": "Netherlands",
-      "Url": "https://events.xebia.com/global-azure-nl-community-event-18-april-2024",
-      "Description_SessionizeApiId": "If you have configured your Sessionize correctly then browsing to this url (replacing {Your sessionize event Id} with your event sessionize id) will return valid json: https://sessionize.com/api/v2/{Your sessionize event Id}/view/Sessions",
-      "SessionizeApiId": "2o4o2kfh",
-      "SessionizeEventName": "https://sessionize.com/global-azure-netherlands-2024",
-      "Logo": {
-        "Description": "Community logo is a .png file 500X500px in this folder!",
-        "File": "image.png"
-      },
-      "Locations": [
-        {
-          "Description": "Each location where your community will be running a Global Azure event.",
-          "Name": "Xebia Hilversum",
-          "Address": "Laapersveld 27, Hilversum",
-          "Description_Lat_Lon": "The Lat and Lon location for where you want your community pin on the Global Azure Community Map (example 47.6457554, -122.1299952).",
-          "Latitude": 52.2117411,
-          "Longitude": 5.18461
-        }
-      ]
-    }
+    "CommunityInfo": [
+      {
+        "Name": "Global Azure Netherlands Community",
+        "Country": "Netherlands",
+        "Url": "https://events.xebia.com/global-azure-nl-community-event-18-april-2024",
+        "SessionizeApiId": "2o4o2kfh",
+        "SessionizeEventName": "https://sessionize.com/global-azure-netherlands-2024",
+        "Description_SessionizeApiId": "If you have configured your Sessionize correctly then browsing to this url (replacing {Your sessionize event Id} with your event sessionize id) will return valid json: https://sessionize.com/api/v2/{Your sessionize event Id}/view/Sessions",
+        "Files": {
+          "LogoFile": {
+            "Description": "Community logo is a .png file 500X500px in this folder!",
+            "File": "image.png"
+          },
+          "SponsorsPage": "sponsors.md",
+          "EventPage": "index.md"
+        },
+        "SamApp": {
+          "AdditionalHosts": []
+        },
+        "Locations": [
+          {
+            "Name": "Xebia Hilversum",
+            "StartDate": "2024-04-19",
+            "EndDate": "2024-04-19",
+            "Address": "Laapersveld 27, Hilversum",
+            "Latitude": 52.2117411,
+            "Longitude": 5.18461
+          }
+        ]
+      }
+    ]
   }
+]

@@ -1,23 +1,39 @@
-{
-  "ValidMaintainers": {
-    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
-    "GitHubHandles": ["marceloavila11"]
-  },
-  "CommunityInfo": {
-    "Name": "Microsoft UCuenca Community",
-    "Country": "Ecuador",
-    "Url": "https://www.globalazureecuador.com/",
-    "Logo": {
-      "Description": "Microsoft UCuenca Community logo",
-      "File": "logo.png"
+[
+  {
+    "ValidMaintainers": {
+      "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+      "GitHubHandles": ["marceloavila11"]
     },
-    "Locations": [
+    "CommunityInfo": [
       {
         "Name": "Microsoft UCuenca Community",
-        "Address": "Cuenca",
-        "Latitude": -2.8910041267781676,
-        "Longitude": -79.03659130423219
+        "Country": "Ecuador",
+        "Url": "https://www.globalazureecuador.com/",
+        "SessionizeApiId": null,
+        "SessionizeEventName": null,
+        "Description_SessionizeApiId": null,
+        "Files": {
+          "LogoFile": {
+            "Description": "Microsoft UCuenca Community logo",
+            "File": "logo.png"
+          },
+          "SponsorsPage": "sponsors.md",
+          "EventPage": "index.md"
+        },
+        "SamApp": {
+          "AdditionalHosts": []
+        },
+        "Locations": [
+          {
+            "Name": "Microsoft UCuenca Community",
+            "StartDate": "2024-04-19",
+            "EndDate": "2024-04-19",
+            "Address": "Cuenca",
+            "Latitude": -2.8910041267781676,
+            "Longitude": -79.03659130423219
+          }
+        ]
       }
     ]
   }
-}
+]

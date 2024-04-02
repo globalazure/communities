@@ -1,28 +1,39 @@
-{
-  "ValidMaintainers": {
-    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
-    "GitHubHandles": [
-      "a-yui"
-    ]
-  },
-  "CommunityInfo": {
-    "Name": "Japan Azure User Group",
-    "Country": "Japan",
-    "Url": "https://jazug.connpass.com/",
-    "Description_SessionizeApiId": "If you have configured your Sessionize correctly then browsing to this url (replacing {Your sessionize event Id} with your event sessionize id) will return valid json: https://sessionize.com/api/v2/{Your sessionize event Id}/view/Sessions",
-    "SessionizeApiId": "",
-    "SessionizeEventName": "",
-    "Logo": {
-      "Description": "Global Azure 2024 Japan",
-      "File": "jazug_ga2024.png"
+[
+  {
+    "ValidMaintainers": {
+      "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+      "GitHubHandles": ["a-yui"]
     },
-    "Locations": [
+    "CommunityInfo": [
       {
-        "Name": "Microsoft Japan",
-        "Address": "Shinagawa Grand Central Tower",
-        "Latitude": 35.626619,
-        "Longitude": 139.7385796
+        "Name": "Japan Azure User Group",
+        "Country": "Japan",
+        "Url": "https://jazug.connpass.com/",
+        "SessionizeApiId": "",
+        "SessionizeEventName": "",
+        "Description_SessionizeApiId": "If you have configured your Sessionize correctly then browsing to this url (replacing {Your sessionize event Id} with your event sessionize id) will return valid json: https://sessionize.com/api/v2/{Your sessionize event Id}/view/Sessions",
+        "Files": {
+          "LogoFile": {
+            "Description": "Global Azure 2024 Japan",
+            "File": "jazug_ga2024.png"
+          },
+          "SponsorsPage": "sponsors.md",
+          "EventPage": "index.md"
+        },
+        "SamApp": {
+          "AdditionalHosts": []
+        },
+        "Locations": [
+          {
+            "Name": "Microsoft Japan",
+            "StartDate": "2024-04-19",
+            "EndDate": "2024-04-19",
+            "Address": "Shinagawa Grand Central Tower",
+            "Latitude": 35.626619,
+            "Longitude": 139.7385796
+          }
+        ]
       }
     ]
   }
-}
+]

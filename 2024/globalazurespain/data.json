@@ -1,41 +1,59 @@
-{
-  "ValidMaintainers": {
-    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
-    "GitHubHandles": [
-      "davidjrh",
-      "adiazcan",
-      "santypr"
-    ]
-  },
-  "CommunityInfo": {
-    "Name": "Global Azure Spain",
-    "Country": "Spain",
-    "Url": "https://globalazure.es",
-    "SessionizeApiId": "zvtsb0dr",
-    "SessionizeEventName": "https://sessionize.com/global-azure-2024-spain/",
-    "Logo": {
-      "Description": "Community logo is a .png file 500X500px named {foldername}.png.",
-      "File": "GlobalAzure2024LiveFromSpain-250.png"
+[
+  {
+    "ValidMaintainers": {
+      "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+      "GitHubHandles": [
+        "davidjrh",
+        "adiazcan",
+        "santypr"
+      ]
     },
-    "Locations": [
+    "CommunityInfo": [
       {
-        "Name": "Madrid",
-        "Address": "Kinépolis Diversia, C.C. Heron Diversia, Av. de Bruselas, 21, 28108 Alcobendas, Madrid",
-        "Latitude": 40.5300823,
-        "Longitude": -3.6422473
-      },
-      {
-        "Name": "Barcelona",
-        "Address": "Ironhack, C/ de Pamplona, 96, Sant Martí, 08018 Barcelona"
-        "Latitude": 41.397742,
-        "Longitude": 2.1853784
-      },
-      {
-        "Name": "Zaragoza",
-        "Address": "Hiberus, P.º de Isabel la Católica, 6, 50009 Zaragoza",
-        "Latitude": 41.6369216,
-        "Longitude": -0.8996619
+        "Name": "Global Azure Spain",
+        "Country": "Spain",
+        "Url": "https://globalazure.es",
+        "SessionizeApiId": "zvtsb0dr",
+        "SessionizeEventName": "https://sessionize.com/global-azure-2024-spain/",
+        "Description_SessionizeApiId": null,
+        "Files": {
+          "LogoFile": {
+            "Description": "Community logo is a .png file 500X500px named {foldername}.png.",
+            "File": "GlobalAzure2024LiveFromSpain-250.png"
+          },
+          "SponsorsPage": "sponsors.md",
+          "EventPage": "index.md"
+        },
+        "SamApp": {
+          "AdditionalHosts": []
+        },
+        "Locations": [
+          {
+            "Name": "Madrid",
+            "StartDate": "2024-04-19",
+            "EndDate": "2024-04-19",
+            "Address": "Kinépolis Diversia, C.C. Heron Diversia, Av. de Bruselas, 21, 28108 Alcobendas, Madrid",
+            "Latitude": 40.5300823,
+            "Longitude": -3.6422473
+          },
+          {
+            "Name": "Barcelona",
+            "StartDate": "2024-04-19",
+            "EndDate": "2024-04-19",
+            "Address": "Ironhack, C/ de Pamplona, 96, Sant Martí, 08018 Barcelona",
+            "Latitude": 41.397742,
+            "Longitude": 2.1853784
+          },
+          {
+            "Name": "Zaragoza",
+            "StartDate": "2024-04-19",
+            "EndDate": "2024-04-19",
+            "Address": "Hiberus, P.º de Isabel la Católica, 6, 50009 Zaragoza",
+            "Latitude": 41.6369216,
+            "Longitude": -0.8996619
+          }
+        ]
       }
     ]
   }
-}
+]
