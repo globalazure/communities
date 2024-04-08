@@ -20,3 +20,6 @@ _Agenda will be updated after the Call for Speakers is over!_
 [![Azure Malaga](azureMalaga.png "Azure Malaga")](https://azuremalaga.com/)
 
 [![Sevendos](Sevendos_500px.png "Sevendos")](https://sevendos.com/)
+[![Sevendos](polarsquad.jpg "PolarSquad")](https://polarsquad.com/)
+[![Sevendos](Oktett.png "Oktett")](https://oktett.no//)
+
