@@ -6,9 +6,10 @@ Microsoft Azure User Group Poland, Kraków invites to Azure Global on-site works
 
 **On-site azure workshop (in polish)**
 * 📅 April, 18 2024, 18:00 CEST
-* 🏠 TBA, Kraków Poland
-* 🎫 Will be open soon
-* 💶 Sponsors - TBA
+* 🏠 Avanade - 21 Pawia 31-154 Kraków, Poland
+* 🎫 [Tickets & Informations](https://www.eventbrite.com/e/global-azure-2024-krakow-workshop-on-site-wprowadzenie-do-azure-tickets-880021085757?aff=oddtdtcreator)
+* 💶 Sponsors - [Avanade](https://www.avanade.com/en/career/poland)
+* We have limited number of seats!
 
 
 **Online sessions**
@@ -19,3 +20,4 @@ Microsoft Azure User Group Poland, Kraków invites to Azure Global on-site works
 If you have any questions, feedback or thoughts, please reach out to the community organizers:
 
 - Dominik Skowron [Community Leader](https://www.linkedin.com/in/dominikskowron007/)
+- Damian Maczuga [Azure Cloud Engineer](https://www.linkedin.com/in/damianmaczuga/)
