@@ -1,0 +1,25 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "randb13"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "MTG Azure DevOps Aix-en-Provence",
+    "Country": "France",
+    "Url": "https://www.meetup.com/fr-FR/meetup-azure-devops-aix-en-provence/",
+    "Logo": {
+      "Description": "Community logo is a .png file 500X500px in this folder!",
+      "File": "AixMTG.png"
+    },
+    "Locations": [
+      {
+        "Name": "Aix-en-Provence",
+        "Address": "Aix-en-Provence",
+        "Latitude": 43.5283000,
+        "Longitude": 5.4497300
+      }
+    ]
+  }
+}

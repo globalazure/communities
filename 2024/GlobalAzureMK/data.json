@@ -1,0 +1,29 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users. ",
+    "GitHubHandles": [
+      "glazuremk",
+      "darkomilevski",
+      "mcekikj"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Global Azure Macedonia",
+    "Country": "Macedonia",
+    "Url": "https://www.facebook.com/mkdotnet",
+    "SessionizeApiId": "6seinuzw",
+    "SessionizeEventName": "Global Azure Macedonia 2024",
+    "Logo": {
+      "Description": "Community logo is a .png file 500X500px named {foldername}.png.",
+      "File": "GlobalAzure2024Skopje.png"
+    },
+    "Locations": [
+      {
+        "Name": "International Balkan University",
+        "Address": "Plostad Makedonija bb, 1000 Skopje, North Macedonia",
+        "Latitude": 41.995884,
+        "Longitude": 21.432399
+      }
+    ]
+  }
+}

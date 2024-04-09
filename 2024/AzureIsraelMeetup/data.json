@@ -1,0 +1,25 @@
+{
+    "ValidMaintainers": {
+      "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+      "GitHubHandles": [
+        "alonf"
+      ]
+    },
+    "CommunityInfo": {
+      "Name": "Azure Israel Meetup",
+      "Country": "Israel",
+      "Url": "https://www.meetup.com/azureisrael/",
+      "Logo": {
+        "Description": "Community logo is a .png file 500X500px named {foldername}.png.",
+        "File": "AzureIsraelMeetup.png"
+      },
+      "Locations": [
+        {
+          "Name": "Microsoft Reactor Tel Aviv",
+          "Address": "Menachem Begin 144, Floor 50, Tel Aviv",
+          "Latitude": 32.0773385,
+          "Longitude": 34.7909223
+        }
+      ]
+    }
+  }

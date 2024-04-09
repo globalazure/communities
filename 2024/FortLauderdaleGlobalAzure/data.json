@@ -1,0 +1,27 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "roberto-chan"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Azure Fort Lauderdale",
+    "Country": "United States",
+    "Url": "https://followoz.com/",
+    "SessionizeApiId": "rcbhvssy",
+    "Logo": {
+      "Description": "Azure Fort Lauderdale",
+      "File": "AzureGlobalFortLauderdale.png"
+    },
+    "Locations": [
+      {
+        "Description": "Follow Oz Office",
+        "Name": "Fort Lauderdale",
+        "Address": "500 W Cypress Creek Rd #570 / Fort Lauderdale / FL 33309",
+        "Latitude": 26.2028390506612,
+        "Longitude": -80.15063969219518
+      }
+    ]
+  }
+}

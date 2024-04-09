@@ -1,0 +1,27 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "PradeepKandel"
+    ]
+  },
+  "CommunityInfo": [
+    {
+      "Name": "Nepal Cloud Professionals",
+      "Country": "Nepal",
+      "Url": "https://www.facebook.com/NepalCloudPro",
+      "Logo": {
+        "Description": "Global Azure 2024 by Nepal Cloud Professionals",
+        "File": "NepalCloudProLogo.png"
+      }
+    }
+    ],
+    "Locations": [
+      {
+        "Name": "Kathmandu",
+        "Address": "CloudFactory Jawalakhel Hub",
+        "Latitude": 27.67082040227612,
+        "Longitude": 85.30996117873053
+      }
+    ]
+  }
