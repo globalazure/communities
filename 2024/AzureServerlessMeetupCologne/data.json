@@ -1,26 +1,34 @@
 {
   "ValidMaintainers": {
     "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
-    "GitHubHandles": [
-      "FlonairLenz"
-    ]
+    "GitHubHandles": ["FlonairLenz"]
   },
-  "CommunityInfo": {
-    "Name": "Azure Serverless Stammtisch - Köln",
-    "Country": "Germany",
-    "Url": "https://www.meetup.com/de-DE/azure-serverless-stammtisch-koln/",
-    "Logo": {
-      "Description": "Community logo is a .png file 500X500px in this folder!",
-      "File": "azureserverlessstammtisch.png"
-    },
-    "Locations": [
-      {
-        "Description": "Each location where your community will be running a Global Azure event.",
-        "Name": "Microsoft Cologne",
-        "Address": "Holzmarkt 2a, 50676 Köln",
-        "Latitude": 50.929650,
-        "Longitude": 6.963070
-      }
-    ]
-  }
+  "CommunityInfo":{
+      "Name": "Azure Serverless Stammtisch - Köln",
+      "Country": "Germany",
+      "Url": "https://www.meetup.com/de-DE/azure-serverless-stammtisch-koln/",
+      "SessionizeApiId": null,
+      "SessionizeEventName": null,
+      "Files":{
+          "EventPage": "index.md",
+          "SponsorsPage": "sponsors.md",
+          "LogoFile": {
+            "Description": "Community logo is a .png file 500X500px in this folder!",
+            "File": "azureserverlessstammtisch.png"
+          }
+        },
+      "SamApp": {
+        "AdditionalHosts": []
+      },
+      "Locations": [
+        {
+          "Name": "Microsoft Cologne",
+          "StartDate": "2024-04-19",
+          "EndDate": "2024-04-19",
+          "Address": "Holzmarkt 2a, 50676 Köln",
+          "Latitude": 50.92965,
+          "Longitude": 6.96307
+        }
+      ]
+    }
 }

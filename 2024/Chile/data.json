@@ -1,30 +1,34 @@
 {
   "ValidMaintainers": {
     "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
-    "GitHubHandles": [
-      "wcalcagno"
-    ]
+    "GitHubHandles": ["wcalcagno"]
   },
-  "CommunityInfo": {
-    "Name": "Comunidad Power BI Chile",
-    "Country": "Chile",
-    "Url": "https://www.meetup.com/es-ES/Power-BI-Chile/",
-    "Description_SessionizeApiId": "If you have configured your Sessionize correctly then browsing to this url (replacing {Your sessionize event Id} with your event sessionize id) will return valid json: https://sessionize.com/api/v2/qji9uvil/view/Sessions",
-    "SessionizeApiId": "qji9uvil",
-    "SessionizeEventName": "https://sessionize.com/global-azure-20246141/",
-    "Logo": {
-      "Description": "Community logo is a .png file 500X500px in this folder!",
-      "File": "pbi_chile_500.png"
-    },
-    "Locations": [
-      {
-        "Description": "Each location where your community will be running a Global Azure event.",
-        "Name": "Santiago de Chile",
-        "Address": "{Optional address of the location}",
-        "Description_Lat_Lon": "The Lat and Lon location for where you want your community pin on the Global Azure Community Map (example -33.448891, -70.669266).",
-        "Latitude": {-33.448891},
-        "Longitude": {-70.669266}
-      }
-    ]
-  }
+  "CommunityInfo":{
+      "Name": "Comunidad Power BI Chile",
+      "Country": "Chile",
+      "Url": "https://www.meetup.com/es-ES/Power-BI-Chile/",
+      "SessionizeApiId": "qji9uvil",
+      "SessionizeEventName": "https://sessionize.com/global-azure-20246141/",
+      "Files":{
+          "EventPage": "index.md",
+          "SponsorsPage": "sponsors.md",
+          "LogoFile": {
+            "Description": "Community logo is a .png file 500X500px in this folder!",
+            "File": "pbi_chile_500.png"
+          }
+        },
+      "SamApp": {
+        "AdditionalHosts": []
+      },
+      "Locations": [
+        {
+          "Name": "Santiago de Chile",
+          "StartDate": "2024-04-19",
+          "EndDate": "2024-04-19",
+          "Address": "{Optional address of the location}",
+          "Latitude": -33.448891,
+          "Longitude": -70.669266
+        }
+      ]
+    }
 }

@@ -7,20 +7,32 @@
       "sertaoseracloud"
     ]
   },
-  "CommunityInfo": {
-    "Name": "Global Azure Floripa",
-    "Country": "Brazil",
-    "Url": "http://azurefloripa.com.br",
-       "Locations": [
-      {
-        "Name": "Florianópolis",
-        "Latitude": -27.594870,
-        "Longitude": -48.548222
-      }
-    ],
-    "Logo": {
-      "Description": "Global Azure - Azure Floripa",
-      "File": "global-azure-floripa.png"
+  "CommunityInfo":{
+      "Name": "Global Azure Floripa",
+      "Country": "Brazil",
+      "Url": "http://azurefloripa.com.br",
+      "SessionizeApiId": null,
+      "SessionizeEventName": null,
+      "Files":{
+          "EventPage": "index.md",
+          "SponsorsPage": "sponsors.md",
+          "LogoFile": {
+            "Description": "Global Azure - Azure Floripa",
+            "File": "global-azure-floripa.png"
+          }
+        },
+      "SamApp": {
+        "AdditionalHosts": []
+      },
+      "Locations": [
+        {
+          "Name": "Florianópolis",
+          "StartDate": "2024-04-19",
+          "EndDate": "2024-04-19",
+          "Address": null,
+          "Latitude": -27.59487,
+          "Longitude": -48.548222
+        }
+      ]
     }
-  }
 }

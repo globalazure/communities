@@ -1,27 +1,34 @@
 {
-    "ValidMaintainers": {
-      "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
-      "GitHubHandles": [
-        "eskandari"
-      ]
-    },
-    "CommunityInfo": {
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": ["eskandari"]
+  },
+  "CommunityInfo":{
       "Name": "Azure Toronto",
       "Country": "Canada",
       "Url": "https://www.meetup.com/metro-toronto-azure-community/events/297401028/",
       "SessionizeApiId": "",
-      "Logo": {
-        "Description": "Global Azure bootcamp 2024 Toronto Edition",
-        "File": "AzureToronto.png"
+      "SessionizeEventName": null,
+      "Files":{
+          "EventPage": "index.md",
+          "SponsorsPage": "sponsors.md",
+          "LogoFile": {
+            "Description": "Global Azure bootcamp 2024 Toronto Edition",
+            "File": "AzureToronto.png"
+          }
+        },
+      "SamApp": {
+        "AdditionalHosts": []
       },
       "Locations": [
         {
           "Name": "Microsoft Canada HQ, Toronto",
+          "StartDate": "2024-04-19",
+          "EndDate": "2024-04-19",
           "Address": "Microsoft Canadian Headquarters (Suite 4400) 81 Bay St., Toronto, ON M5J 0E7",
-          "Latitude": 43.6441978911978, 
+          "Latitude": 43.6441978911978,
           "Longitude": -79.37756550907216
         }
       ]
     }
-  }
-  
+}

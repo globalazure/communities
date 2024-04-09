@@ -1,26 +1,37 @@
 {
   "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
     "GitHubHandles": [
       "callumbwhyte",
       "poornimanayar"
     ]
   },
-  "CommunityInfo": {
-    "Name": "Global Azure London",
-    "Country": "United Kingdom",
-    "Url": "https://www.meetup.com/microsoft-reactor-london/",
-    "SessionizeApiId": "51l6dk3u",
-    "SessionizeEventName": "https://sessionize.com/global-azure-london-2024/",
-    "Logo": {
-      "File": "logo.png"
-    },
-    "Locations": [
-      {
-        "Name": "Microsoft Reactor London",
-        "Address": "2 Kingdom Street, Paddington, London, W2 6BD",
-        "Latitude": 51.5194952,
-        "Longitude": -0.1813375
-      }
-    ]
-  }
+  "CommunityInfo":{
+      "Name": "Global Azure London",
+      "Country": "United Kingdom",
+      "Url": "https://www.meetup.com/microsoft-reactor-london/",
+      "SessionizeApiId": "51l6dk3u",
+      "SessionizeEventName": "https://sessionize.com/global-azure-london-2024/",
+      "Files":{
+          "EventPage": "index.md",
+          "SponsorsPage": "sponsors.md",
+          "LogoFile": {
+            "Description": null,
+            "File": "logo.png"
+          }
+        },
+      "SamApp": {
+        "AdditionalHosts": []
+      },
+      "Locations": [
+        {
+          "Name": "Microsoft Reactor London",
+          "StartDate": "2024-04-19",
+          "EndDate": "2024-04-19",
+          "Address": "2 Kingdom Street, Paddington, London, W2 6BD",
+          "Latitude": 51.5194952,
+          "Longitude": -0.1813375
+        }
+      ]
+    }
 }

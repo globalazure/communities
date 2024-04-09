@@ -6,24 +6,32 @@
       "MichalJankowskii"
     ]
   },
-  "CommunityInfo": {
-    "Name": "Global Azure 2024 - Wrocław Workshop on-site",
-    "Country": "Poland",
-    "Url": "https://www.eventbrite.com/e/global-azure-2024-wrocaw-workshop-on-site-tickets-843084216587",
-    "Description_SessionizeApiId": "https://sessionize.com/api/v2/ig3k50yq/view/Sessions",
-    "SessionizeApiId": "ig3k50yq",
-    "SessionizeEventName": "https://sessionize.com/global-azure-2024-wroclaw-onsite",
-    "Logo": {
-      "Description": "GlobalAzurePolandWroclaw-500x500",
-      "File": "GlobalAzurePolandWroclaw-500x500.png"
-    },
-    "Locations": [
-      {
-        "Name": "Nordcloud sp. z o.o.",
-        "Address": "https://goo.gl/maps/aTk96AZULtxFi5bL6",
-        "Latitude": 51.09740,
-        "Longitude": 17.03430
-      }
-    ]
-  }
+  "CommunityInfo":{
+      "Name": "Global Azure 2024 - Wrocław Workshop on-site",
+      "Country": "Poland",
+      "Url": "https://www.eventbrite.com/e/global-azure-2024-wrocaw-workshop-on-site-tickets-843084216587",
+      "SessionizeApiId": "ig3k50yq",
+      "SessionizeEventName": "https://sessionize.com/global-azure-2024-wroclaw-onsite",
+      "Files":{
+          "EventPage": "index.md",
+          "SponsorsPage": "sponsors.md",
+          "LogoFile": {
+            "Description": "GlobalAzurePolandWroclaw-500x500",
+            "File": "GlobalAzurePolandWroclaw-500x500.png"
+          }
+        },
+      "SamApp": {
+        "AdditionalHosts": []
+      },
+      "Locations": [
+        {
+          "Name": "Nordcloud sp. z o.o.",
+          "StartDate": "2024-04-19",
+          "EndDate": "2024-04-19",
+          "Address": "https://goo.gl/maps/aTk96AZULtxFi5bL6",
+          "Latitude": 51.0974,
+          "Longitude": 17.0343
+        }
+      ]
+    }
 }

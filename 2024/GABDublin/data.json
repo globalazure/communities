@@ -1,31 +1,38 @@
 {
-    "ValidMaintainers": {
-      "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
-      "GitHubHandles": [
-        "followtushar",
-        "",
-        ""
-      ]
-    },
-    "CommunityInfo": {
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "followtushar",
+      "",
+      ""
+    ]
+  },
+  "CommunityInfo":{
       "Name": "TheAzWay",
       "Country": "Ireland",
       "Url": "https://globalazure.theazway.com/",
       "SessionizeApiId": "7174ak9o",
       "SessionizeEventName": "https://sessionize.com/global-azure-bootcamp-dublin/",
-      "Logo": {
-        "Description": "Community logo is a .png file 500X500px named {foldername}.png.",
-        "File": "GABDublin.png"
+      "Files":{
+          "EventPage": "index.md",
+          "SponsorsPage": "sponsors.md",
+          "LogoFile": {
+            "Description": "Community logo is a .png file 500X500px named {foldername}.png.",
+            "File": "GABDublin.png"
+          }
+        },
+      "SamApp": {
+        "AdditionalHosts": []
       },
-      
       "Locations": [
         {
           "Name": "Microsoft Dublin",
+          "StartDate": "2024-04-19",
+          "EndDate": "2024-04-19",
           "Address": "",
           "Latitude": 53.349804,
-          "Longitude": -6.260310
+          "Longitude": -6.26031
         }
       ]
     }
-  }
-  
+}

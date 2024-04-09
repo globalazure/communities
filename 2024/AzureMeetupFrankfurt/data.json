@@ -1,24 +1,34 @@
 {
   "ValidMaintainers": {
     "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
-    "GitHubHandles": [ "poleindraneel" ]
+    "GitHubHandles": ["poleindraneel"]
   },
-  "CommunityInfo": {
-    "Name": "Azure Meetup Frankfurt",
-    "Country": "Germany",
-    "Url": "https://www.meetup.com/Azure-Meetup-Frankfurt/",
-    "SessionizeApiId": "6s2e1aiv",
-    "Logo": {
-      "Description": "Azure Meetup Frankfurt",
-      "File": "azuremeetupfrankfurt.png"
-    },
-    "Locations": [
-      {
-        "Name": "Frankfurt am Main",
-        "Address": "Nibelungenpl. 1, 60318 Frankfurt am Main",
-        "Latitude": 50.13056101938581,
-        "Longitude": 8.692510203622968
-      }
-    ]
-  }
+  "CommunityInfo":{
+      "Name": "Azure Meetup Frankfurt",
+      "Country": "Germany",
+      "Url": "https://www.meetup.com/Azure-Meetup-Frankfurt/",
+      "SessionizeApiId": "6s2e1aiv",
+      "SessionizeEventName": null,
+      "Files":{
+          "EventPage": "index.md",
+          "SponsorsPage": "sponsors.md",
+          "LogoFile": {
+            "Description": "Azure Meetup Frankfurt",
+            "File": "azuremeetupfrankfurt.png"
+          }
+        },
+      "SamApp": {
+        "AdditionalHosts": []
+      },
+      "Locations": [
+        {
+          "Name": "Frankfurt am Main",
+          "StartDate": "2024-04-19",
+          "EndDate": "2024-04-19",
+          "Address": "Nibelungenpl. 1, 60318 Frankfurt am Main",
+          "Latitude": 50.13056101938581,
+          "Longitude": 8.692510203622968
+        }
+      ]
+    }
 }

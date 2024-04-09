@@ -8,22 +8,32 @@
       "kunj-sangani"
     ]
   },
-  "CommunityInfo": {
-    "Name": "Pune Tech Community",
-    "Country": "India",
-    "Url": "https://www.meetup.com/pune-tech-community/events/299269909/",
-    "SessionizeApiId": "g08mn03o",
-    "Logo": {
-      "Description": "Global Azure 2024 by Pune Tech Community",
-      "File": "punetechcommunity.png"
-    },
-    "Locations": [
-      {
-        "Name": "Pune",
-        "Address": "Pune",
-        "Latitude": 18.516726,
-        "Longitude": 73.856255
-      }
-    ]
-  }
+  "CommunityInfo":{
+      "Name": "Pune Tech Community",
+      "Country": "India",
+      "Url": "https://www.meetup.com/pune-tech-community/events/299269909/",
+      "SessionizeApiId": "g08mn03o",
+      "SessionizeEventName": null,
+      "Files":{
+          "EventPage": "index.md",
+          "SponsorsPage": "sponsors.md",
+          "LogoFile": {
+            "Description": "Global Azure 2024 by Pune Tech Community",
+            "File": "punetechcommunity.png"
+          }
+        },
+      "SamApp": {
+        "AdditionalHosts": []
+      },
+      "Locations": [
+        {
+          "Name": "Pune",
+          "StartDate": "2024-04-19",
+          "EndDate": "2024-04-19",
+          "Address": "Pune",
+          "Latitude": 18.516726,
+          "Longitude": 73.856255
+        }
+      ]
+    }
 }

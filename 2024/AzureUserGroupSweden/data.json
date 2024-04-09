@@ -6,23 +6,32 @@
       "jonahandersson"
     ]
   },
-  "CommunityInfo": {
-    "Name": "Azure User Group Sweden",
-    "Country": "Sweden",
-    "Url": "https://sessionize.com/global-azure-sweden-2024/",
-    "SessionizeApiId": "zyb14zo2",
-    "Description_SessionizeApiId": "",
-    "SessionizeEventName": "global-azure-sweden-2024",
-    "Locations": [ 
-      {
-        "Name": "Sundsvall",
-        "Latitude": 62.390812,
-        "Longitude": 17.306927
-      }
-    ],
-    "Logo": {
-      "Description": "Logo Global Azure Sweden.",
-      "File": "GlobalAzureSweden.png"
+  "CommunityInfo":{
+      "Name": "Azure User Group Sweden",
+      "Country": "Sweden",
+      "Url": "https://sessionize.com/global-azure-sweden-2024/",
+      "SessionizeApiId": "zyb14zo2",
+      "SessionizeEventName": "global-azure-sweden-2024",
+      "Files":{
+          "EventPage": "index.md",
+          "SponsorsPage": "sponsors.md",
+          "LogoFile": {
+            "Description": "Logo Global Azure Sweden.",
+            "File": "GlobalAzureSweden.png"
+          }
+        },
+      "SamApp": {
+        "AdditionalHosts": []
+      },
+      "Locations": [
+        {
+          "Name": "Sundsvall",
+          "StartDate": "2024-04-19",
+          "EndDate": "2024-04-19",
+          "Address": null,
+          "Latitude": 62.390812,
+          "Longitude": 17.306927
+        }
+      ]
     }
-  }
 }

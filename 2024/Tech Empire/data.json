@@ -1,25 +1,34 @@
 {
   "ValidMaintainers": {
     "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
-    "GitHubHandles": [
-      "itstalmeez"
-    ]
+    "GitHubHandles": ["itstalmeez"]
   },
-  "CommunityInfo": {
-    "Name": "Tech Empire",
-    "Country": "Pakistan",
-    "Url": "https://itstalmeez.me",
-    "Logo": {
-      "Description": "Tech Empire",
-      "File": "TE logo light.png"
-    },
-    "Locations": [
-      {
-        "Name": "Barani Institute of Sciences Sahiwal Campus",
-        "Address": "520 B-7 Jail Rd, Sahiwal, Sahiwal District, Punjab 57000",
-        "Latitude": 30.6682,
-        "Longitude": 73.1114
-      }
-    ]
-  }
+  "CommunityInfo":{
+      "Name": "Tech Empire",
+      "Country": "Pakistan",
+      "Url": "https://itstalmeez.me",
+      "SessionizeApiId": null,
+      "SessionizeEventName": null,
+      "Files":{
+          "EventPage": "index.md",
+          "SponsorsPage": "sponsors.md",
+          "LogoFile": {
+            "Description": "Tech Empire",
+            "File": "TE logo light.png"
+          }
+        },
+      "SamApp": {
+        "AdditionalHosts": []
+      },
+      "Locations": [
+        {
+          "Name": "Barani Institute of Sciences Sahiwal Campus",
+          "StartDate": "2024-04-19",
+          "EndDate": "2024-04-19",
+          "Address": "520 B-7 Jail Rd, Sahiwal, Sahiwal District, Punjab 57000",
+          "Latitude": 30.6682,
+          "Longitude": 73.1114
+        }
+      ]
+    }
 }

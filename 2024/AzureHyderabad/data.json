@@ -1,26 +1,34 @@
 {
-    "ValidMaintainers": {
-      "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
-      "GitHubHandles": [
-        "prayankag"
-      ]
-    },
-    "CommunityInfo": {
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": ["prayankag"]
+  },
+  "CommunityInfo":{
       "Name": "ValueMomentum Azure Community - Hyderabad",
       "Country": "India",
       "Url": "https://globalazure2024.azurewebsites.net/",
       "SessionizeApiId": "",
-      "Logo": {
-        "Description": "Valuemomentum Global Azure logo",
-        "File": "AzureVMLogo.png"
+      "SessionizeEventName": null,
+      "Files":{
+          "EventPage": "index.md",
+          "SponsorsPage": "sponsors.md",
+          "LogoFile": {
+            "Description": "Valuemomentum Global Azure logo",
+            "File": "AzureVMLogo.png"
+          }
+        },
+      "SamApp": {
+        "AdditionalHosts": []
       },
       "Locations": [
         {
           "Name": "ValueMomentum Software Services Pvt Ltd",
+          "StartDate": "2024-04-19",
+          "EndDate": "2024-04-19",
           "Address": "Plot No 36 & 37, ValueMomentum Towers, Financial District, Nanakaramguda, Telangana 500032",
-          "Latitude": 17.4219020, 
-          "Longitude": 78.3321380
+          "Latitude": 17.421902,
+          "Longitude": 78.332138
         }
       ]
     }
-  }
+}

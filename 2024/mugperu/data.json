@@ -6,22 +6,32 @@
       "jcastanedacano"
     ]
   },
-  "CommunityInfo": {
-    "Name": "MUG Peru",
-    "Country": "Perú",
-    "Url": "https://www.meetup.com/es/msperu/events/285086738/",
-    "Logo": {
-      "Description": "Global Azure 2024 Perú Edition",
-      "File": "mugperu.png"
-    },
-    "Locations": [
-      {
-        "Name": "Lima",
-        "Address":"Online",
-        "Latitude": -12.04318 ,
-        "Longitude": -77.02824
-      }
-    ]
-  }
+  "CommunityInfo":{
+      "Name": "MUG Peru",
+      "Country": "Perú",
+      "Url": "https://www.meetup.com/es/msperu/events/285086738/",
+      "SessionizeApiId": null,
+      "SessionizeEventName": null,
+      "Files":{
+          "EventPage": "index.md",
+          "SponsorsPage": "sponsors.md",
+          "LogoFile": {
+            "Description": "Global Azure 2024 Perú Edition",
+            "File": "mugperu.png"
+          }
+        },
+      "SamApp": {
+        "AdditionalHosts": []
+      },
+      "Locations": [
+        {
+          "Name": "Lima",
+          "StartDate": "2024-04-19",
+          "EndDate": "2024-04-19",
+          "Address": "Online",
+          "Latitude": -12.04318,
+          "Longitude": -77.02824
+        }
+      ]
+    }
 }
-

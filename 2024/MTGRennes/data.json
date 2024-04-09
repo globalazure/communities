@@ -1,28 +1,34 @@
 {
   "ValidMaintainers": {
     "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
-    "GitHubHandles": [
-      "YoannGUILLO"
-    ]
+    "GitHubHandles": ["YoannGUILLO"]
   },
-  "CommunityInfo": {
-    "Name": "Microsoft Tech Group Rennes",
-    "Country": "France",
-    "Url": "https://globalazurerennes2024.eventbrite.com",
-    "Description_SessionizeApiId": "If you have configured your Sessionize correctly then browsing to this url (replacing {Your sessionize event Id} with your event sessionize id) will return valid json: https://sessionize.com/api/v2/{Your sessionize event Id}/view/Sessions",
-    "SessionizeApiId": "",
-    "SessionizeEventName": "",
-    "Logo": {
-      "Description": "Microsoft Tech Group Rennes Logo",
-      "File": "MTGRennes.png"
-    },
-    "Locations": [
-      {
-        "Name": "Rennes",
-        "Address": "Epitech, 19-22 Bd Saint-Conwoïon, 35000 Rennes",
-        "Latitude": 48.103889,
-        "Longitude": -1.688790
-      }
-    ]
-  }
+  "CommunityInfo":{
+      "Name": "Microsoft Tech Group Rennes",
+      "Country": "France",
+      "Url": "https://globalazurerennes2024.eventbrite.com",
+      "SessionizeApiId": "",
+      "SessionizeEventName": "",
+      "Files":{
+          "EventPage": "index.md",
+          "SponsorsPage": "sponsors.md",
+          "LogoFile": {
+            "Description": "Microsoft Tech Group Rennes Logo",
+            "File": "MTGRennes.png"
+          }
+        },
+      "SamApp": {
+        "AdditionalHosts": []
+      },
+      "Locations": [
+        {
+          "Name": "Rennes",
+          "StartDate": "2024-04-19",
+          "EndDate": "2024-04-19",
+          "Address": "Epitech, 19-22 Bd Saint-Conwoïon, 35000 Rennes",
+          "Latitude": 48.103889,
+          "Longitude": -1.68879
+        }
+      ]
+    }
 }

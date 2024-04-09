@@ -1,28 +1,37 @@
 {
-    "ValidMaintainers": {
-      "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
-      "GitHubHandles": [
-        "jameswestall",
-        "DaniduWeerasinghe911"
-      ]
-    },
-    "CommunityInfo": {
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "jameswestall",
+      "DaniduWeerasinghe911"
+    ]
+  },
+  "CommunityInfo":{
       "Name": "Melbourne Azure Nights User Group",
       "Country": "Australia",
       "Url": "https://www.meetup.com/melbourne-azure-nights/",
       "SessionizeApiId": "ljvx5zxj",
-      "Description_SessionizeApiId": "https://sessionize.com/api/v2/ljvx5zxj/view/Sessions",
       "SessionizeEventName": "Global Azure Melbourne 2024",
+      "Files":{
+          "EventPage": "index.md",
+          "SponsorsPage": "sponsors.md",
+          "LogoFile": {
+            "Description": "Azure User Group Melbourne logo.",
+            "File": "MelbourneAzureUG.png"
+          }
+        },
+      "SamApp": {
+        "AdditionalHosts": []
+      },
       "Locations": [
         {
           "Name": "Melbourne",
+          "StartDate": "2024-04-19",
+          "EndDate": "2024-04-19",
+          "Address": null,
           "Latitude": -37.8136,
           "Longitude": 144.9631
         }
-      ],
-      "Logo": {
-        "Description": "Azure User Group Melbourne logo.",
-        "File": "MelbourneAzureUG.png"
-      }
+      ]
     }
-  }
+}

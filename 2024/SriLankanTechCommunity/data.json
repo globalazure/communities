@@ -6,21 +6,32 @@
       "hadshana"
     ]
   },
-  "CommunityInfo": {
-    "Name": "Sri Lankan Tech Community",
-    "Country": "Sri Lanka",
-    "Url": "https://www.sltechcommunity.lk/", 
-    "Logo": {
-      "Description": "Community logo is a .png file 500X500px named sltc.png.",
-      "File": "sltc.png"
-    },
-    "Locations": [
-      {
-        "Name": "Sri Lanka",
-        "Address": "IMC AIC Campus Batticaloa",
-        "Latitude": 7.72149,
-        "Longitude": 81.70235
-      }
-    ]
-  }
+  "CommunityInfo":{
+      "Name": "Sri Lankan Tech Community",
+      "Country": "Sri Lanka",
+      "Url": "https://www.sltechcommunity.lk/",
+      "SessionizeApiId": null,
+      "SessionizeEventName": null,
+      "Files":{
+          "EventPage": "index.md",
+          "SponsorsPage": "sponsors.md",
+          "LogoFile": {
+            "Description": "Community logo is a .png file 500X500px named sltc.png.",
+            "File": "sltc.png"
+          }
+        },
+      "SamApp": {
+        "AdditionalHosts": []
+      },
+      "Locations": [
+        {
+          "Name": "Sri Lanka",
+          "StartDate": "2024-04-19",
+          "EndDate": "2024-04-19",
+          "Address": "IMC AIC Campus Batticaloa",
+          "Latitude": 7.72149,
+          "Longitude": 81.70235
+        }
+      ]
+    }
 }

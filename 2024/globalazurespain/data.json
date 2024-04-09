@@ -7,35 +7,48 @@
       "santypr"
     ]
   },
-  "CommunityInfo": {
-    "Name": "Global Azure Spain",
-    "Country": "Spain",
-    "Url": "https://globalazure.es",
-    "SessionizeApiId": "zvtsb0dr",
-    "SessionizeEventName": "https://sessionize.com/global-azure-2024-spain/",
-    "Logo": {
-      "Description": "Community logo is a .png file 500X500px named {foldername}.png.",
-      "File": "GlobalAzure2024LiveFromSpain-250.png"
-    },
-    "Locations": [
-      {
-        "Name": "Madrid",
-        "Address": "Kinépolis Diversia, C.C. Heron Diversia, Av. de Bruselas, 21, 28108 Alcobendas, Madrid",
-        "Latitude": 40.5300823,
-        "Longitude": -3.6422473
+  "CommunityInfo":{
+      "Name": "Global Azure Spain",
+      "Country": "Spain",
+      "Url": "https://globalazure.es",
+      "SessionizeApiId": "zvtsb0dr",
+      "SessionizeEventName": "https://sessionize.com/global-azure-2024-spain/",
+      "Files":{
+          "EventPage": "index.md",
+          "SponsorsPage": "sponsors.md",
+          "LogoFile": {
+            "Description": "Community logo is a .png file 500X500px named {foldername}.png.",
+            "File": "GlobalAzure2024LiveFromSpain-250.png"
+          }
+        },
+      "SamApp": {
+        "AdditionalHosts": []
       },
-      {
-        "Name": "Barcelona",
-        "Address": "NTT DATA Towers, Av. d\'Icària, 199, 211, 08005 Barcelona"
-        "Latitude": 41.3939531,
-        "Longitude": 2.1975338
-      },
-      {
-        "Name": "Zaragoza",
-        "Address": "Hiberus, P.º de Isabel la Católica, 6, 50009 Zaragoza",
-        "Latitude": 41.6369216,
-        "Longitude": -0.8996619
-      }
-    ]
-  }
+      "Locations": [
+        {
+          "Name": "Madrid",
+          "StartDate": "2024-04-19",
+          "EndDate": "2024-04-19",
+          "Address": "Kinépolis Diversia, C.C. Heron Diversia, Av. de Bruselas, 21, 28108 Alcobendas, Madrid",
+          "Latitude": 40.5300823,
+          "Longitude": -3.6422473
+        },
+        {
+          "Name": "Barcelona",
+          "StartDate": "2024-04-19",
+          "EndDate": "2024-04-19",
+          "Address": "NTT DATA Towers, Av. d 'Icària, 199, 211, 08005 Barcelona",
+          "Latitude": 41.3939531,
+          "Longitude": 2.1975338
+        },
+        {
+          "Name": "Zaragoza",
+          "StartDate": "2024-04-19",
+          "EndDate": "2024-04-19",
+          "Address": "Hiberus, P.º de Isabel la Católica, 6, 50009 Zaragoza",
+          "Latitude": 41.6369216,
+          "Longitude": -0.8996619
+        }
+      ]
+    }
 }
