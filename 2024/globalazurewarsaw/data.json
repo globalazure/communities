@@ -1,0 +1,29 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "PiotrWachulec",
+      "barozi",
+      "mmisztal1980"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Global Azure Warsaw",
+    "Country": "Poland",
+    "Url": "https://globalazure2024.azurepoland.pl/",
+    "Description_SessionizeApiId": "",
+    "SessionizeApiId": "",
+    "SessionizeEventName": "",
+    "Logo": {
+      "Description": "Global Azure 2023 Warsaw Edition logo",
+      "File": "GlobalAzure2023WarsawWhite500x500.png"
+    },
+    "Locations": [
+      {
+        "Name": "Warsaw",
+        "Latitude": 52.23182,
+        "Longitude": 21.00626
+      }
+    ]
+  }
+}
