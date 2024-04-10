@@ -1,0 +1,28 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "Andrzejkokocinski",
+      "PiotrWachulec"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Global Azure Łódź",
+    "Country": "Poland",
+    "Url": "https://globalazure2024.azurepoland.pl/",
+    "Description_SessionizeApiId": "",
+    "SessionizeApiId": "",
+    "SessionizeEventName": "",
+    "Logo": {
+      "Description": "GlobalAzureLodz",
+      "File": "GlobalAzurelodz.png"
+    },
+    "Locations": [
+      {
+        "Name": "Lodz",
+        "Latitude": 51.759326199155716,
+        "Longitude": 19.459243665523722
+      }
+    ]
+  }
+}
