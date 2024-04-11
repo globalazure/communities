@@ -16,7 +16,7 @@
     "SessionizeEventName": "",
     "EventPage": "index.md",
     "SponsorsPage": "sponsors.md",
-    "LogoFile": {
+    "Logo": {
       "Description": "Azure Skåne Logo",
       "File": "azureskane.png"
     },
