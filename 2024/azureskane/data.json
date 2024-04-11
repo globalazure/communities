@@ -14,13 +14,11 @@
     "Url": "https://www.meetup.com/Azure-Skane/",
     "SessionizeApiId": "",
     "SessionizeEventName": "",
-    "Files": {
-      "EventPage": "index.md",
-      "SponsorsPage": "sponsors.md",
-      "LogoFile": {
-        "Description": "Azure Skåne Logo",
-        "File": "azureskane.png"
-      }
+    "EventPage": "index.md",
+    "SponsorsPage": "sponsors.md",
+    "LogoFile": {
+      "Description": "Azure Skåne Logo",
+      "File": "azureskane.png"
     },
     "SamApp": {
       "AdditionalHosts": []
