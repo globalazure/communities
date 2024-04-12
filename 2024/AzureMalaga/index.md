@@ -15,8 +15,10 @@ Key information:
 
 If you have any questions, feedback or thoughts, please reach out to [the community organizers](https://azuremalaga.com/organiza/).
 
-_Agenda will be updated after the Call for Speakers is over!_
-
 [![Azure Malaga](azureMalaga.png "Azure Malaga")](https://azuremalaga.com/)
 
-[![Sevendos](Sevendos_500px.png "Sevendos")](https://sevendos.com/)
+*Sponsors*
+
+[![Sevendos](Sevendos.png "Sevendos")](https://sevendos.com/)
+[![Oktett](Oktett.png "Oktett")](https://oktett.no//)
+[![Polar Squad](Polarsquad.png "Polar Squad")](https://polarsquad.com/)
