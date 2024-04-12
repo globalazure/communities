@@ -20,18 +20,21 @@
     "Locations": [
       {
         "Name": "Madrid",
-        "Latitude": 40.416775,
-        "Longitude": -3.703790
+        "Address": "Kinépolis Diversia, C.C. Heron Diversia, Av. de Bruselas, 21, 28108 Alcobendas, Madrid",
+        "Latitude": 40.5300823,
+        "Longitude": -3.6422473
       },
       {
         "Name": "Barcelona",
-        "Latitude": 41.385064,
-        "Longitude": 2.173403
+        "Address": "NTT DATA Towers, Av. d\'Icària, 199, 211, 08005 Barcelona"
+        "Latitude": 41.3939531,
+        "Longitude": 2.1975338
       },
       {
         "Name": "Zaragoza",
-        "Latitude": 41.651750,
-        "Longitude": -0.930000
+        "Address": "Hiberus, P.º de Isabel la Católica, 6, 50009 Zaragoza",
+        "Latitude": 41.6369216,
+        "Longitude": -0.8996619
       }
     ]
   }

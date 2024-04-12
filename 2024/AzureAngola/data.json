@@ -5,7 +5,7 @@
         "joseqcosta",
         "tiagocostapt"
       ]
-    },
+    }, 
     "CommunityInfo": {
       "Name": "Azure User Group Angola",
       "Country": "Angola",
@@ -22,7 +22,7 @@
       ],
       "Logo": {
         "Description": "Logo Azure User Group Angola.",
-        "File": "azugao.jpg"
+        "File": "AZUGAO.jpg"
       }
     }
   }

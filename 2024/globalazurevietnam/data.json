@@ -1,0 +1,28 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "thiennn",
+      "trumhemcut",
+      "thangchung"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "DEV Cafe",
+    "Country": "Vietnam",
+    "Url": "https://devcafevn.github.io/globalazure2024/",
+    "SessionizeApiId": "{Your sessionize event Id}",
+    "Logo": {
+      "Description": "Community logo is a .png file 500X500px named {foldername}.png.",
+      "File": "globalazurevietnam.png"
+    },
+    "Locations": [
+      {
+        "Name": "NashTech Vietnam",
+        "Address": "Etown 4, 364 Cong Hoa, Tan Binh, HCMC",
+        "Latitude": 10.801008,
+        "Longitude": 106.640738
+      }
+    ]
+  }
+}

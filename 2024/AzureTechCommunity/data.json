@@ -1,0 +1,25 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "synergetics-learning"
+      ]
+  },
+  "CommunityInfo": {
+    "Name": "Azure Tech Community",
+    "Country": "India",
+    "Url": "https://www.meetup.com/Emerging-Technology-Meetup/",
+    "Logo": {
+      "Description": "Azure Tech Community - Logo",
+      "File": "ATC-Logo.png"
+    },
+    "Locations": [
+      {
+        "Description": "Each location where your community will be running a Global Azure event.",
+        "Name": "MUMBAI",
+        "Address": "Andheri"
+        
+      }
+    ]
+  }
+}

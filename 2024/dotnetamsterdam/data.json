@@ -1,0 +1,29 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "eriklieben"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "dotnet.Amsterdam",
+    "Country": "Netherlands",
+    "Url": "https://www.meetup.com/dotnet-amsterdam/events/299447717/",
+    "Description_SessionizeApiId": "If you have configured your Sessionize correctly then browsing to this url (replacing {Your sessionize event Id} with your event sessionize id) will return valid json: https://sessionize.com/api/v2/{Your sessionize event Id}/view/Sessions",
+    "SessionizeApiId": "w4ejv2ay",
+    "SessionizeEventName": "dotnet-amsterdam-global-azure",
+    "Logo": {
+      "Description": "Logo dotnet.amsterdam",
+      "File": "dotnetamsterdam.png"
+    },
+    "Locations": [
+      {
+        "Description": "Each location where your community will be running a Global Azure event.",
+        "Name": "Amsterdam",
+        "Description_Lat_Lon": "The Lat and Lon location for where you want your community pin on the Global Azure Community Map (example 47.6457554, -122.1299952).",
+        "Latitude": 52.3720142,
+        "Longitude": 4.8925015
+      }
+    ]
+  }
+}
