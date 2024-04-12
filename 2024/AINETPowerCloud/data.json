@@ -1,0 +1,28 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "ppiova"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "AI .NET Power Cloud Community",
+    "Country": "Mexico",
+    "Url": "https://linktr.ee/ainetpowercloud",
+    "SessionizeApiId": "n8l1aoqy",
+    "Description_SessionizeApiId": "https://sessionize.com/api/v2/n8l1aoqy/view/Sessions",
+    "SessionizeEventName": "https://sessionize.com/global-azure-2024-ainetpcc/",
+    "Logo": {
+      "Description": "AI .NET Power Cloud Community",
+      "File": "AINetPowerCloud-Logo.png"
+    },
+    "Locations": [
+      {
+        "Name": "Celaya",
+        "Address": "Antonio García Cubas 1200, Alfredo Vazquez Bonfil, 38010 Celaya, Gto., México",
+        "Latitude": 20.540775, 
+        "Longitude": -100.812986
+      }
+    ]
+  }
+}
