@@ -21,4 +21,4 @@ If you have any questions, feedback or thoughts, please reach out to [the commun
 
 [![Sevendos](Sevendos.png "Sevendos")](https://sevendos.com/)
 [![Oktett](Oktett.png "Oktett")](https://oktett.no//)
-[![Polar Squad](Polarsquad.png "Polar Squad")](https://polarsquad.com/)
+[![Polar Squad](PolarSquad.png "Polar Squad")](https://polarsquad.com/)
