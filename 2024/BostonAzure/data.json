@@ -12,15 +12,22 @@
     "Country": "USA",
     "Url": "https://www.meetup.com/bostonazure/events/300138716/",
     "SessionizeApiId": "",
-    "Description_SessionizeApiId": "If you have configured your Sessionize correctly then browsing to this url (replacing {Your sessionize event Id} with your event sessionize id) will return valid json: https://sessionize.com/api/v2/{Your sessionize event Id}/view/Sessions",
     "SessionizeEventName": "{Your sessionize event name (or complete URL to the public Sessionize C4P, i.e. https://sessionize.com/global-azure or just global-azure)}",
+    "Description_SessionizeApiId": "If you have configured your Sessionize correctly then browsing to this url (replacing {Your sessionize event Id} with your event sessionize id) will return valid json: https://sessionize.com/api/v2/{Your sessionize event Id}/view/Sessions",
+    "EventPage": "index.md",
+    "SponsorsPage": "sponsors.md",
     "Logo": {
       "Description": "Boston Azure Logo",
       "File": "bostonazure.png"
     },
+    "SamApp": {
+      "AdditionalHosts": []
+    },
     "Locations": [
       {
         "Name": "Microsoft NERD in Cambridge MA",
+        "StartDate": "2024-04-19",
+        "EndDate": "2024-04-19",
         "Address": "One Memorial Drivem, Cambridge, MA 02142",
         "Latitude": 42.362238,
         "Longitude": -71.080728

@@ -12,13 +12,22 @@
     "Country": "Vietnam",
     "Url": "https://devcafevn.github.io/globalazure2024/",
     "SessionizeApiId": "{Your sessionize event Id}",
+    "SessionizeEventName": null,
+    "Description_SessionizeApiId": null,
+    "EventPage": "index.md",
+    "SponsorsPage": "sponsors.md",
     "Logo": {
       "Description": "Community logo is a .png file 500X500px named {foldername}.png.",
       "File": "globalazurevietnam.png"
     },
+    "SamApp": {
+      "AdditionalHosts": []
+    },
     "Locations": [
       {
         "Name": "NashTech Vietnam",
+        "StartDate": "2024-04-19",
+        "EndDate": "2024-04-19",
         "Address": "Etown 4, 364 Cong Hoa, Tan Binh, HCMC",
         "Latitude": 10.801008,
         "Longitude": 106.640738

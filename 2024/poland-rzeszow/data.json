@@ -10,16 +10,23 @@
     "Name": "Global Azure - Poland / Rzeszow",
     "Country": "Poland",
     "Url": "https://www.eventbrite.com/e/wprowadzanie-do-infrastructure-as-code-w-azure-z-wykorzystanie-microsoft-bicep-jak-napisac-swoj-p-tickets-876288170507",
-    "Description_SessionizeApiId": "",
     "SessionizeApiId": "",
     "SessionizeEventName": "",
+    "Description_SessionizeApiId": "",
+    "EventPage": "index.md",
+    "SponsorsPage": "sponsors.md",
     "Logo": {
       "Description": "GlobalAzurePolandRzeszów",
       "File": "{Logofilename}"
     },
+    "SamApp": {
+      "AdditionalHosts": []
+    },
     "Locations": [
       {
         "Name": "OnSite",
+        "StartDate": "2024-04-19",
+        "EndDate": "2024-04-19",
         "Address": "20B aleja Tadeusza Rejtana 35-310 Rzeszów (SII Polska)",
         "Latitude": 50.02727190565314,
         "Longitude": 22.01605421122064

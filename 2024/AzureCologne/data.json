@@ -1,28 +1,36 @@
 {
-    "ValidMaintainers": {
-      "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
-      "GitHubHandles": [
-        "tiagocostapt",
-        "rakoellner"
-      ]
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "tiagocostapt",
+      "rakoellner"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Azure Meetup Cologne",
+    "Country": "Germany",
+    "Url": "https://azurecgn.de/",
+    "SessionizeApiId": "ku12jzt6",
+    "SessionizeEventName": "Azure Global Bootcamp Cologne 2024",
+    "Description_SessionizeApiId": "https://sessionize.com/api/v2/ku12jzt6/view/Sessions",
+    "EventPage": "index.md",
+    "SponsorsPage": "sponsors.md",
+    "Logo": {
+      "Description": "Azure User Group Germany Cologne logo.",
+      "File": "azurecgn.png"
     },
-    "CommunityInfo": {
-      "Name": "Azure Meetup Cologne",
-      "Country": "Germany",
-      "Url": "https://azurecgn.de/",
-      "SessionizeApiId": "ku12jzt6",
-      "Description_SessionizeApiId": "https://sessionize.com/api/v2/ku12jzt6/view/Sessions",
-      "SessionizeEventName": "Azure Global Bootcamp Cologne 2024",
-      "Locations": [
-        {
-          "Name": "Cologne",
-          "Latitude":50.9412,
-          "Longitude":6.9583
-        }
-      ],
-      "Logo": {
-        "Description": "Azure User Group Germany Cologne logo.",
-        "File": "azurecgn.png"
+    "SamApp": {
+      "AdditionalHosts": []
+    },
+    "Locations": [
+      {
+        "Name": "Cologne",
+        "StartDate": "2024-04-19",
+        "EndDate": "2024-04-19",
+        "Address": null,
+        "Latitude": 50.9412,
+        "Longitude": 6.9583
       }
-    }
+    ]
   }
+}

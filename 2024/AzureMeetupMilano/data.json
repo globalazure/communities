@@ -1,27 +1,36 @@
 {
-    "ValidMaintainers": {
-      "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
-      "GitHubHandles": [
-        "geniodelmale",
-        "andysal"
-      ]
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "geniodelmale",
+      "andysal"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Azure Meetup Milano",
+    "Country": "Italy",
+    "Url": "https://www.azuremeetupmilano.it/",
+    "SessionizeApiId": null,
+    "SessionizeEventName": null,
+    "Description_SessionizeApiId": null,
+    "EventPage": "index.md",
+    "SponsorsPage": "sponsors.md",
+    "Logo": {
+      "Description": "Azure Meetup Milano",
+      "File": "AzureMeetupMilano_500px.png"
     },
-    "CommunityInfo": {
-      "Name": "Azure Meetup Milano",
-      "Country": "Italy",
-      "Url": "https://www.azuremeetupmilano.it/",
-      "Logo": {
-        "Description": "Azure Meetup Milano",
-        "File": "AzureMeetupMilano_500px.png"
-      },
-      "Locations": [
-        {
-          "Name": "Microsoft House",
-          "Address": "Viale Pasubio 21, 20154 Milano",
-          "Latitude": 45.481891,
-          "Longitude": 9.183403
-        }
-      ]
-    }
+    "SamApp": {
+      "AdditionalHosts": []
+    },
+    "Locations": [
+      {
+        "Name": "Microsoft House",
+        "StartDate": "2024-04-19",
+        "EndDate": "2024-04-19",
+        "Address": "Viale Pasubio 21, 20154 Milano",
+        "Latitude": 45.481891,
+        "Longitude": 9.183403
+      }
+    ]
   }
-  
+}

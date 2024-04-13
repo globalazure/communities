@@ -9,13 +9,23 @@
     "Name": "Virtual DEV Show (ATG)",
     "Country": "Colombia",
     "Url": "https://virtualdevshow.com/GlobalAzure2024/",
+    "SessionizeApiId": null,
+    "SessionizeEventName": null,
+    "Description_SessionizeApiId": null,
+    "EventPage": "index.md",
+    "SponsorsPage": "sponsors.md",
     "Logo": {
       "Description": "Virtual DEV Show (ATG)",
       "File": "logo.png"
     },
+    "SamApp": {
+      "AdditionalHosts": []
+    },
     "Locations": [
       {
         "Name": "Virtual DEV Show (ATG)",
+        "StartDate": "2024-04-19",
+        "EndDate": "2024-04-19",
         "Address": "Bogota",
         "Latitude": 4.6733864,
         "Longitude": -74.0489991

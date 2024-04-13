@@ -10,17 +10,24 @@
     "Country": "Mexico",
     "Url": "https://linktr.ee/ainetpowercloud",
     "SessionizeApiId": "n8l1aoqy",
-    "Description_SessionizeApiId": "https://sessionize.com/api/v2/n8l1aoqy/view/Sessions",
     "SessionizeEventName": "https://sessionize.com/global-azure-2024-ainetpcc/",
+    "Description_SessionizeApiId": "https://sessionize.com/api/v2/n8l1aoqy/view/Sessions",
+    "EventPage": "index.md",
+    "SponsorsPage": "sponsors.md",
     "Logo": {
       "Description": "AI .NET Power Cloud Community",
       "File": "AINetPowerCloud-Logo.png"
     },
+    "SamApp": {
+      "AdditionalHosts": []
+    },
     "Locations": [
       {
         "Name": "Celaya",
+        "StartDate": "2024-04-19",
+        "EndDate": "2024-04-19",
         "Address": "Antonio García Cubas 1200, Alfredo Vazquez Bonfil, 38010 Celaya, Gto., México",
-        "Latitude": 20.540775, 
+        "Latitude": 20.540775,
         "Longitude": -100.812986
       }
     ]

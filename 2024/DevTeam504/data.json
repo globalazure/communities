@@ -10,13 +10,23 @@
     "Name": "DevTeam504",
     "Country": "Honduras",
     "Url": "https://www.meetup.com/es-ES/devteam504/",
+    "SessionizeApiId": null,
+    "SessionizeEventName": null,
+    "Description_SessionizeApiId": null,
+    "EventPage": "index.md",
+    "SponsorsPage": "sponsors.md",
     "Logo": {
       "Description": "DevTeam504",
       "File": "devteam504.png"
     },
+    "SamApp": {
+      "AdditionalHosts": []
+    },
     "Locations": [
       {
         "Name": "Honduras",
+        "StartDate": "2024-04-19",
+        "EndDate": "2024-04-19",
         "Address": "San Pedro Sula, Cortés",
         "Latitude": 15.5299997,
         "Longitude": -88.0319371

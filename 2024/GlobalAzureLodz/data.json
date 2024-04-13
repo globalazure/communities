@@ -10,16 +10,24 @@
     "Name": "Global Azure Łódź",
     "Country": "Poland",
     "Url": "https://globalazure2024.azurepoland.pl/",
-    "Description_SessionizeApiId": "",
     "SessionizeApiId": "",
     "SessionizeEventName": "",
+    "Description_SessionizeApiId": "",
+    "EventPage": "index.md",
+    "SponsorsPage": "sponsors.md",
     "Logo": {
       "Description": "GlobalAzureLodz",
       "File": "GlobalAzurelodz.png"
     },
+    "SamApp": {
+      "AdditionalHosts": []
+    },
     "Locations": [
       {
         "Name": "Lodz",
+        "StartDate": "2024-04-19",
+        "EndDate": "2024-04-19",
+        "Address": null,
         "Latitude": 51.759326199155716,
         "Longitude": 19.459243665523722
       }

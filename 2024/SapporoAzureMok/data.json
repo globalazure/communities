@@ -9,20 +9,27 @@
   "CommunityInfo": {
     "Name": "SapporoAzureMok2",
     "Country": "Japan",
-    "Url": "https://sapporoazuremok2.connpass.com/", 
-    "Description_SessionizeApiId": "If you have configured your Sessionize correctly then browsing to this url (replacing {Your sessionize event Id} with your event sessionize id) will return valid json: https://sessionize.com/api/v2/{Your sessionize event Id}/view/Sessions",
+    "Url": "https://sapporoazuremok2.connpass.com/",
     "SessionizeApiId": "",
     "SessionizeEventName": "",
+    "Description_SessionizeApiId": "If you have configured your Sessionize correctly then browsing to this url (replacing {Your sessionize event Id} with your event sessionize id) will return valid json: https://sessionize.com/api/v2/{Your sessionize event Id}/view/Sessions",
+    "EventPage": "index.md",
+    "SponsorsPage": "sponsors.md",
     "Logo": {
       "Description": "Community logo is a .png file 300X300px in this folder!",
       "File": "SapporoAzureMok2Logo.png"
     },
+    "SamApp": {
+      "AdditionalHosts": []
+    },
     "Locations": [
       {
         "Name": "Sapporo Ubiquitous Co-creation Square U-cala",
+        "StartDate": "2024-04-19",
+        "EndDate": "2024-04-19",
         "Address": "Sapporo Factory article 1 building 1st floor, 1-1 Kita1-higashi4, Chuo Ku, Sapporo, Hokkaido",
         "Latitude": 43.064625,
-        "Longitude": 141.362420
+        "Longitude": 141.36242
       }
     ]
   }
