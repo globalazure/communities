@@ -9,14 +9,24 @@
   "CommunityInfo": {
     "Name": "Sri Lankan Tech Community",
     "Country": "Sri Lanka",
-    "Url": "https://www.sltechcommunity.lk/", 
+    "Url": "https://www.sltechcommunity.lk/",
+    "SessionizeApiId": null,
+    "SessionizeEventName": null,
+    "Description_SessionizeApiId": null,
+    "EventPage": "index.md",
+    "SponsorsPage": "sponsors.md",
     "Logo": {
       "Description": "Community logo is a .png file 500X500px named sltc.png.",
       "File": "sltc.png"
     },
+    "SamApp": {
+      "AdditionalHosts": []
+    },
     "Locations": [
       {
         "Name": "Sri Lanka",
+        "StartDate": "2024-04-19",
+        "EndDate": "2024-04-19",
         "Address": "IMC AIC Campus Batticaloa",
         "Latitude": 7.72149,
         "Longitude": 81.70235

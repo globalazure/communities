@@ -9,16 +9,24 @@
     "Name": "Northern Azure User Group",
     "Country": "United Kingdom",
     "Url": "https://www.meetup.com/northern-azure-user-group/events/299657867/",
+    "SessionizeApiId": null,
+    "SessionizeEventName": null,
+    "Description_SessionizeApiId": null,
+    "EventPage": "index.md",
+    "SponsorsPage": "sponsors.md",
     "Logo": {
       "Description": "NAUK UK Square500x500 png",
       "File": "NAUGUKSquare500x500.png"
     },
+    "SamApp": {
+      "AdditionalHosts": []
+    },
     "Locations": [
       {
-        "Description": "ANS Offices,Manchester UK",
         "Name": "ANS Offices,Manchester UK",
+        "StartDate": "2024-04-19",
+        "EndDate": "2024-04-19",
         "Address": "1 Archway, Birley Fields, Hulme, Manchester, M15 5QJ",
-        "Description_Lat_Lon": "The Lat and Lon location for where you want your community pin on the Global Azure Community Map (example 47.6457554, -122.1299952).",
         "Latitude": 53.463282778019476,
         "Longitude": -2.245788076799153
       }

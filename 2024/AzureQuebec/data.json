@@ -11,16 +11,25 @@
     "Country": "Canada",
     "Url": "https://meetup.com/azureqc",
     "SessionizeApiId": "",
+    "SessionizeEventName": null,
+    "Description_SessionizeApiId": null,
+    "EventPage": "index.md",
+    "SponsorsPage": "sponsors.md",
     "Logo": {
       "Description": "Community logo is a .png file 500X500px named AzureQuebec.png.",
       "File": "AzureQuebec.png"
     },
+    "SamApp": {
+      "AdditionalHosts": []
+    },
     "Locations": [
       {
         "Name": "Le CAMP Quebec",
+        "StartDate": "2024-04-19",
+        "EndDate": "2024-04-19",
         "Address": "125, boul. Charest Est, Quebec (QC), G1K 3G5",
-        "Latitude": 46.813860,
-        "Longitude": -71.223450
+        "Latitude": 46.81386,
+        "Longitude": -71.22345
       }
     ]
   }

@@ -12,13 +12,22 @@
     "Country": "Germany",
     "Url": "https://www.meetup.com/azure-meetup-hamburg/",
     "SessionizeApiId": "2xfj8ws3",
+    "SessionizeEventName": null,
+    "Description_SessionizeApiId": null,
+    "EventPage": "index.md",
+    "SponsorsPage": "sponsors.md",
     "Logo": {
       "Description": "Azure Meetup Hamburg",
       "File": "AzureMeetupHamburg.png"
     },
+    "SamApp": {
+      "AdditionalHosts": []
+    },
     "Locations": [
       {
         "Name": "Hamburg",
+        "StartDate": "2024-04-19",
+        "EndDate": "2024-04-19",
         "Address": "Hamburg",
         "Latitude": 53.551086,
         "Longitude": 9.993682

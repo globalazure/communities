@@ -11,13 +11,21 @@
     "Url": "https://www.1nn0va.it/",
     "SessionizeApiId": "r34gxh7p",
     "SessionizeEventName": "gab2024pn",
+    "Description_SessionizeApiId": null,
+    "EventPage": "index.md",
+    "SponsorsPage": "sponsors.md",
     "Logo": {
       "Description": "1nn0va",
       "File": "1nn0va-CloudGen.png"
     },
+    "SamApp": {
+      "AdditionalHosts": []
+    },
     "Locations": [
       {
         "Name": "Consorzio Universitario di Pordenone",
+        "StartDate": "2024-04-19",
+        "EndDate": "2024-04-19",
         "Address": "Via Prasecco 3/a, Pordenone",
         "Latitude": 45.9522118,
         "Longitude": 12.6781303

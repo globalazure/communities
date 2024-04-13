@@ -10,13 +10,22 @@
     "Country": "Indonesia",
     "Url": "https://mugipurwokerto.or.id/",
     "SessionizeApiId": "4qqpmexi",
+    "SessionizeEventName": null,
+    "Description_SessionizeApiId": null,
+    "EventPage": "index.md",
+    "SponsorsPage": "sponsors.md",
     "Logo": {
       "Description": "Community logo is a .png file 500X500px named {foldername}.png.",
       "File": "MugiPurwokerto.png"
     },
+    "SamApp": {
+      "AdditionalHosts": []
+    },
     "Locations": [
       {
         "Name": "Indonesia",
+        "StartDate": "2024-04-19",
+        "EndDate": "2024-04-19",
         "Address": "Purwokerto, Central Java",
         "Latitude": -7.446437473770497,
         "Longitude": 109.24220318670153

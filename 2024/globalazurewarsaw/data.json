@@ -11,16 +11,24 @@
     "Name": "Global Azure Warsaw",
     "Country": "Poland",
     "Url": "https://globalazure2024.azurepoland.pl/",
-    "Description_SessionizeApiId": "",
     "SessionizeApiId": "",
     "SessionizeEventName": "",
+    "Description_SessionizeApiId": "",
+    "EventPage": "index.md",
+    "SponsorsPage": "sponsors.md",
     "Logo": {
       "Description": "Global Azure 2023 Warsaw Edition logo",
       "File": "GlobalAzure2023WarsawWhite500x500.png"
     },
+    "SamApp": {
+      "AdditionalHosts": []
+    },
     "Locations": [
       {
         "Name": "Warsaw",
+        "StartDate": "2024-04-19",
+        "EndDate": "2024-04-19",
+        "Address": null,
         "Latitude": 52.23182,
         "Longitude": 21.00626
       }

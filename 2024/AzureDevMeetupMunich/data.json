@@ -10,15 +10,22 @@
     "Country": "Germany",
     "Url": "https://global.azuredev.org/",
     "SessionizeApiId": "13ltxyfp",
-    "Description_SessionizeApiId": "If you have configured your Sessionize correctly then browsing to this url (replacing {Your sessionize event Id} with your event sessionize id) will return valid json: https://sessionize.com/api/v2/joc32ual/view/Sessions",
     "SessionizeEventName": "Global Azure Munich 2024",
+    "Description_SessionizeApiId": "If you have configured your Sessionize correctly then browsing to this url (replacing {Your sessionize event Id} with your event sessionize id) will return valid json: https://sessionize.com/api/v2/joc32ual/view/Sessions",
+    "EventPage": "index.md",
+    "SponsorsPage": "sponsors.md",
     "Logo": {
       "Description": "Azure DEV Meetup München Logo",
       "File": "AzureDevMeetupMunich.png"
     },
+    "SamApp": {
+      "AdditionalHosts": []
+    },
     "Locations": [
       {
         "Name": "Munich",
+        "StartDate": "2024-04-19",
+        "EndDate": "2024-04-19",
         "Address": "Mies-van-der-Rohe-Straße 6, 80807 München",
         "Latitude": 48.1763877,
         "Longitude": 11.5898829

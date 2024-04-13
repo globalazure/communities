@@ -10,18 +10,25 @@
     "Country": "China",
     "Url": "http://azurebootcamp.devpro.group",
     "SessionizeApiId": "u79zn3ip",
-    "Description_SessionizeApiId": "https://sessionize.com/api/v2/u79zn3ip/view/Sessions",
     "SessionizeEventName": "https://sessionize.com/global-azure-bootcamp-2024",
+    "Description_SessionizeApiId": "https://sessionize.com/api/v2/u79zn3ip/view/Sessions",
+    "EventPage": "index.md",
+    "SponsorsPage": "sponsors.md",
     "Logo": {
       "Description": "Community logo is a .png file 500X500px named devprogroup.png.",
       "File": "devprogroup.png"
     },
+    "SamApp": {
+      "AdditionalHosts": []
+    },
     "Locations": [
       {
         "Name": "Microsoft Reactor Shanghai",
+        "StartDate": "2024-04-19",
+        "EndDate": "2024-04-19",
         "Address": "No.192, Tianlin Road, Shanghai, China",
-        "Latitude": 31.169050, 
-        "Longitude": 121.408060
+        "Latitude": 31.16905,
+        "Longitude": 121.40806
       }
     ]
   }
