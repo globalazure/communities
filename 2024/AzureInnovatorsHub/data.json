@@ -4,6 +4,7 @@
     "GitHubHandles": [
       "passadis",
       "telelogic",
+      "george-markou",
       ""
     ]
   },
@@ -11,7 +12,7 @@
     "Name": "Azure Innovators Hub",
     "Country": "Greece",
     "Url": "https://www.meetup.com/athens-azure-tech-group/",
-    "Description_SessionizeApiId": "",
+    "Description_SessionizeApiId": "Global Azure",
     "SessionizeApiId": "igb6icil",
     "SessionizeEventName": "Global Azure Greece 2024",
     "Logo": {
