@@ -17,7 +17,9 @@
       {
         "Description": "Each location where your community will be running a Global Azure event.",
         "Name": "MUMBAI",
-        "Address": "Andheri"
+        "Address": "Andheri",
+        "Latitude": "19.124234884916408",
+        "Longitude": "72.87055202902206"
         
       }
     ]
