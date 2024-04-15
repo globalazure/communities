@@ -1,0 +1,35 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "Alec13355"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "KC Microsoft Global Azure User Group 2024",
+    "Country": "United States",
+    "Url": "https://www.meetup.com/kansas-city-cloud-computing-meetup/events/300438396/",
+    "SessionizeApiId": "{Your sessionize event Id}",
+    "SessionizeEventName": null,
+    "Description_SessionizeApiId": null,
+    "EventPage": "index.md",
+    "SponsorsPage": "sponsors.md",
+    "Logo": {
+      "Description": "Community logo is a .png file 500X500px in this folder!",
+      "File": "GlobalAzure2024-500.png"
+    },
+    "SamApp": {
+      "AdditionalHosts": []
+    },
+    "Locations": [
+      {
+        "Name": "Kansas City",
+        "StartDate": "2024-04-18",
+        "EndDate": "2024-04-18",
+        "Address": "Online",
+        "Latitude": 39.0997,
+        "Longitude": -94.5786
+      }
+    ]
+  }
+}
