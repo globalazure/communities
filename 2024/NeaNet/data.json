@@ -1,0 +1,28 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "fernandezja",
+      "MPolischuk"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "NEA .NET User Group (Resistencia/Corrientes) Argentina",
+    "Country": "Argentina",
+    "Url": "https://www.meetup.com/nea-net-user-group-resistencia-corrientes/",
+    "Logo": {
+      "Description": "NEA .NET User Group",
+      "File": "NEANET.png"
+    },
+    "Locations": [
+      {
+        "Description": "Universidad de la Cuenca del Plata, Corrientes, Argentina",
+        "Name": "Universidad de la Cuenca del Plata, Corrientes, Argentina",
+        "Address": "Lavalle 50, Corrientes Capital, Corrientes, Argentina",
+        "Description_Lat_Lon": "",
+        "Latitude": -27.4750179,
+        "Longitude": -58.8519849
+      }
+    ]
+  }
+}
