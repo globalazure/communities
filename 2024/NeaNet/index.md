@@ -11,12 +11,12 @@ El próximo Viernes 19 de Abril de 2024 a las 18hs, nos encontraremos para compa
 
 Información:
 
-* 📅 Viernes 20 de Abril de 2024 18hs
+* 📅 Viernes 19 de Abril de 2024 18hs
 * 🏠 [Lavalle 50, Corrientes Capital | Universidad de la Cuenca del Plata, Sede Central, Corrientes, Argentina](https://maps.app.goo.gl/hfVY8X4gtHdHKqjJA)
 * 🎫 Evento gratuito con registro previo. [Para la inscripción click aquí](https://actividades.ucp.edu.ar/public/detalle/240)
 
 
-## Temas:
+## Temas
  - Gestionando el almacenamiento en la nube escalable con Azure blob service (Ing. Marcos Polischuk)
  - Agregando a nuestras apps servicios de IA: Ejemplos con Azure IA Vision (Ing. Jose A. Fernandez)
  - Chatbots con IA utilizando Language Studio (Ing. Augusto Portillo)
