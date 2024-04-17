@@ -21,7 +21,7 @@
       "File": "GlobalAzure2024LiveFromSpain-250.png"
     },
     "SamApp": {
-      "AdditionalHosts": []
+      "AdditionalHosts": ["c961229e-78ea-42cc-92d3-ed20cc4ef874"]
     },
     "Locations": [
       {
