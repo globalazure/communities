@@ -1,7 +1,9 @@
 # Community title
 
-![Community title](template.png)
+![CrazyTechGuys](crazytechguys.png)
 
-We're excited to be hosting an event at [Community title](https://globalazure.net/this-is-just-a-sample-link/)!
+We're excited to be hosting an event at [CrazyTechGuys - Patos de Minas](https://www.sympla.com.br/evento/global-azure-2024-patos-de-minas/2425777)!
 
-Here you put any markdown content which describes your event location, and what you will be doing at your event. Get creative and tell your own story, list your agenda, speakers, and anything else that seems relevant to you! Please feel free to be inspired by all the community submissions at [GlobalAzure.net/communities](http://globalazure.net/communities)
+We are pleased to invite you to a day full of learning and innovation at the Global Azure 2024 event, which will take place on April 20th, from 9:00 AM to 4:00 PM, at the University Center of Patos de Minas (Unipam).
+Flávio Ferreira and Jorge Maia will be coordinating an incredible program that includes workshops, technical sessions, and many networking opportunities. 
+Register now and join us for an exceptional day of knowledge exchange and experiences. We look forward to seeing you there to explore the power of Azure and enhance your skills at one of the biggest technology events on the planet!
