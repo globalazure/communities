@@ -1,0 +1,38 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "jorgemaia", 
+      "angelobelchior",
+      "hsouzaeduardo",
+      "renatogroffe"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Global Azure São Paulo [Reactor]",
+    "Country": "Brazil",
+    "Url": "https://aka.ms/GlobalAzure2024",
+    "SessionizeApiId": null,
+    "SessionizeEventName": null,
+    "Description_SessionizeApiId": null,
+    "EventPage": "index.md",
+    "SponsorsPage": "sponsors.md",
+    "Logo": {
+      "Description": "Global Azure São Paulo [Reactor]",
+      "File": "global-azure-sp.png"
+    },
+    "SamApp": {
+      "AdditionalHosts": []
+    },
+    "Locations": [
+      {
+        "Name": "São Paulo",
+        "StartDate": "2024-04-25",
+        "EndDate": "2024-04-25",
+        "Address": null,
+        "Latitude": -23.621750,
+        "Longitude": -46.693530
+      }
+    ]
+  }
+}
