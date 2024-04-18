@@ -21,7 +21,9 @@
       "File": "AzureMeetupHamburg.png"
     },
     "SamApp": {
-      "AdditionalHosts": []
+      "AdditionalHosts": [
+        "3b8a2e55-c63b-4752-a297-4f091ea91e1f"
+      ]
     },
     "Locations": [
       {
