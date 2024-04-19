@@ -20,7 +20,7 @@
       "File": "logo.png"
     },
     "SamApp": {
-      "AdditionalHosts": []
+      "AdditionalHosts": ["599c1b8e-04af-45d9-8359-481eb0f47647"]
     },
     "Locations": [
       {
