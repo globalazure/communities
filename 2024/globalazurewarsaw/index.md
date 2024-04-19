@@ -1,7 +1,8 @@
-# Global Azure 2023 Warsaw Edition
+# Global Azure Warsaw
 
-![Global Azure 2023 Warsaw Edition](GlobalAzure2023WarsawWhite500x500.png)
+This year we are organizing 3 workshops:
+1. Bicep - from zero to hero
+2. Infrastructure as code with Pulumi
+3. Terraform & Azure
 
-We're excited to be hosting an event at [Global Azure 2023 Warsaw Edition](https://globalazurewarsaw.net/)!
-
-This event will contain two parts - online with a few different great speeches and onsite workshops about Bicep. More information you can find in the above landing page!
+More info: [Global Azure Poland](https://globalazure2024.azurepoland.pl/)
