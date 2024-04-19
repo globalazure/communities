@@ -22,7 +22,8 @@
     },
     "SamApp": {
       "AdditionalHosts": [
-        "3b8a2e55-c63b-4752-a297-4f091ea91e1f"
+        "3b8a2e55-c63b-4752-a297-4f091ea91e1f",
+        "a9d37bfc-f4da-4966-a2d9-21e759c9529f"
       ]
     },
     "Locations": [
