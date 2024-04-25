@@ -17,16 +17,23 @@
     "Name": "Azure Poland - online",
     "Country": "Poland",
     "Url": "https://www.eventbrite.com/e/global-azure-2024-poland-on-line-tickets-843540521407",
-    "Description_SessionizeApiId": "https://sessionize.com/api/v2/c14gmbzr/view/Sessions",
     "SessionizeApiId": "c14gmbzr",
     "SessionizeEventName": "https://sessionize.com/global-azure-2024-poland-on-line",
+    "Description_SessionizeApiId": "https://sessionize.com/api/v2/c14gmbzr/view/Sessions",
+    "EventPage": "index.md",
+    "SponsorsPage": "sponsors.md",
     "Logo": {
       "Description": "GlobalAzurePolandOnline",
       "File": "GlobalAzurePolandOnline-500x500.png"
     },
+    "SamApp": {
+      "AdditionalHosts": []
+    },
     "Locations": [
       {
         "Name": "Online",
+        "StartDate": "2024-04-19",
+        "EndDate": "2024-04-19",
         "Address": "https://www.eventbrite.fi/x/843540521407/",
         "Latitude": 51.9194,
         "Longitude": 19.1451

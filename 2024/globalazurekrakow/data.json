@@ -1,0 +1,35 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "donnik007"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Global Azure - Kraków",
+    "Country": "Poland",
+    "Url": "https://www.eventbrite.com/e/global-azure-2024-krakow-workshop-on-site-wprowadzenie-do-azure-tickets-880021085757?aff=oddtdtcreator",
+    "SessionizeApiId": "",
+    "SessionizeEventName": "",
+    "Description_SessionizeApiId": "",
+    "EventPage": "index.md",
+    "SponsorsPage": "sponsors.md",
+    "Logo": {
+      "Description": "GlobalAzurePolandKraków",
+      "File": "azureglobalkraków.png"
+    },
+    "SamApp": {
+      "AdditionalHosts": []
+    },
+    "Locations": [
+      {
+        "Name": "Avanade",
+        "StartDate": "2024-04-19",
+        "EndDate": "2024-04-19",
+        "Address": "21 Pawia 31-154 Kraków",
+        "Latitude": 50.049683,
+        "Longitude": 19.944544
+      }
+    ]
+  }
+}

@@ -11,13 +11,21 @@
     "Url": "https://k-mug.net/",
     "SessionizeApiId": "2bbts6a7",
     "SessionizeEventName": "https://sessionize.com/k-mug-global-azure-bootcamp-2024/",
+    "Description_SessionizeApiId": null,
+    "EventPage": "index.md",
+    "SponsorsPage": "sponsors.md",
     "Logo": {
       "Description": "Community logo is a .png file 500X500px named k-mug.png.",
       "File": "k-mug.png"
     },
+    "SamApp": {
+      "AdditionalHosts": []
+    },
     "Locations": [
       {
         "Name": "Cochin",
+        "StartDate": "2024-04-19",
+        "EndDate": "2024-04-19",
         "Address": "Orion Innovation, 103, 1st Floor, Lulu Cyber Tower I, Infopark, Kakkanad, Kochi, Kerala 682042, India",
         "Latitude": 10.010070288555351,
         "Longitude": 76.36593973670695

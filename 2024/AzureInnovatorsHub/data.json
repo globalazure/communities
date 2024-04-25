@@ -4,6 +4,7 @@
     "GitHubHandles": [
       "passadis",
       "telelogic",
+      "george-markou",
       ""
     ]
   },
@@ -11,20 +12,25 @@
     "Name": "Azure Innovators Hub",
     "Country": "Greece",
     "Url": "https://www.meetup.com/athens-azure-tech-group/",
-    "Description_SessionizeApiId": "",
     "SessionizeApiId": "igb6icil",
     "SessionizeEventName": "Global Azure Greece 2024",
+    "Description_SessionizeApiId": "Global Azure",
+    "EventPage": "index.md",
+    "SponsorsPage": "sponsors.md",
     "Logo": {
       "Description": "Community logo is a .png file 500X500px in this folder!",
       "File": "azureinnovatorshub.png"
     },
+    "SamApp": {
+      "AdditionalHosts": ["a2efae0c-1420-4538-a8f2-773ff78e0e94"]
+    },
     "Locations": [
       {
-        "Description": "Each location where your community will be running a Global Azure event.",
         "Name": "Athens, Greece",
+        "StartDate": "2024-04-19",
+        "EndDate": "2024-04-19",
         "Address": "Athens, Greece",
-        "Description_Lat_Lon": "The Lat and Lon location for where you want your community pin on the Global Azure Community Map (example 47.6457554, -122.1299952).",
-        "Latitude": 37.983810,
+        "Latitude": 37.98381,
         "Longitude": 23.727539
       }
     ]

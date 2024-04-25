@@ -1,0 +1,36 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "staslebedenko",
+      "alextumanoff"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Microsoft .NET/Azure User group Odesa",
+    "Country": "Ukraine",
+    "Url": "https://www.meetup.com/microsoft-net-azure-user-group-odesa/",
+    "SessionizeApiId": "",
+    "SessionizeEventName": "{Your sessionize event name (or complete URL to the public Sessionize C4P, i.e. https://sessionize.com/global-azure or just global-azure)}",
+    "Description_SessionizeApiId": "If you have configured your Sessionize correctly then browsing to this url (replacing {Your sessionize event Id} with your event sessionize id) will return valid json: https://sessionize.com/api/v2/{Your sessionize event Id}/view/Sessions",
+    "EventPage": "index.md",
+    "SponsorsPage": "sponsors.md",
+    "Logo": {
+      "Description": "Odesa .NET User group logo",
+      "File": "msugodua_logo.png"
+    },
+    "SamApp": {
+      "AdditionalHosts": []
+    },
+    "Locations": [
+      {
+        "Name": "Odesa, Ukraine",
+        "StartDate": "2024-04-19",
+        "EndDate": "2024-04-19",
+        "Address": "Sadova St, 3, Odesa",
+        "Latitude": 46.487007,
+        "Longitude": 30.727824
+      }
+    ]
+  }
+}

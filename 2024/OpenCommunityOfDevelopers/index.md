@@ -5,29 +5,34 @@
 
 ​​​Huddles is a meetup organized by OCD India, which aims to create awareness about specific technologies that benefit early-stage developers, working professionals, and developing teams. We aim to create an environment where participants can engage in meaningful discussions, learn from industry leaders, and expand their network.
 
-## 💡 What is Global Azure?
+## 💡 What is Global Azure & Apache Kafka?
 
-​​Global Azure is an annual, once-in-a-year community initiative, and via Huddles, we’re bringing this initiative to our local community. We want technologists in and around our region to receive the opportunity to learn from the best in the community and in the industry.
+​​​​Global Azure is an annual, once-in-a-year community initiative, and via Huddles, we’re bringing this initiative to our local community. We want technologists in and around our region to receive the opportunity to learn from the best in the community and the industry.
+
+Apache Kafka is a distributed system which consists of servers and clients, communicating via a high-performance [TCP network protocol](https://kafka.apache.org/protocol.html). It can be deployed on bare-metal hardware, virtual machines, and containers in on-premise and cloud environments.
 
 ## ​💻 What can you expect from this meetup?
 
-​This meetup is designed explicitly for students and working professionals eager to learn about Azure technologies and OpenAI and how they can benefit from them. We have lined up an impressive panel of speakers who are experts in these fields and are ready to share their knowledge and insights with you.
+​This meetup is designed explicitly for working professionals and techies eager to learn about Azure & Kafka technologies and how they can benefit from them. We have lined up an impressive panel of speakers who are experts in these fields and are ready to share their knowledge and insights with you.
 
-​By attending this session, you will gain valuable insights into these technologies and how they are changing the face of software development. You will also have the opportunity to connect with other like-minded individuals and expand your professional network.
+​By attending this session, you will gain valuable insights into these technologies and how they are changing the face of software development. You will also be able to connect with other like-minded individuals and expand your professional network.
 
 ## 📅 When and where?
 
-TBD
+📅 Date: 20th April, 2024 <br/>
+🕚 Time: 11:30 AM IST <br/>
+📍 Location: Gurugram, Haryana, India <br/>
 
-## Event Photos
+## 🗒️ Agenda:
+
+​To be Announced Soon.
 
 
+## 🎟️ How to register?
 
-<!-- ## 🎟️ How to register?
+​You can register for the event by visiting our event registration link [here](https://lu.ma/Huddles-GlobalAzure)
 
-​You can register for the event by visiting our event registration link [here](https://lu.ma/OCD-Huddles-GlobalAzure)
-
-## 📝 Call for Proposals
+<!-- ## 📝 Call for Proposals
 
 OCD India is providing an opportunity for speakers to participate in Global Azure 2023. ​We are looking for speakers who can share their knowledge and experience with the community. If you are interested in speaking at this event, please fill out the [Call for Proposals](https://lu.ma/Huddles-CFP2) form. -->
 <!-- 

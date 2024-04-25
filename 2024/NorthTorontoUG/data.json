@@ -10,15 +10,22 @@
     "Country": "Canada",
     "Url": "https://www.meetup.com/northtorontoug/events/299006318/",
     "SessionizeApiId": "",
-    "Description_SessionizeApiId": "",
     "SessionizeEventName": "",
+    "Description_SessionizeApiId": "",
+    "EventPage": "index.md",
+    "SponsorsPage": "sponsors.md",
     "Logo": {
       "Description": "Global Azure 2024 at North Toronto Cloud & DevOps User Group",
       "File": "NorthTorontoUG.png"
     },
+    "SamApp": {
+      "AdditionalHosts": []
+    },
     "Locations": [
       {
         "Name": "Microsoft Canada Head Office",
+        "StartDate": "2024-04-19",
+        "EndDate": "2024-04-19",
         "Address": "4400-81 Bay St., Toronto, Ontario M5J 0E7",
         "Latitude": 43.644007,
         "Longitude": -79.377527

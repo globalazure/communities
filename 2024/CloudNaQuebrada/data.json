@@ -1,25 +1,35 @@
 {
-    "ValidMaintainers": {
-      "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
-      "GitHubHandles": [
-        "Ch1c4n0"
-      ]
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "Ch1c4n0"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Cloud na Quebrada",
+    "Country": "Brazil",
+    "Url": "https://www.youtube.com/channel/UCOBbFzXwJGGNBq5c7t_3-pQ",
+    "SessionizeApiId": null,
+    "SessionizeEventName": null,
+    "Description_SessionizeApiId": null,
+    "EventPage": "index.md",
+    "SponsorsPage": "sponsors.md",
+    "Logo": {
+      "Description": "Cloud na Quebrada - Campinas",
+      "File": "cloudnaquebrada.png"
     },
-    "CommunityInfo": {
-      "Name": "Cloud na Quebrada",
-      "Country": "Brazil",
-      "Url": "https://www.youtube.com/channel/UCOBbFzXwJGGNBq5c7t_3-pQ",
-         "Locations": [
-        {
-          "Name": "Campinas",
-          "Latitude": -22.8948821,
-          "Longitude": -47.3606805
-        }
-      ],
-      "Logo": {
-        "Description": "Cloud na Quebrada - Campinas",
-        "File": "cloudnaquebrada.png"
+    "SamApp": {
+      "AdditionalHosts": []
+    },
+    "Locations": [
+      {
+        "Name": "Campinas",
+        "StartDate": "2024-04-19",
+        "EndDate": "2024-04-19",
+        "Address": null,
+        "Latitude": -22.8948821,
+        "Longitude": -47.3606805
       }
-    }
+    ]
   }
-  
+}
