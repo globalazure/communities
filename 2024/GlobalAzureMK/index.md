@@ -9,6 +9,8 @@ If you have any questions, feedback or thoughts, please get in touch with the co
 We are happy to announce that we have successfully organized the Global Azure 2024 event in Skopje, Macedonia. We had 170 registered participants for this one-day event on 20th of April, organized in [InnoX Innovation Center of Skopje](https://innox.mk/)  powered by [the International Balkan University](https://beta.ibu.edu.mk/).
 Kudos to the official media partner [ITuziast](https://www.ituziast.com/) for capturing all moments and emotions during the event.
 
+[Global Azure Skopje 2024: A Pivotal Event for Tech Enthusiasts and Professionals](https://www.ituziast.com/index.php/2024/04/24/global-azure-skopje-2024/)
+
 ![alt text](https://github.com/globalazure/communities/blob/main/2024/GlobalAzureMK/posts/Miodrag_Cekikj.png)
 ![alt text](https://github.com/globalazure/communities/blob/main/2024/GlobalAzureMK/posts/ITuzijast_1.png)
 ![alt text](https://github.com/globalazure/communities/blob/main/2024/GlobalAzureMK/posts/ITuzijast_2.png)
