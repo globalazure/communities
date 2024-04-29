@@ -1,28 +1,36 @@
 {
-    "ValidMaintainers": {
-      "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
-      "GitHubHandles": [
-        "TaleLearnCode",
-        "ChadGreen"
-      ]
-    },
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "TaleLearnCode",
+      "ChadGreen"
+    ]
+  },
   "CommunityInfo": {
     "Name": "Louisville Azure Meetup",
     "Country": "United States",
     "Url": "https://www.meetup.com/louisville-azure-meetup/",
     "SessionizeApiId": "",
-    "Description_SessionizeApiId": "",
     "SessionizeEventName": "",
-    "Locations": [
-      {
-        "Name": "Louisville",
-        "Latitude": 38.252666,
-        "Longitude": -85.758453
-      }
-    ],
+    "Description_SessionizeApiId": "",
+    "EventPage": "index.md",
+    "SponsorsPage": "sponsors.md",
     "Logo": {
       "Description": "Louisville Azure Meetup logo",
       "File": "LouisvilleAzureMeetup.png"
-    }
+    },
+    "SamApp": {
+      "AdditionalHosts": []
+    },
+    "Locations": [
+      {
+        "Name": "Louisville",
+        "StartDate": "2024-04-19",
+        "EndDate": "2024-04-19",
+        "Address": null,
+        "Latitude": 38.252666,
+        "Longitude": -85.758453
+      }
+    ]
   }
-  }
+}

@@ -9,13 +9,23 @@
     "Name": "M365 Ahmedabad User Group",
     "Country": "INDIA",
     "Url": "https://www.meetup.com/m365ahmedabad/events/299883329/",
+    "SessionizeApiId": null,
+    "SessionizeEventName": null,
+    "Description_SessionizeApiId": null,
+    "EventPage": "index.md",
+    "SponsorsPage": "sponsors.md",
     "Logo": {
       "Description": "M365 Ahmedabad User Group - Logo",
       "File": "m365ahmedabadusergroup.png"
     },
+    "SamApp": {
+      "AdditionalHosts": []
+    },
     "Locations": [
       {
         "Name": "Ahmedabad",
+        "StartDate": "2024-04-19",
+        "EndDate": "2024-04-19",
         "Address": "Ahmedabad",
         "Latitude": 23.022505,
         "Longitude": 72.571365

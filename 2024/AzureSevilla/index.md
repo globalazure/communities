@@ -16,6 +16,7 @@ The [Call for Speakers is open](https://sessionize.com/global-azure-sevilla-2024
 * Online in [Global Azure Sevilla 2024 - YouTube](https://www.youtube.com/@GlobalAzureSevilla-ng6ci)
 * 🎙️Call for speakers - [https://sessionize.com/global-azure-sevilla-2024](https://sessionize.com/global-azure-sevilla-2024)
 * 💶Sponsors - We are looking for sponsors. Reach out to any of the [organizers](#organizers)
+
 ## Agenda
 
 The agenda will be updated once the call for speakers has ended in https://azuresevilla.github.io/blog/2024/04/20/agenda-global-azure-sevilla-2024/.

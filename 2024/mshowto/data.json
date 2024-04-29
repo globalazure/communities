@@ -11,15 +11,24 @@
     "Url": "https://www.mshowto.org/",
     "SessionizeApiId": "dfbr5f8p",
     "SessionizeEventName": "https://sessionize.com/global-azure-2024-istanbul/",
+    "Description_SessionizeApiId": null,
+    "EventPage": "index.md",
+    "SponsorsPage": "sponsors.md",
     "Logo": {
       "Description": "mshowto logo",
       "File": "mshowto.png"
     },
+    "SamApp": {
+      "AdditionalHosts": []
+    },
     "Locations": [
       {
         "Name": "Istanbul",
-        "Latitude": 41.013000,
-        "Longitude": 28.974800
+        "StartDate": "2024-04-19",
+        "EndDate": "2024-04-19",
+        "Address": null,
+        "Latitude": 41.013,
+        "Longitude": 28.9748
       }
     ]
   }

@@ -11,19 +11,26 @@
     "Name": "Thessaloníki .NET Meetup",
     "Country": "Greece",
     "Url": "https://www.meetup.com/thessaloniki-net-meetup/",
-    "SessionizeApiId": "afto9lzw",
+    "SessionizeApiId": "x0f4snr8",
+    "SessionizeEventName": "https://sessionize.com/global-azure-2024-thessaloniki-greece",
     "Description_SessionizeApiId": "If you have configured your Sessionize correctly then browsing to this url (replacing {Your sessionize event Id} with your event sessionize id) will return valid json: https://sessionize.com/api/v2/{Your sessionize event Id}/view/Sessions",
-    "SessionizeEventName": "https://sessionize.com/globalazure2023Thess/",
+    "EventPage": "index.md",
+    "SponsorsPage": "sponsors.md",
     "Logo": {
       "Description": "Thessaloniki.net meetup logo with the text and city's monuments",
       "File": "logo.png"
     },
+    "SamApp": {
+      "AdditionalHosts": []
+    },
     "Locations": [
       {
         "Name": "OK! Thess",
+        "StartDate": "2024-04-20",
+        "EndDate": "2024-04-20",
         "Address": "2 Komotinis Thessaloniki 546 55",
         "Latitude": 40.59547,
-        "Longitude":  22.95110,
+        "Longitude": 22.9511
       }
     ]
   }

@@ -1,0 +1,38 @@
+{
+    "ValidMaintainers": {
+      "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+      "GitHubHandles": [
+        "joseqcosta",
+        "cremildomanhique",
+        "tiagocostapt" 
+      ]
+    },
+    "CommunityInfo": {
+      "Name": "Azure User Group Mozambique",
+      "Country": "Mozambique",
+      "Url": "https://www.linkedin.com/groups/9585042/",
+      "SessionizeApiId": "",
+      "SessionizeEventName": "",
+      "Description_SessionizeApiId": "",
+      "EventPage": "index.md",
+      "SponsorsPage": "sponsors.md",
+      "Logo": {
+        "Description": "Logo Azure User Group Mozambique.",
+        "File": "AZUGMZ.jpg"
+      },
+      "SamApp": {
+        "AdditionalHosts": []
+      },
+      "Locations": [
+        {
+          "Name": "Online - Maputo",
+          "StartDate": "2024-04-20",
+          "EndDate": "2024-04-20",
+          "Address": null,
+          "Latitude": -25.95776,
+          "Longitude": 32.60033
+        }
+      ]
+    }
+  }
+  

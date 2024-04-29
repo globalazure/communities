@@ -1,0 +1,30 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "PhantipK",
+      "teerasej",
+      "dmakeroam"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Azure Community Thailand",
+    "Country": "Thailand",
+    "Url": "https://www.eventpop.me/e/24118/global-azure-thailand-2024",
+    "SessionizeApiId": "gbfqy05e",
+    "SessionizeEventName": "https://sessionize.com/global-azure-2024-thailand",
+    "Description_SessionizeApiId": "If you have configured your Sessionize correctly then browsing to this url (replacing {Your sessionize event Id} with your event sessionize id) will return valid json: https://sessionize.com/api/v2/{Your sessionize event Id}/view/Sessions",
+    "Logo": {
+      "Description": "Azure Community Thailand",
+      "File": "AzureCommunityThailand.png"
+    },
+    "Locations": [
+      {
+        "Name": "SCBX NEXT TECH",
+        "Address": "4th Fl., Siam Paragon",
+        "Latitude": 13.7462711,
+        "Longitude": 100.5328264
+      }
+    ]
+  }
+}

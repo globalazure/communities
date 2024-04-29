@@ -1,0 +1,32 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "jorgemaia",
+      "laraferreira20"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "CrazyTechGuys",
+    "Country": "Brazil",
+    "Url": "https://www.sympla.com.br/evento/global-azure-2024-patos-de-minas/2425777",
+    "Description_SessionizeApiId": null,
+    "SessionizeApiId": null,
+    "SessionizeEventName": null,
+    "Logo": {
+      "Description": "CrazyTechGuys",
+      "File": "crazytechguys.png"
+    },
+    "Locations": [
+      {
+        "Description": "Each location where your community will be running a Global Azure event.",
+        "Name": "Patos de Minas",
+        "Address": "Unipam - R. Maj. Gote, 808 - Caiçaras, Patos de Minas - MG, 38700-001",
+        "Description_Lat_Lon": "The Lat and Lon location for where you want your community pin on the Global Azure Community Map (example 47.6457554, -122.1299952).",
+        "Latitude": -18.575496020074215,
+        "Longitude": -46.51340494677049
+        
+      }
+    ]
+  }
+}

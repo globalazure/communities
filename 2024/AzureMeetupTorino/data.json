@@ -10,13 +10,22 @@
     "Country": "Italy",
     "Url": "https://www.meetup.com/Meetup-Microsoft-Azure-Torino/",
     "SessionizeApiId": "avu1xdua",
+    "SessionizeEventName": null,
+    "Description_SessionizeApiId": null,
+    "EventPage": "index.md",
+    "SponsorsPage": "sponsors.md",
     "Logo": {
       "Description": "Azure Meetup Torino",
       "File": "AzureMeetupTorino.png"
     },
+    "SamApp": {
+      "AdditionalHosts": []
+    },
     "Locations": [
       {
         "Name": "Fondazione ITS ICT",
+        "StartDate": "2024-04-19",
+        "EndDate": "2024-04-19",
         "Address": "Via Jacopo Durandi 10, Turin",
         "Latitude": 45.081726,
         "Longitude": 7.660096
