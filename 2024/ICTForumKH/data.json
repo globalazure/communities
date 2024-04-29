@@ -1,0 +1,33 @@
+{
+    "ValidMaintainers": {
+        "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+        "GitHubHandles": [
+            "chamodaranasinghe",
+            "springtechnologiescoltd"
+        ]
+    },
+    "CommunityInfo": {
+        "Name": "ICT Forum KH",
+        "Country": "Cambodia",
+        "Url": "https://ictforumkh.com/",
+        "Description_SessionizeApiId": "https://sessionize.com/api/v2/onuqz545/view/Sessions",
+        "SessionizeApiId": "onuqz545",
+        "SessionizeEventName": null,
+        "Logo": {
+            "Description": "Community logo is a .png file 500X500px in this folder!",
+            "File": "ictforumkh.png"
+        },
+        "Locations": [
+            {
+                "Description": "The location where the event will be held. This is used to show the location on a map.",
+                "Name": "Black OX HQ Building Auditorium (Level 4)",
+                "Address": "Black OX HQ Building, Phnom, NR6, Penh 121001",
+                "Description_Lat_Lon": "Lat and Lng of the Black OX HQ Building Auditorium (Level 4) where the event will be held. This is used to show the location on a map.",
+                "Latitude": 11.591685778967548,
+                "Longitude": 104.92862100887743,
+                "StartDate": "2024-05-18",
+                "EndDate": "2024-05-18"
+            }
+        ]
+    }
+}
