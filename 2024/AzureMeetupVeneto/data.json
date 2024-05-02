@@ -1,0 +1,35 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "lupan77"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Azure Meetup Veneto",
+    "Country": "Italy",
+    "Url": "https://www.meetup.com/it-IT/azure-meetup-veneto/",
+    "SessionizeApiId": "null",
+    "SessionizeEventName": null,
+    "Description_SessionizeApiId": null,
+    "EventPage": "index.md",
+    "SponsorsPage": "sponsors.md",
+    "Logo": {
+      "Description": "Azure Meetup Veneto",
+      "File": "meetupLogo300.png"
+    },
+    "SamApp": {
+      "AdditionalHosts": []
+    },
+    "Locations": [
+      {
+        "Name": "Axians Italia S.p.A.",
+        "StartDate": "2024-05-01",
+        "EndDate": "2024-05-01",
+        "Address": "Via Ludovico Lazzaro Zamenhof, 843 - Vicenza",
+        "Latitude": 45.5249339,
+        "Longitude": 11.5917319
+      }
+    ]
+  }
+}
