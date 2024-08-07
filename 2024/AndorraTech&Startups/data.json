@@ -12,6 +12,9 @@
     "Description": "Join our Technology Talks and Networking Group in Andorra! If you're passionate about technology and entrepreneurship, this is the place for you. We organize talks and networking sessions, both in-person and online, about Startups and the latest innovations in AI, Cloud Computing, Big Data, Blockchain, Open Source, WASM, and more.",
     "EventPage": "index.md",
     "SponsorsPage": "sponsors.md",
+    "SessionizeApiId":"euk7dnik",
+    "SessionizeEventName":"Andorra Tech & Startups #1",
+    "Description_SessionizeApiId":"https://sessionize.com/api/v2/euk7dnik/view/Sessions",
     "Logo": {
       "Description": "Andorra Tech & Startups logo.",
       "File": "AndorraTech&Startups.png"
