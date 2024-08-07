@@ -1,0 +1,33 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "infrx0"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Andorra Tech & Startups",
+    "Country": "Andorra",
+    "Url": "https://www.andorratechstartups.com",
+    "Description": "Join our Technology Talks and Networking Group in Andorra! If you're passionate about technology and entrepreneurship, this is the place for you. We organize talks and networking sessions, both in-person and online, about Startups and the latest innovations in AI, Cloud Computing, Big Data, Blockchain, Open Source, WASM, and more.",
+    "EventPage": "index.md",
+    "SponsorsPage": "sponsors.md",
+    "Logo": {
+      "Description": "Andorra Tech & Startups logo.",
+      "File": "AndorraTech&Startups.png"
+    },
+    "SamApp": {
+      "AdditionalHosts": []
+    },
+    "Locations": [
+      {
+        "Name": "Andorra Tech & Startups",
+        "StartDate": "2023-12-21",
+        "EndDate": "2023-12-22",
+        "Address": "Andorra la Vella, Andorra",
+        "Latitude": 42.507530,
+        "Longitude": 1.521820
+      }
+    ]
+  }
+}
