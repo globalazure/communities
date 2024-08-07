@@ -1,8 +1,8 @@
 # Welcome to Andorra Tech & Startups Community!
 
-🌐 Welcome to the Andorra Tech & Startups community! We are a dedicated group aiming to create a vibrant technological community in Andorra. This platform is designed for professionals, enthusiasts, and students who are passionate about technology and entrepreneurship.
-
 ![Andorra Tech & Startups](AndorraTech&Startups.png)
+
+🌐 Welcome to the Andorra Tech & Startups community! We are a dedicated group aiming to create a vibrant technological community in Andorra. This platform is designed for professionals, enthusiasts, and students who are passionate about technology and entrepreneurship.
 
 ---
 
