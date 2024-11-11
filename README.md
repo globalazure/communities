@@ -11,9 +11,9 @@ We want to make sure any community who is interested in being part of #GlobalAzu
 ## How to use this repo
 
 1. Fork this repo.
-2. Find the right year folder. (Hint: For Global Azure 2024 the folder is '2024'.)
+2. Find the right year folder. (Hint: For Global Azure 2025 the folder is '2025'.)
 3. Copy the folder "template" and give it a repo unique folder name for example with the name of your community.
-   * Example: Your community name is "Foo Community in Malmö Sweden" you could make your folder name in this repo this: './2024/FooCommunity/'.
+   * Example: Your community name is "Foo Community in Malmö Sweden" you could make your folder name in this repo this: './2025/FooCommunity/'.
    * You pick the folder name.
    * If it is already taken you need to choose another name.
    * This means don't be mean - unless you are the Azure Community for all of Sweden maybe don't pick the folder name 'AzureSweden'. If there are many Azure communities in Sweden, you don't want them to think you are full of yourself, right? ;~)
@@ -23,7 +23,7 @@ We want to make sure any community who is interested in being part of #GlobalAzu
    * fill the SessionizeApiId field with the instruction provided on our blog [Sessionize integration setup for local event organizers](https://blog.globalazure.net/Blog/Post/284/Sessionize-integration-setup-for-local-event-organizers-for-2022-edition). Note: If you have configured your sessionize correctly then browsing to this url (replacing {yoursessionizeidhere} with your event sessionize id) will return valid json: [https://sessionize.com/api/v2/{yoursessionizeidhere}/view/Sessions](https://sessionize.com/api/v2/{yoursessionizeidhere}/view/Sessions).
 6. Update the rest of the data in data.json to match your community. We recommend using the English country name to better integrate with the Global Azure website.
 7. Your community locations are optional and will be used to build a global map with all the communities. To find your location, you can use Google Maps or a site like https://www.latlong.net. Note you can add more than one location to support communities spread over different locations.
-8. Your community logo: Place a square 500x500 px .png in the folder named {folder name}.png (example from above './2023/FooCommunity/FooCommunity.png').
+8. Your community logo: Place a square 500x500 px .png in the folder named {folder name}.png (example from above './2025/FooCommunity/FooCommunity.png').
 9. Make a PR (Pull Request)!
    * At the top of your fork there is a section for Pull Requests. You create a "New Pull Request" to signal to us that we are to review and pull your changes from your fork into our main in our repository.
    * We review the PRs manually. The process of pushing your information to our web site is *best-community-effort-based* and should be reasonably quick.
