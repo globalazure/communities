@@ -1,0 +1,36 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "rfernandezdo",
+      "jioller"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Azure Sevilla",
+    "Country": "Spain",
+    "Url": "https://azuresevilla.github.io/",
+    "SessionizeApiId": "pkwutrbc",
+    "SessionizeEventName": "https://sessionize.com/global-azure-sevilla-2025",
+    "Description_SessionizeApiId": "https://sessionize.com/api/v2/pkwutrbc/view/Sessions",
+    "EventPage": "index.md",
+    "SponsorsPage": "sponsors.md",
+    "Logo": {
+      "Description": "Community logo 500X500px",
+      "File": "LogoAzureGlobalSevilla500x500.png"
+    },
+    "SamApp": {
+      "AdditionalHosts": []
+    },
+    "Locations": [
+      {
+        "Name": "Sevilla, Spain",
+        "StartDate": "2025-05-08",
+        "EndDate": "2025-05-10",
+        "Address": "Sevilla, Spain",
+        "Latitude": 37.392529,
+        "Longitude": -5.994072
+      }
+    ]
+  }
+}
