@@ -19,7 +19,7 @@
     "SponsorsPage": "sponsors.md",
     "Logo": {
       "Description": "Community logo is a .png file 500X500px in this folder!",
-      "File": "globalgreece.png"
+      "File": "LogoGlobalAzure.png"
     },
     "SamApp": {
       "AdditionalHosts": [""]
