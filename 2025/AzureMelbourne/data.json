@@ -10,9 +10,9 @@
     "Name": "Melbourne Azure Nights User Group",
     "Country": "Australia",
     "Url": "https://www.meetup.com/melbourne-azure-nights/",
-    "SessionizeApiId": "ljvx5zxj",
-    "SessionizeEventName": "Global Azure Melbourne 2024",
-    "Description_SessionizeApiId": "https://sessionize.com/api/v2/ljvx5zxj/view/Sessions",
+    "SessionizeApiId": "f6zuz44o",
+    "SessionizeEventName": "Global Azure Melbourne 2025",
+    "Description_SessionizeApiId": "https://sessionize.com/api/v2/f6zuz44o/view/Sessions",
     "EventPage": "index.md",
     "SponsorsPage": "sponsors.md",
     "Logo": {
@@ -25,8 +25,8 @@
     "Locations": [
       {
         "Name": "Melbourne",
-        "StartDate": "2024-04-19",
-        "EndDate": "2024-04-19",
+        "StartDate": "2025-05-10",
+        "EndDate": "2025-05-10",
         "Address": null,
         "Latitude": -37.8136,
         "Longitude": 144.9631
