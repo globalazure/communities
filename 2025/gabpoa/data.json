@@ -24,8 +24,16 @@
         "Address": "PUCRS",
         "Description_Lat_Lon": "The Lat and Lon location for where you want your community pin on the Global Azure Community Map (example 47.6457554, -122.1299952).",
         "Latitude": -29.996205262516572,
-        "Longitude": -51.20125468718969
+        "Longitude": -51.20125468718969,
+        "StartDate": "",
+        "EndDate": ""
       }
-    ]
+    ],
+    "SessionizeApiId": "",
+    "EventPage": "index.md",
+    "SponsorsPage": "sponsors.md",
+    "SamApp": {
+      "AdditionalHosts": []
+    }
   }
 }
