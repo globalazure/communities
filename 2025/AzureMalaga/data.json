@@ -1,0 +1,35 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "jecaestevez"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Azure Malaga",
+    "Country": "Spain",
+    "Url": "https://AzureMalaga.com",
+    "SessionizeApiId": "qxkryrcl",
+    "SessionizeEventName": "https://sessionize.com/global-azure-2025-malaga",
+    "Description_SessionizeApiId": null,
+    "EventPage": "index.md",
+    "SponsorsPage": "sponsors.md",
+    "Logo": {
+      "Description": "Community logo is a .png file 500X500px named {foldername}.png.",
+      "File": "azureMalaga.png"
+    },
+    "SamApp": {
+      "AdditionalHosts": []
+    },
+    "Locations": [
+      {
+        "Name": "Polo Digital ",
+        "StartDate": "2025-05-10",
+        "EndDate": "2025-05-10",
+        "Address": "Polo Digital Málaga",
+        "Latitude": 36.69879,
+        "Longitude": -4.439285
+      }
+    ]
+  }
+}
