@@ -2,7 +2,7 @@
   "ValidMaintainers": {
     "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
     "GitHubHandles": [
-      "",
+      "MrKruge",
       "",
       ""
     ]
@@ -24,8 +24,8 @@
         "Name": "Schuberg Philis",
         "Address": "Boeing Avenue 271 · Schiphol-Rijk",
         "Description_Lat_Lon": "The Lat and Lon location for where you want your community pin on the Global Azure Community Map (example 47.6457554, -122.1299952).",
-        "Latitude": {52.27596990842387},
-        "Longitude": {4.750733372767177}
+        "Latitude": 52.27596990842387,
+        "Longitude": 4.750733372767177
       }
     ]
   }
