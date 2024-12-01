@@ -12,7 +12,7 @@
     "Name": "Greek MVP Community",
     "Country": "Greece",
     "Url": "https://www.cloudlogic.gr",
-    "SessionizeApiId": "igb6icil",
+    "SessionizeApiId": "7jalzo8n",
     "SessionizeEventName": "Global Azure Greece 2025",
     "Description_SessionizeApiId": "Global Azure",
     "EventPage": "index.md",
@@ -27,7 +27,7 @@
     "Locations": [
       {
         "Name": "Athens, Greece",
-        "StartDate": "2025-05-08",
+        "StartDate": "2025-05-10",
         "EndDate": "2025-05-10",
         "Address": "Athens, Greece",
         "Latitude": 37.98381,
