@@ -1,0 +1,38 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "passadis",
+      "mmoustaka",
+      "george-markou",
+      "cyb3rmik3"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Greek MVP Community",
+    "Country": "Greece",
+    "Url": "https://cloudlogic.gr/globalaz.html",
+    "SessionizeApiId": "7jalzo8n",
+    "SessionizeEventName": "Global Azure Greece 2025",
+    "Description_SessionizeApiId": "Global Greece",
+    "EventPage": "index.md",
+    "SponsorsPage": "sponsors.md",
+    "Logo": {
+      "Description": "Community logo is a .png file 500X500px in this folder!",
+      "File": "LogoGlobalAzure.png"
+    },
+    "SamApp": {
+      "AdditionalHosts": [""]
+    },
+    "Locations": [
+      {
+        "Name": "Athens, Greece",
+        "StartDate": "2025-05-10",
+        "EndDate": "2025-05-10",
+        "Address": "Athens, Greece",
+        "Latitude": 37.98381,
+        "Longitude": 23.727539
+      }
+    ]
+  }
+}
