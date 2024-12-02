@@ -11,9 +11,13 @@ The Call for Speakers is coming soon. Submit your sessions early to secure your 
 Event details:
 
 📅 Date: May 8th, 2025
+
 🏠 Location: Schuberg Philis https://maps.app.goo.gl/h5MtzPcgoUzBet2y7
+
 🎫 Get your FREE ticket: coming soon
+
 🎙️ Call for Speakers: coming soon 
+
 💶 Sponsors: We’re on the lookout for sponsors! Reach out to the organizing team at Azure User Group Netherlands
 If you have any questions, feedback, or thoughts, please get in touch with the community organizers at:
 
