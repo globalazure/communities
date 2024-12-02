@@ -1,4 +1,4 @@
-# Community title
+# Azure Heroes Netherlands
 
 ![Azure Heroes Netherlands](azureheroes.png)
 
