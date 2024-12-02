@@ -11,11 +11,11 @@
     "Name": "Azure Heroes Netherlands",
     "Country": "Netherlands",
     "Url": "https://www.meetup.com/azure-heroes-netherlands/?eventOrigin=event_home_page",
-    "Description_SessionizeApiId": "If you have configured your Sessionize correctly then browsing to this url (replacing {Your sessionize event Id} with your event sessionize id) will return valid json: https://sessionize.com/api/v2/{Your sessionize event Id}/view/Sessions",
-    "SessionizeApiId": "{Your sessionize event Id}",
-    "SessionizeEventName": "{Your sessionize event name (or complete URL to the public Sessionize C4P, i.e. https://sessionize.com/global-azure or just global-azure)}",
+    "Description_SessionizeApiId": null,
+    "SessionizeApiId": null,
+    "SessionizeEventName": null,
     "Logo": {
-      "Description": "Community logo is a .png file 500X500px in this folder!",
+      "Description": "Azure Heroes Logo,
       "File": "azureheroes.png"
     },
     "Locations": [
