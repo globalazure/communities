@@ -1,0 +1,39 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "digomatos",
+      "",
+      ""
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Global Azure POA",
+    "Country": "Brazil",
+    "Url": "http://gabpoa.azurewebsites.net/",
+    "Description_SessionizeApiId": null,
+    "SessionizeEventName": null,
+    "Logo": {
+      "Description": "Community logo is a .png file 500X500px in this folder!",
+      "File": "gabpoa.png"
+    },
+    "Locations": [
+      {
+        "Description": "Each location where your community will be running a Global Azure event.",
+        "Name": "Porto Alegre",
+        "Address": "PUCRS",
+        "Description_Lat_Lon": "The Lat and Lon location for where you want your community pin on the Global Azure Community Map (example 47.6457554, -122.1299952).",
+        "Latitude": -29.996205262516572,
+        "Longitude": -51.20125468718969,
+        "StartDate": "",
+        "EndDate": ""
+      }
+    ],
+    "SessionizeApiId": "",
+    "EventPage": "index.md",
+    "SponsorsPage": "sponsors.md",
+    "SamApp": {
+      "AdditionalHosts": []
+    }
+  }
+}
