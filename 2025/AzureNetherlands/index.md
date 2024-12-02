@@ -1,6 +1,6 @@
 # Community title
 
-![Community title](azureheroes.png)
+![Azure Heroes Netherlands](azureheroes.png)
 
 We're excited to be hosting an event at [Azure Heroes Meetup Page](https://www.meetup.com/azure-heroes-netherlands/?eventOrigin=event_home_page)!
 
