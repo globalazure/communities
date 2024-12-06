@@ -1,0 +1,32 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "massimoc",
+      "stephaneey"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "APIM Hotrod",
+    "Country": "Belgium",
+    "Url": "https://apimhotrod.cloud",
+    "SessionizeApiId": "05pto3m2",
+    "SessionizeEventName": "https://sessionize.com/global-azure-2025-gent/",
+	"Description_SessionizeApiId": null,
+    "EventPage": "index.md",
+    "Logo": {
+      "Description": "Community logo is a .png file 500X500px in this folder!",
+      "File": "ApimHotrod-logo.png"
+    },
+    "Locations": [
+      {
+        "Name": "Codit Gent",
+        "StartDate": "2025-05-08",
+        "EndDate": "2025-05-08",
+        "Address": "Gaston Crommenlaan 14, bus 0301, 9050 Ghent",
+        "Latitude": 51.036799,
+        "Longitude": 3.735371
+      }
+    ]
+  }
+}
