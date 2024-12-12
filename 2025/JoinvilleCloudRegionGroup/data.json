@@ -1,0 +1,31 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "waltercoan",
+      "rdornel"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Azure Joinville",
+    "Country": "Brazil",
+    "Url": "linkedin.com/company/joinville-cloud-region",
+    "Description_SessionizeApiId": "",
+    "SessionizeApiId": "",
+    "SessionizeEventName": "",
+    "Logo": {
+      "Description": "Community logo is a .png file 500X500px in this folder!",
+      "File": "logo-joinville-cloud-region-group-500-500.png"
+    },
+    "Locations": [
+      {
+        "Description": "A definir.",
+        "Name": "A definir.",
+        "Address": "A definir.",
+        "Description_Lat_Lon": "Joinville / Santa Catarina / Brasil",
+        "Latitude": -26.303793,
+        "Longitude": -48.846531
+      }
+    ]
+  }
+}
