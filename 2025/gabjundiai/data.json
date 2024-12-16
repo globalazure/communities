@@ -1,0 +1,36 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "ebordim",
+      "osanam-giordane"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Azure Brasil",
+    "Country": "Brazil",
+    "Url": "https://globalazure2025.cloudweek.com.br/",
+    "SessionizeApiId": "",
+    "SessionizeEventName": "",
+    "Description_SessionizeApiId": "If you have configured your Sessionize correctly then browsing to this url (replacing {Your sessionize event Id} with your event sessionize id) will return valid json: https://sessionize.com/api/v2/{Your sessionize event Id}/view/Sessions",
+    "EventPage": "index.md",
+    "SponsorsPage": "sponsors.md",
+    "Logo": {
+      "Description": "Community logo is a .png file 500X500px in this folder!",
+      "File": "gabjundiai.png"
+    },
+    "SamApp": {
+      "AdditionalHosts": []
+    },
+    "Locations": [
+      {
+        "Name": "Jundiaí",
+        "StartDate": "2024-04-19",
+        "EndDate": "2024-04-19",
+        "Address": "Online",
+        "Latitude": -23.157064,
+        "Longitude": -46.886784
+      }
+    ]
+  }
+}
